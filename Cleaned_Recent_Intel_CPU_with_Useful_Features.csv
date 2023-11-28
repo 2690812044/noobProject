@@ -1,0 +1,1059 @@
+,Product_Collection,Vertical_Segment,Processor_Number,Status,Launch_Year,Lithography(nm),Recommended_Customer_Price(USD),nb_of_Cores,nb_of_Threads,Processor_Base_Frequency(GHz),Cache(MB),TDP(W),Max_Memory_Bandwidth(GB/s),Instruction_Set(bit),Intel_Hyper_Threading_Technology_,Intel_Virtualization_Technology_VTx_,Graphics_Base_Frequency(MHz)
+0,7th Generation Intel® Core™ i7 Processors,Mobile,i7-7Y75,Launched,2016,14.0,393.0,2.0,4.0,1.3,4.0,4.5,29.8,64,1,1,300
+1,8th Generation Intel® Core™ i5 Processors,Mobile,i5-8250U,Launched,2017,14.0,297.0,4.0,8.0,1.6,6.0,15.0,34.1,64,1,1,300
+2,8th Generation Intel® Core™ i7 Processors,Mobile,i7-8550U,Launched,2017,14.0,409.0,4.0,8.0,1.8,8.0,15.0,34.1,64,1,1,300
+3,7th Generation Intel® Core™ i5 Processors,Mobile,i5-7Y57,Launched,2017,14.0,281.0,2.0,4.0,1.2,4.0,4.5,29.8,64,1,1,300
+4,Intel® Celeron® Processor 3000 Series,Mobile,3205U,Launched,2015,14.0,107.0,2.0,2.0,1.5,2.0,15.0,25.6,64,0,1,100
+5,Intel® Celeron® Processor N Series,Mobile,N2805,Launched,2013,22.0,60.85,2.0,2.0,1.46,1.0,4.3,9.587800000000003,64,0,1,313
+6,Intel® Celeron® Processor J Series,Desktop,J1750,Launched,2013,22.0,75.78,2.0,2.0,2.41,1.0,10.0,21.59279999999998,64,0,1,688
+7,Intel® Celeron® Processor G Series,Desktop,G1610,Launched,2013,22.0,42.0,2.0,2.0,2.6,2.0,55.0,21.0,64,0,1,650
+8,Intel® Pentium® Processor 2000 Series,Mobile,2020M,Launched,2012,22.0,134.0,2.0,2.0,2.4,2.0,35.0,25.6,64,0,1,650
+9,Intel® Pentium® Processor 3000 Series,Mobile,3825U,Launched,2015,14.0,161.0,2.0,4.0,1.9,2.0,15.0,25.6,64,1,1,300
+10,Intel® Pentium® Processor 4000 Series,Mobile,4405U,Launched,2015,14.0,161.0,2.0,4.0,2.1,2.0,15.0,34.1,64,1,1,300
+11,Intel® Pentium® Processor N Series,Mobile,N3710,Launched,2016,14.0,161.0,4.0,4.0,1.6,2.0,6.0,30.839000000000013,64,0,1,400
+12,Intel® Quark™ SE C1000 Microcontroller Series,Embedded,C1000,Launched,2015,26.44,7.75,1.0,1.0,0.032,0.0078125,1.5350000000000015,2.2669999999999964,32,0,0,0
+13,Intel® Pentium® Processor J Series,Desktop,J2850,Launched,2013,22.0,94.0,4.0,4.0,2.41,2.0,10.0,22.289199999999987,64,0,1,688
+14,Intel® Pentium® Processor J Series,Desktop,J2900,Launched,2013,22.0,94.0,4.0,4.0,2.41,2.0,10.0,21.3,64,0,1,688
+15,Intel® Pentium® Processor J Series,Desktop,J3710,Launched,2016,14.0,128.08,4.0,4.0,1.6,2.0,6.5,32.30099999999999,64,0,1,400
+16,Intel® Pentium® Processor J Series,Desktop,J4205,Launched,2016,14.0,161.0,4.0,4.0,1.5,2.0,10.0,30.818999999999974,64,0,1,250
+17,Intel® Pentium® Processor N Series,Mobile,N3700,Launched,2015,14.0,161.0,4.0,4.0,1.6,2.0,6.0,30.254999999999974,64,0,1,400
+18,Intel® Pentium® Processor N Series,Mobile,N3510,Launched,2013,22.0,127.03,4.0,4.0,2.0,2.0,7.5,20.975599999999982,64,0,1,313
+19,Intel® Pentium® Processor N Series,Mobile,N3520,Launched,2013,22.0,161.0,4.0,4.0,2.17,2.0,7.5,20.975799999999982,64,0,1,313
+20,Intel® Pentium® Processor N Series,Mobile,N3530,Launched,2014,22.0,161.0,4.0,4.0,2.16,2.0,7.5,20.977599999999985,64,0,1,313
+21,Intel® Pentium® Processor N Series,Mobile,N3540,Launched,2014,22.0,161.0,4.0,4.0,2.16,2.0,7.5,21.32,64,0,1,313
+22,Intel® Pentium® Processor N Series,Mobile,N4200,Launched,2016,14.0,161.0,4.0,4.0,1.1,2.0,6.0,30.024000000000022,64,0,1,200
+23,Intel® Pentium® Processor 4000 Series,Mobile,4405Y,Launched,2015,14.0,161.0,2.0,4.0,1.5,2.0,6.0,29.8,64,1,1,300
+24,Intel® Pentium® Processor 4000 Series,Mobile,4415Y,Launched,2017,14.0,161.0,2.0,4.0,1.6,2.0,6.0,29.8,64,1,1,300
+25,Intel® Pentium® Processor 4000 Series,Mobile,4410Y,Launched,2017,14.0,161.0,2.0,4.0,1.5,2.0,6.0,29.8,64,1,1,300
+26,Intel® Pentium® Processor 4000 Series,Mobile,4415U,Launched,2017,14.0,161.0,2.0,4.0,2.3,2.0,15.0,34.1,64,1,1,300
+27,Intel® Pentium® Processor 3000 Series,Mobile,3805U,Launched,2015,14.0,161.0,2.0,2.0,1.9,2.0,15.0,25.6,64,0,1,100
+28,Intel® Pentium® Processor 3000 Series,Mobile,3561Y,Launched,2013,22.0,161.0,2.0,2.0,1.2,2.0,11.5,25.6,64,0,1,200
+29,Intel® Pentium® Processor 3000 Series,Mobile,3560M,Launched,2014,22.0,134.0,2.0,2.0,2.4,2.0,37.0,25.6,64,0,1,400
+30,Intel® Pentium® Processor 3000 Series,Mobile,3560Y,Launched,2013,22.0,129.48,2.0,2.0,1.2,2.0,11.5,25.6,64,0,1,200
+31,Intel® Pentium® Processor 3000 Series,Mobile,3558U,Launched,2013,22.0,161.0,2.0,2.0,1.7,2.0,15.0,25.6,64,0,1,200
+32,Intel® Pentium® Processor 3000 Series,Mobile,3556U,Launched,2013,22.0,140.23,2.0,2.0,1.7,2.0,15.0,25.6,64,0,1,200
+33,Intel® Pentium® Processor 3000 Series,Mobile,3550M,Launched,2013,22.0,134.0,2.0,2.0,2.3,2.0,37.0,25.6,64,0,1,400
+34,Intel® Pentium® Processor 2000 Series,Mobile,2117U,Launched,2012,22.0,134.0,2.0,2.0,1.8,2.0,17.0,25.6,64,0,1,350
+35,Intel® Pentium® Processor 2000 Series,Mobile,2030M,Launched,2013,22.0,134.0,2.0,2.0,2.5,2.0,35.0,25.6,64,0,1,650
+36,Intel® Pentium® Processor 2000 Series,Mobile,2127U,Launched,2013,22.0,134.0,2.0,2.0,1.9,2.0,17.0,25.6,64,0,1,350
+37,Intel® Pentium® Processor 2000 Series,Mobile,2129Y,Launched,2013,22.0,101.46,2.0,2.0,1.1,2.0,10.0,25.6,64,0,1,350
+38,Intel® Pentium® Processor 1000 Series,Mobile,A1020,Launched,2016,22.0,86.0,4.0,4.0,2.41,2.0,10.0,21.3,64,0,1,688
+39,Intel® Pentium® Processor 1000 Series,Embedded,1405V2,Launched,2014,22.0,156.0,2.0,2.0,1.4,6.0,40.0,38.4,64,1,1,0
+40,Legacy Intel® Pentium® Processor,Embedded,B915C,Launched,2012,32.0,168.0,2.0,4.0,1.5,3.0,15.0,21.3,64,1,1,0
+41,Legacy Intel® Pentium® Processor,Embedded,B925C,Launched,2013,28.8,287.69,2.0,4.0,2.0,4.0,15.0,21.128999999999976,64,1,1,0
+42,Legacy Intel® Pentium® Processor,Desktop,G850,Launched,2011,32.0,71.0,2.0,2.0,2.9,3.0,65.0,21.0,64,0,1,850
+43,Legacy Intel® Pentium® Processor,Mobile,B940,Launched,2011,32.0,72.38,2.0,2.0,2.0,2.0,35.0,21.3,64,0,0,650
+44,Legacy Intel® Pentium® Processor,Mobile,B960,Launched,2011,32.0,70.42,2.0,2.0,2.2,2.0,35.0,21.3,64,0,0,650
+45,Legacy Intel® Pentium® Processor,Mobile,957,Launched,2011,32.0,117.25,2.0,2.0,1.2,2.0,17.0,21.3,64,0,0,350
+46,Legacy Intel® Pentium® Processor,Mobile,B970,Launched,2012,32.0,79.03,2.0,2.0,2.3,2.0,35.0,21.3,64,0,0,650
+47,Legacy Intel® Pentium® Processor,Mobile,967,Launched,2011,32.0,112.23,2.0,2.0,1.3,2.0,17.0,21.3,64,0,0,350
+48,Legacy Intel® Pentium® Processor,Mobile,B980,Launched,2012,32.0,89.09,2.0,2.0,2.4,2.0,35.0,21.3,64,0,0,650
+49,Legacy Intel® Pentium® Processor,Mobile,977,Launched,2012,32.0,102.36,2.0,2.0,1.4,2.0,17.0,21.3,64,0,0,350
+50,Legacy Intel® Pentium® Processor,Mobile,987,Launched,2012,32.0,85.14,2.0,2.0,1.5,2.0,17.0,21.3,64,0,0,350
+51,Legacy Intel® Pentium® Processor,Mobile,997,Launched,2012,32.0,87.11,2.0,2.0,1.6,2.0,17.0,21.3,64,0,0,350
+52,Intel® Celeron® Processor G Series,Desktop,G1610T,Launched,2013,22.0,42.0,2.0,2.0,2.3,2.0,35.0,21.0,64,0,1,650
+53,Intel® Celeron® Processor G Series,Desktop,G1620,Launched,2013,22.0,41.0,2.0,2.0,2.7,2.0,55.0,21.0,64,0,1,650
+54,Intel® Celeron® Processor G Series,Desktop,G1620T,Launched,2013,22.0,42.0,2.0,2.0,2.4,2.0,35.0,21.0,64,0,1,650
+55,Intel® Celeron® Processor G Series,Desktop,G1820,Launched,2014,22.0,42.0,2.0,2.0,2.7,2.0,53.0,21.3,64,0,1,350
+56,Intel® Celeron® Processor G Series,Embedded,G1820TE,Launched,2014,22.0,42.0,2.0,2.0,2.2,2.0,35.0,21.3,64,0,1,350
+57,Intel® Celeron® Processor G Series,Desktop,G3900,Launched,2015,14.0,42.0,2.0,2.0,2.8,2.0,51.0,34.1,64,0,1,350
+58,Intel® Celeron® Processor G Series,Desktop,G3900T,Launched,2015,14.0,80.04,2.0,2.0,2.6,2.0,35.0,34.1,64,0,1,350
+59,Intel® Celeron® Processor G Series,Embedded,G3900E,Launched,2016,14.0,107.0,2.0,2.0,2.4,2.0,35.0,34.1,64,0,1,350
+60,Intel® Celeron® Processor G Series,Embedded,G3900TE,Launched,2015,14.0,42.0,2.0,2.0,2.3,2.0,35.0,34.1,64,0,1,350
+61,Intel® Celeron® Processor G Series,Desktop,G3920,Launched,2015,14.0,52.0,2.0,2.0,2.9,2.0,51.0,34.1,64,0,1,350
+62,Intel® Celeron® Processor G Series,Embedded,G3902E,Launched,2016,14.0,107.0,2.0,2.0,1.6,2.0,25.0,34.1,64,0,1,350
+63,Intel® Celeron® Processor G Series,Desktop,G3930,Launched,2017,14.0,42.0,2.0,2.0,2.9,2.0,51.0,33.806999999999945,64,0,1,350
+64,Intel® Celeron® Processor G Series,Desktop,G3930E,Launched,2017,14.0,42.0,2.0,2.0,2.9,2.0,54.0,33.806999999999945,64,0,1,350
+65,Intel® Celeron® Processor G Series,Desktop,G3930T,Launched,2017,14.0,42.0,2.0,2.0,2.7,2.0,35.0,33.806999999999945,64,0,1,350
+66,Intel® Celeron® Processor G Series,Desktop,G3930TE,Launched,2017,14.0,42.0,2.0,2.0,2.7,2.0,35.0,33.806999999999945,64,0,1,350
+67,Intel® Celeron® Processor G Series,Desktop,G3950,Launched,2017,14.0,52.0,2.0,2.0,3.0,2.0,51.0,33.891999999999946,64,0,1,350
+68,Intel® Celeron® Processor J Series,Desktop,J1800,Launched,2013,22.0,72.0,2.0,2.0,2.41,1.0,10.0,21.21919999999998,64,0,1,688
+69,Intel® Celeron® Processor J Series,Desktop,J1900,Launched,2013,22.0,82.0,4.0,4.0,2.0,2.0,10.0,22.462599999999988,64,0,1,688
+70,Intel® Celeron® Processor J Series,Desktop,J1850,Launched,2013,22.0,80.87,4.0,4.0,2.0,2.0,10.0,22.462599999999988,64,0,1,688
+71,Intel® Celeron® Processor J Series,Desktop,J3060,Launched,2016,14.0,107.0,2.0,2.0,1.6,2.0,6.0,31.351000000000003,64,0,1,320
+72,Intel® Celeron® Processor J Series,Desktop,J3160,Launched,2016,14.0,130.0,4.0,4.0,1.6,2.0,6.0,30.839000000000013,64,0,1,320
+73,Intel® Celeron® Processor J Series,Desktop,J3355,Launched,2016,14.0,107.0,2.0,2.0,2.0,2.0,10.0,32.82499999999995,64,0,1,250
+74,Intel® Celeron® Processor J Series,Desktop,J3455,Launched,2016,14.0,107.0,4.0,4.0,1.5,2.0,10.0,30.90899999999997,64,0,1,250
+75,Intel® Celeron® Processor N Series,Mobile,N2806,Launched,2013,22.0,107.0,2.0,2.0,1.6,1.0,4.5,13.709200000000004,64,0,1,313
+76,Intel® Celeron® Processor N Series,Mobile,N2807,Launched,2014,22.0,107.0,2.0,2.0,1.58,1.0,4.3,13.535000000000002,64,0,1,313
+77,Intel® Celeron® Processor N Series,Mobile,N2808,Launched,2014,22.0,107.0,2.0,2.0,1.58,1.0,4.5,10.66,64,0,1,311
+78,Intel® Celeron® Processor N Series,Mobile,N2810,Launched,2013,22.0,75.67,2.0,2.0,2.0,1.0,7.5,19.63459999999998,64,0,1,313
+79,Intel® Celeron® Processor N Series,Mobile,N2815,Launched,2013,22.0,63.72,2.0,2.0,1.86,1.0,7.5,15.809,64,0,1,313
+80,Intel® Celeron® Processor N Series,Mobile,N2820,Launched,2013,22.0,85.32,2.0,2.0,2.13,1.0,7.5,19.995999999999984,64,0,1,313
+81,Intel® Celeron® Processor N Series,Mobile,N2830,Launched,2014,22.0,107.0,2.0,2.0,2.16,1.0,7.5,20.339799999999983,64,0,1,313
+82,Intel® Celeron® Processor N Series,Mobile,N2840,Launched,2014,22.0,107.0,2.0,2.0,2.16,1.0,7.5,21.32,64,0,1,311
+83,Intel® Celeron® Processor N Series,Mobile,N2910,Launched,2013,22.0,103.4,4.0,4.0,1.6,2.0,7.5,17.762799999999988,64,0,1,313
+84,Intel® Celeron® Processor N Series,Mobile,N2930,Launched,2014,22.0,107.0,4.0,4.0,1.83,2.0,7.5,20.07999999999998,64,0,1,313
+85,Intel® Celeron® Processor N Series,Mobile,N2940,Launched,2014,22.0,107.0,4.0,4.0,1.83,2.0,7.5,21.32,64,0,1,313
+86,Intel® Celeron® Processor N Series,Mobile,N3450,Launched,2016,14.0,107.0,4.0,4.0,1.1,2.0,6.0,30.287000000000013,64,0,1,200
+87,Intel® Celeron® Processor N Series,Mobile,N3350,Launched,2016,14.0,107.0,2.0,2.0,1.1,2.0,6.0,30.45500000000001,64,0,1,200
+88,Intel® Celeron® Processor N Series,Mobile,N3160,Launched,2016,14.0,107.0,4.0,4.0,1.6,2.0,6.0,31.226,64,0,1,320
+89,Intel® Celeron® Processor N Series,Mobile,N3150,Launched,2015,14.0,107.0,4.0,4.0,1.6,2.0,6.0,30.64199999999997,64,0,1,320
+90,Intel® Celeron® Processor N Series,Mobile,N3060,Launched,2016,14.0,107.0,2.0,2.0,1.6,2.0,6.0,31.351000000000003,64,0,1,320
+91,Intel® Celeron® Processor N Series,Mobile,N3050,Launched,2015,14.0,107.0,2.0,2.0,1.6,2.0,6.0,31.620999999999967,64,0,1,320
+92,Intel® Celeron® Processor N Series,Mobile,N3010,Launched,2016,14.0,107.0,2.0,2.0,1.04,2.0,4.0,30.369000000000007,64,0,1,320
+93,Intel® Celeron® Processor N Series,Mobile,N3000,Launched,2015,14.0,107.0,2.0,2.0,1.04,2.0,4.0,28.59899999999998,64,0,1,320
+94,Intel® Celeron® Processor 3000 Series,Mobile,3215U,Launched,2015,14.0,107.0,2.0,2.0,1.7,2.0,15.0,25.6,64,0,1,300
+95,Intel® Celeron® Processor 3000 Series,Mobile,3755U,Launched,2015,14.0,107.0,2.0,2.0,1.7,2.0,15.0,25.6,64,0,1,100
+96,Intel® Celeron® Processor 3000 Series,Mobile,3765U,Launched,2015,14.0,107.0,2.0,2.0,1.9,2.0,15.0,25.6,64,0,1,300
+97,Intel® Celeron® Processor 3000 Series,Mobile,3855U,Launched,2015,14.0,107.0,2.0,2.0,1.6,2.0,15.0,34.1,64,0,1,300
+98,Intel® Celeron® Processor 3000 Series,Mobile,3955U,Launched,2015,14.0,107.0,2.0,2.0,2.0,2.0,15.0,34.1,64,0,1,300
+99,Intel® Celeron® Processor 3000 Series,Mobile,3865U,Launched,2017,14.0,107.0,2.0,2.0,1.8,2.0,15.0,34.1,64,0,1,300
+100,Intel® Celeron® Processor 3000 Series,Mobile,3965Y,Launched,2017,14.0,122.45,2.0,2.0,1.5,2.0,6.0,29.8,64,0,1,300
+101,Intel® Celeron® Processor 3000 Series,Mobile,3965U,Launched,2017,14.0,107.0,2.0,2.0,2.2,2.0,15.0,34.1,64,0,1,300
+102,7th Generation Intel® Core™ i5 Processors,Mobile,i5-7Y54,Launched,2016,14.0,281.0,2.0,4.0,1.2,4.0,4.5,29.8,64,1,1,300
+103,7th Generation Intel® Core™ i5 Processors,Mobile,i5-7200U,Launched,2016,14.0,281.0,2.0,4.0,2.5,3.0,15.0,34.1,64,1,1,300
+104,7th Generation Intel® Core™ i5 Processors,Mobile,i5-7260U,Launched,2017,14.0,304.0,2.0,4.0,2.2,4.0,15.0,34.1,64,1,1,300
+105,7th Generation Intel® Core™ i5 Processors,Mobile,i5-7267U,Launched,2017,14.0,326.46,2.0,4.0,3.1,4.0,28.0,34.1,64,1,1,300
+106,7th Generation Intel® Core™ i5 Processors,Mobile,i5-7287U,Launched,2017,14.0,303.52,2.0,4.0,3.3,4.0,28.0,34.1,64,1,1,300
+107,7th Generation Intel® Core™ i5 Processors,Mobile,i5-7300HQ,Launched,2017,14.0,250.0,4.0,4.0,2.5,6.0,45.0,34.1,64,0,1,350
+108,7th Generation Intel® Core™ i5 Processors,Mobile,i5-7300U,Launched,2017,14.0,281.0,2.0,4.0,2.6,3.0,15.0,34.1,64,1,1,300
+109,7th Generation Intel® Core™ i5 Processors,Mobile,i5-7360U,Launched,2017,14.0,304.0,2.0,4.0,2.3,4.0,15.0,34.1,64,1,1,300
+110,7th Generation Intel® Core™ i5 Processors,Desktop,i5-7400,Launched,2017,14.0,182.0,4.0,4.0,3.0,6.0,65.0,36.029599999999974,64,0,1,350
+111,7th Generation Intel® Core™ i5 Processors,Desktop,i5-7400T,Launched,2017,14.0,184.5,4.0,4.0,2.4,6.0,35.0,34.09999999999994,64,0,1,350
+112,7th Generation Intel® Core™ i5 Processors,Embedded,i5-7440EQ,Launched,2017,14.0,250.0,4.0,4.0,2.9,6.0,45.0,34.1,64,0,1,350
+113,7th Generation Intel® Core™ i5 Processors,Mobile,i5-7440HQ,Launched,2017,14.0,249.0,4.0,4.0,2.8,6.0,45.0,34.1,64,0,1,350
+114,7th Generation Intel® Core™ i5 Processors,Embedded,i5-7442EQ,Launched,2017,14.0,250.0,4.0,4.0,2.1,6.0,25.0,34.1,64,0,1,350
+115,7th Generation Intel® Core™ i5 Processors,Desktop,i5-7500T,Launched,2017,14.0,197.0,4.0,4.0,2.7,6.0,35.0,34.09999999999994,64,0,1,350
+116,7th Generation Intel® Core™ i5 Processors,Desktop,i5-7500,Launched,2017,14.0,197.0,4.0,4.0,3.4,6.0,65.0,36.071999999999974,64,0,1,350
+117,7th Generation Intel® Core™ i5 Processors,Desktop,i5-7600,Launched,2017,14.0,218.5,4.0,4.0,3.5,6.0,65.0,36.13999999999998,64,0,1,350
+118,7th Generation Intel® Core™ i5 Processors,Desktop,i5-7600T,Launched,2017,14.0,218.5,4.0,4.0,2.8,6.0,35.0,34.09999999999994,64,0,1,350
+119,7th Generation Intel® Core™ i5 Processors,Desktop,i5-7600K,Launched,2017,14.0,242.5,4.0,4.0,3.8,6.0,91.0,36.123199999999976,64,0,1,350
+120,Intel® Core™ X-series Processors,Mobile,i7-3920XM,Launched,2012,22.0,1096.0,4.0,8.0,2.9,8.0,55.0,25.6,64,1,1,650
+121,Intel® Core™ X-series Processors,Mobile,i7-3940XM,Launched,2012,22.0,1096.0,4.0,8.0,3.0,8.0,55.0,25.6,64,1,1,650
+122,Intel® Core™ X-series Processors,Mobile,i7-4930MX,Launched,2013,22.0,727.03,4.0,8.0,3.0,8.0,57.0,25.6,64,1,1,400
+123,Intel® Core™ X-series Processors,Mobile,i7-4940MX,Launched,2014,22.0,554.63,4.0,8.0,3.1,8.0,57.0,25.6,64,1,1,400
+124,Intel® Core™ X-series Processors,Desktop,i7-5820K,Launched,2014,22.0,392.5,6.0,12.0,3.3,15.0,140.0,68.0,64,1,1,0
+125,Intel® Core™ X-series Processors,Desktop,i7-5930K,Launched,2014,22.0,588.5,6.0,12.0,3.5,15.0,140.0,68.0,64,1,1,0
+126,Intel® Core™ X-series Processors,Desktop,i7-5960X,Launched,2014,22.0,1029.0,8.0,16.0,3.0,20.0,140.0,68.0,64,1,1,0
+127,Intel® Core™ X-series Processors,Desktop,i7-6800K,Launched,2016,14.0,437.5,6.0,12.0,3.4,15.0,140.0,77.13400000000013,64,1,1,0
+128,Intel® Core™ X-series Processors,Desktop,i7-6850K,Launched,2016,14.0,622.5,6.0,12.0,3.6,15.0,140.0,77.30400000000013,64,1,1,0
+129,Intel® Core™ X-series Processors,Desktop,i7-6900K,Launched,2016,14.0,1099.0,8.0,16.0,3.2,20.0,140.0,77.30100000000012,64,1,1,0
+130,Intel® Core™ X-series Processors,Desktop,i7-6950X,Launched,2016,14.0,1733.0,10.0,20.0,3.0,25.0,140.0,76.70000000000012,64,1,1,0
+131,Intel® Core™ X-series Processors,Desktop,i5-7640X,Launched,2017,14.0,242.5,4.0,4.0,4.0,6.0,112.0,38.57819999999998,64,0,1,0
+132,Intel® Core™ X-series Processors,Desktop,i7-7740X,Launched,2017,14.0,344.5,4.0,8.0,4.3,8.0,112.0,39.44499999999999,64,1,1,0
+133,Intel® Core™ X-series Processors,Desktop,i7-7800X,Launched,2017,14.0,386.0,6.0,12.0,3.5,8.25,140.0,84.1420000000001,64,1,1,0
+134,Intel® Core™ X-series Processors,Desktop,i9-7900X,Launched,2017,14.0,994.0,10.0,20.0,3.3,13.75,140.0,84.5350000000001,64,1,1,0
+135,Intel® Core™ X-series Processors,Desktop,i7-7820X,Launched,2017,14.0,594.0,8.0,16.0,3.6,11.0,140.0,84.4500000000001,64,1,1,0
+136,Intel® Core™ X-series Processors,Desktop,i9-7920X,Launched,2017,14.0,1194.0,12.0,24.0,2.9,16.5,140.0,84.5350000000001,64,1,1,0
+137,Intel® Core™ X-series Processors,Desktop,i9-7940X,Announced,2017,14.0,2246.06,14.0,28.0,3.1,19.25,165.0,82.6230000000001,64,1,1,0
+138,Intel® Core™ X-series Processors,Desktop,i9-7960X,Announced,2017,14.18,3389.07,16.0,32.0,2.8,22.0,165.0,83.35200000000007,64,1,1,0
+139,Intel® Core™ X-series Processors,Desktop,i9-7980XE,Announced,2017,14.08,3414.32,18.0,36.0,2.6,24.75,165.0,83.60400000000008,64,1,1,0
+140,8th Generation Intel® Core™ i7 Processors,Mobile,i7-8650U,Launched,2017,14.0,409.0,4.0,8.0,1.9,8.0,15.0,34.1,64,1,1,300
+141,8th Generation Intel® Core™ i5 Processors,Mobile,i5-8350U,Launched,2017,14.0,297.0,4.0,8.0,1.7,6.0,15.0,34.1,64,1,1,300
+142,7th Generation Intel® Core™ i7 Processors,Mobile,i7-7500U,Launched,2016,14.0,393.0,2.0,4.0,2.7,4.0,15.0,34.1,64,1,1,300
+143,7th Generation Intel® Core™ i7 Processors,Mobile,i7-7560U,Launched,2017,14.0,415.0,2.0,4.0,2.4,4.0,15.0,34.1,64,1,1,300
+144,7th Generation Intel® Core™ i7 Processors,Mobile,i7-7567U,Launched,2017,14.0,301.9,2.0,4.0,3.5,4.0,28.0,34.1,64,1,1,300
+145,7th Generation Intel® Core™ i7 Processors,Mobile,i7-7600U,Launched,2017,14.0,393.0,2.0,4.0,2.8,4.0,15.0,34.1,64,1,1,300
+146,7th Generation Intel® Core™ i7 Processors,Mobile,i7-7660U,Launched,2017,14.0,415.0,2.0,4.0,2.5,4.0,15.0,34.1,64,1,1,300
+147,7th Generation Intel® Core™ i7 Processors,Desktop,i7-7700T,Launched,2017,14.0,307.5,4.0,8.0,2.9,8.0,35.0,34.09999999999994,64,1,1,350
+148,7th Generation Intel® Core™ i7 Processors,Desktop,i7-7700K,Launched,2017,14.0,344.5,4.0,8.0,4.2,8.0,91.0,37.05799999999999,64,1,1,350
+149,7th Generation Intel® Core™ i7 Processors,Desktop,i7-7700,Launched,2017,14.0,307.5,4.0,8.0,3.6,8.0,65.0,36.54799999999998,64,1,1,350
+150,7th Generation Intel® Core™ i7 Processors,Mobile,i7-7700HQ,Launched,2017,14.0,378.0,4.0,8.0,2.8,6.0,45.0,34.1,64,1,1,350
+151,7th Generation Intel® Core™ i7 Processors,Embedded,i7-7820EQ,Launched,2017,14.0,378.0,4.0,8.0,3.0,8.0,45.0,34.1,64,1,1,350
+152,7th Generation Intel® Core™ i7 Processors,Mobile,i7-7820HK,Launched,2017,14.0,378.0,4.0,8.0,2.9,8.0,45.0,34.1,64,1,1,350
+153,7th Generation Intel® Core™ i7 Processors,Mobile,i7-7820HQ,Launched,2017,14.0,378.0,4.0,8.0,2.9,8.0,45.0,34.1,64,1,1,350
+154,7th Generation Intel® Core™ i7 Processors,Mobile,i7-7920HQ,Launched,2017,14.0,568.0,4.0,8.0,3.1,8.0,45.0,34.1,64,1,1,350
+155,Intel® Quark™ Microcontroller D2000 Series,Embedded,D2000,Launched,2015,26.44,2.54,1.0,1.0,0.032,0.6853125,1.1460000000000012,2.498999999999996,32,0,0,0
+156,Intel® Quark™ SoC X1000 Series,Embedded,X1021D,Launched,2014,32.0,12.85,1.0,1.0,0.4,0.015625,2.2,1.6,32,0,0,0
+157,Intel® Quark™ Microcontroller D1000 Series,Embedded,D1000,Launched,2015,26.44,2.54,1.0,1.0,0.033,0.6853125,0.025,2.498999999999996,32,0,0,0
+158,Legacy Intel Atom® Processors,Embedded,E620,Launched,2010,45.0,19.0,1.0,2.0,0.6,0.5,3.3,2.254999999999997,32,1,1,320
+159,Intel® Atom™ Processor X Series,Mobile,x7-Z8750,Launched,2016,14.0,37.0,4.0,4.0,1.6,2.0,9.904583333333333,25.6,64,0,1,200
+160,Intel® Atom™ Processor N Series,Mobile,N2600,Launched,2011,32.0,42.0,2.0,4.0,1.6,1.0,3.5,6.4542000000000055,64,1,0,400
+161,Intel® Atom™ Processor E Series,Embedded,E3805,Launched,2014,22.0,31.0,2.0,2.0,1.33,1.0,3.0,7.606399999999997,64,0,1,0
+162,Intel® Atom™ Processor C Series,Embedded,C2316,Launched,2017,22.0,39.0,2.0,2.0,1.5,1.0,7.0,9.524000000000003,64,0,1,0
+163,Intel® Atom™ Processor C Series,Server,C2350,Launched,2013,22.0,43.0,2.0,2.0,1.7,1.0,6.0,10.7,64,0,1,0
+164,Intel® Atom™ Processor C Series,Embedded,C2516,Launched,2017,22.0,64.0,4.0,4.0,1.4,2.0,10.0,19.21519999999997,64,0,1,0
+165,Intel® Atom™ Processor C Series,Server,C2530,Launched,2013,22.0,70.0,4.0,4.0,1.7,2.0,9.0,21.3,64,0,1,0
+166,Intel® Atom™ Processor C Series,Server,C2550,Launched,2013,22.0,86.0,4.0,4.0,2.4,2.0,14.0,25.6,64,0,1,0
+167,Intel® Atom™ Processor C Series,Server,C2730,Launched,2013,22.0,150.0,8.0,8.0,1.7,4.0,12.0,25.6,64,0,1,0
+168,Intel® Atom™ Processor C Series,Server,C2750,Launched,2013,22.0,171.0,8.0,8.0,2.4,4.0,20.0,25.6,64,0,1,0
+169,Intel® Atom™ Processor C Series,Embedded,C2308,Launched,2014,22.0,60.0,2.0,2.0,1.25,1.0,6.0,8.099600000000002,64,0,1,0
+170,Intel® Atom™ Processor C Series,Embedded,C2338,Launched,2013,22.0,60.0,2.0,2.0,1.7,1.0,7.0,10.74140000000001,64,0,1,0
+171,Intel® Atom™ Processor C Series,Embedded,C2358,Launched,2013,22.0,60.0,2.0,2.0,1.7,1.0,7.0,10.74140000000001,64,0,1,0
+172,Intel® Atom™ Processor C Series,Embedded,C2508,Launched,2014,22.0,98.0,4.0,4.0,1.25,2.0,9.5,22.301199999999984,64,0,1,0
+173,Intel® Atom™ Processor C Series,Embedded,C2518,Launched,2013,22.0,91.0,4.0,4.0,1.7,2.0,13.0,25.557199999999952,64,0,1,0
+174,Intel® Atom™ Processor C Series,Embedded,C2538,Launched,2013,22.0,104.0,4.0,4.0,2.4,2.0,15.0,25.255999999999958,64,0,1,0
+175,Intel® Atom™ Processor C Series,Embedded,C2558,Launched,2013,22.0,104.0,4.0,4.0,2.4,2.0,15.0,25.255999999999958,64,0,1,0
+176,Intel® Atom™ Processor C Series,Embedded,C2718,Launched,2013,22.0,182.0,8.0,8.0,2.0,4.0,18.0,25.59999999999995,64,0,1,0
+177,Intel® Atom™ Processor C Series,Embedded,C2758,Launched,2013,22.0,208.0,8.0,8.0,2.4,4.0,20.0,25.298999999999957,64,0,1,0
+178,Intel® Atom™ Processor C Series,Embedded,C2738,Launched,2013,22.0,208.0,8.0,8.0,2.4,4.0,20.0,25.298999999999957,64,0,1,0
+179,Intel® Atom™ Processor C Series,Server,C3958,Launched,2017,14.0,449.0,16.0,16.0,2.0,16.0,31.0,67.66300000000005,64,0,1,0
+180,Intel® Atom™ Processor C Series,Server,C3955,Launched,2017,14.0,434.0,16.0,16.0,2.1,16.0,32.0,67.66300000000005,64,0,1,0
+181,Intel® Atom™ Processor C Series,Server,C3950,Launched,2017,14.0,389.0,16.0,16.0,1.7,16.0,24.0,63.41699999999997,64,0,1,0
+182,Intel® Atom™ Processor C Series,Server,C3830,Launched,2017,14.0,289.0,12.0,12.0,1.9,12.0,21.5,60.12199999999998,64,0,1,0
+183,Intel® Atom™ Processor C Series,Server,C3858,Launched,2017,14.0,332.0,12.0,12.0,2.0,12.0,25.0,60.29399999999999,64,0,1,0
+184,Intel® Atom™ Processor C Series,Server,C3850,Launched,2017,14.0,323.0,12.0,12.0,2.1,12.0,25.0,60.29399999999999,64,0,1,0
+185,Intel® Atom™ Processor C Series,Server,C3808,Launched,2017,14.0,369.0,12.0,12.0,2.0,12.0,25.0,60.830999999999996,64,0,1,0
+186,Intel® Atom™ Processor C Series,Server,C3758,Launched,2017,14.0,193.0,8.0,8.0,2.2,16.0,25.0,62.02099999999996,64,0,1,0
+187,Intel® Atom™ Processor C Series,Server,C3750,Launched,2017,14.0,171.0,8.0,8.0,2.2,16.0,21.0,62.02099999999996,64,0,1,0
+188,Intel® Atom™ Processor C Series,Server,C3708,Launched,2017,14.0,209.0,8.0,8.0,1.7,16.0,17.0,60.64099999999992,64,0,1,0
+189,Intel® Atom™ Processor C Series,Server,C3558,Launched,2017,14.0,86.0,4.0,4.0,2.2,8.0,16.0,35.42699999999998,64,0,1,0
+190,Intel® Atom™ Processor C Series,Server,C3538,Launched,2017,14.0,75.0,4.0,4.0,2.1,8.0,15.0,35.42699999999998,64,0,1,0
+191,Intel® Atom™ Processor C Series,Server,C3508,Launched,2017,14.0,86.0,4.0,4.0,1.6,8.0,11.5,36.202999999999996,64,0,1,0
+192,Intel® Atom™ Processor C Series,Server,C3338,Launched,2017,14.0,27.0,2.0,2.0,1.5,4.0,9.0,23.70399999999998,64,0,1,0
+193,Intel® Atom™ Processor C Series,Server,C3308,Launched,2017,14.0,32.0,2.0,2.0,1.6,4.0,9.5,27.69199999999996,64,0,1,0
+194,Intel® Atom™ Processor E Series,Embedded,E3815,Launched,2013,22.0,31.0,1.0,1.0,1.46,0.5,5.0,8.812400000000002,64,0,1,400
+195,Intel® Atom™ Processor E Series,Embedded,E3825,Launched,2013,22.0,34.0,2.0,2.0,1.33,1.0,6.0,8.438600000000003,64,0,1,533
+196,Intel® Atom™ Processor E Series,Embedded,E3826,Launched,2013,22.0,37.0,2.0,2.0,1.46,1.0,7.0,9.703600000000005,64,0,1,533
+197,Intel® Atom™ Processor E Series,Embedded,E3827,Launched,2013,22.0,41.0,2.0,2.0,1.75,1.0,8.0,11.995000000000006,64,0,1,542
+198,Intel® Atom™ Processor E Series,Embedded,E3845,Launched,2013,22.0,52.0,4.0,4.0,1.91,2.0,10.0,18.79319999999998,64,0,1,542
+199,Intel® Atom™ Processor N Series,Mobile,N2800,Launched,2011,32.0,47.0,2.0,4.0,1.86,1.0,6.5,8.952800000000014,64,1,0,640
+200,Intel® Atom™ Processor S Series,Server,S1269,Launched,2013,32.0,80.0,2.0,4.0,1.6,1.0,11.7,19.78979999999997,64,1,1,0
+201,Intel® Atom™ Processor S Series,Server,S1279,Launched,2013,32.0,103.0,2.0,4.0,1.6,1.0,13.1,20.473199999999974,64,1,1,0
+202,Intel® Atom™ Processor S Series,Server,S1289,Launched,2013,32.0,120.0,2.0,4.0,2.0,1.0,14.1,20.53659999999997,64,1,1,0
+203,Intel® Atom™ Processor X Series,Mobile,x3-C3130,Announced,2015,28.0,27.45,2.0,2.0,1.0,0.5,3.1604999999999994,3.2,64,0,1,480
+204,Intel® Atom™ Processor X Series,Mobile,x3-C3200RK,Launched,2015,28.0,58.72,4.0,4.0,1.208033333333335,1.0,6.754500000000003,4.2,64,0,1,600
+205,Intel® Atom™ Processor X Series,Mobile,x3-3205RK,Launched,2016,28.0,68.12,4.0,4.0,1.2116000000000016,1.0,6.863500000000001,4.2,64,0,1,600
+206,Intel® Atom™ Processor X Series,Mobile,x3-C3230RK,Launched,2015,28.0,58.72,4.0,4.0,1.208033333333335,1.0,6.754500000000003,4.2,64,0,1,600
+207,Intel® Atom™ Processor X Series,Mobile,x3-C3235RK,Launched,2015,28.0,58.72,4.0,4.0,1.208033333333335,1.0,6.754500000000003,4.2,64,0,1,600
+208,Intel® Atom™ Processor X Series,Mobile,x3-C3295RK,Launched,2016,28.0,68.12,4.0,4.0,1.2116000000000016,1.0,6.863500000000001,4.2,64,0,1,600
+209,Intel® Atom™ Processor X Series,Mobile,x3-C3265RK,Launched,2016,28.0,68.12,4.0,4.0,1.2116000000000016,1.0,6.863500000000001,4.2,64,0,1,600
+210,Intel® Atom™ Processor X Series,Mobile,x3-C3405,Announced,2015,28.0,58.72,4.0,4.0,1.2,1.0,6.754500000000003,4.2,64,0,1,456
+211,Intel® Atom™ Processor X Series,Mobile,x3-C3445,Announced,2015,28.0,58.72,4.0,4.0,1.2,1.0,6.754500000000003,4.2,64,0,1,456
+212,Intel® Atom™ Processor X Series,Embedded,E8000,Launched,2016,14.0,39.0,4.0,4.0,1.04,2.0,5.0,22.798999999999978,64,0,1,320
+213,Intel® Atom™ Processor X Series,Mobile,x5-Z8300,Launched,2015,14.0,21.0,4.0,4.0,1.44,2.0,9.232916666666666,12.8,64,0,1,200
+214,Intel® Atom™ Processor X Series,Mobile,x5-Z8330,Launched,2016,14.0,22.86,4.0,4.0,1.44,2.0,8.7425,12.8,64,0,1,200
+215,Intel® Atom™ Processor X Series,Mobile,x5-Z8350,Launched,2016,14.0,21.0,4.0,4.0,1.44,2.0,8.863333333333333,12.8,64,0,1,200
+216,Intel® Atom™ Processor X Series,Mobile,x5-Z8500,Launched,2015,14.0,27.0,4.0,4.0,1.44,2.0,10.25625,25.6,64,0,1,200
+217,Intel® Atom™ Processor X Series,Mobile,x5-Z8550,Launched,2016,14.0,27.0,4.0,4.0,1.44,2.0,9.904583333333333,25.6,64,0,1,200
+218,Intel® Atom™ Processor X Series,Embedded,E3930,Announced,2016,14.0,106.16,2.0,2.0,1.3,2.0,6.5,34.1,64,0,1,400
+219,Intel® Atom™ Processor X Series,Embedded,E3940,Announced,2016,14.0,67.61,4.0,4.0,1.6,2.0,9.5,34.1,64,0,1,400
+220,Intel® Atom™ Processor X Series,Mobile,x7-Z8700,Launched,2015,14.0,37.0,4.0,4.0,1.6,2.0,10.23125,25.6,64,0,1,200
+221,Intel® Atom™ Processor X Series,Embedded,E3950,Announced,2016,14.0,83.57,4.0,4.0,1.6,2.0,12.0,38.4,64,0,1,500
+222,Intel® Atom™ Processor Z Series,Mobile,Z3460,Launched,2014,22.0,61.17,2.0,2.0,1.2661771428571418,1.0,4.723000000000002,8.5,64,0,1,400
+223,Intel® Atom™ Processor Z Series,Mobile,Z3480,Launched,2014,22.0,61.17,2.0,2.0,1.2661771428571418,1.0,4.723000000000002,8.5,64,0,1,457
+224,Intel® Atom™ Processor Z Series,Mobile,Z3560,Launched,2014,22.0,33.24,4.0,4.0,1.428544761904761,2.0,10.003,12.8,64,0,1,457
+225,Intel® Atom™ Processor Z Series,Mobile,Z3530,Launched,2014,22.0,33.24,4.0,4.0,1.428544761904761,2.0,10.003,12.8,64,0,1,457
+226,Intel® Atom™ Processor Z Series,Mobile,Z3570,Launched,2014,22.0,33.24,4.0,4.0,1.428544761904761,2.0,10.003,12.8,64,0,1,457
+227,Intel® Atom™ Processor Z Series,Mobile,Z3580,Launched,2014,22.0,33.24,4.0,4.0,1.428544761904761,2.0,10.003,12.8,64,0,1,457
+228,Intel® Atom™ Processor Z Series,Mobile,Z3590,Launched,2015,22.0,27.97,4.0,4.0,1.4248780952380946,2.0,9.665,12.8,64,0,1,457
+229,Intel® Atom™ Processor Z Series,Mobile,Z3735E,Launched,2014,22.0,21.0,4.0,4.0,1.33,2.0,8.315333333333335,5.3,64,0,1,311
+230,Intel® Atom™ Processor Z Series,Mobile,Z3735D,Launched,2014,22.0,19.97,4.0,4.0,1.33,2.0,8.333333333333334,10.6,64,0,1,311
+231,Intel® Atom™ Processor Z Series,Mobile,Z3735F,Launched,2014,22.0,18.0,4.0,4.0,1.33,2.0,8.330333333333334,10.6,64,0,1,311
+232,Intel® Atom™ Processor Z Series,Mobile,Z3735G,Launched,2014,22.0,17.0,4.0,4.0,1.33,2.0,8.298333333333334,5.3,64,0,1,311
+233,Intel® Atom™ Processor Z Series,Mobile,Z3736F,Launched,2014,22.0,20.0,4.0,4.0,1.33,2.0,8.330333333333334,10.6,64,0,1,313
+234,Intel® Atom™ Processor Z Series,Mobile,Z3736G,Launched,2014,22.0,20.0,4.0,4.0,1.33,2.0,8.315333333333335,5.3,64,0,1,313
+235,Intel® Atom™ Processor Z Series,Mobile,Z3745,Launched,2014,22.0,30.0,4.0,4.0,1.33,2.0,9.454500000000001,17.1,64,0,1,311
+236,Intel® Atom™ Processor Z Series,Mobile,Z3745D,Launched,2014,22.0,19.97,4.0,4.0,1.33,2.0,8.333333333333334,10.6,64,0,1,311
+237,Intel® Atom™ Processor Z Series,Mobile,Z3775,Launched,2014,22.0,35.0,4.0,4.0,1.46,2.0,11.18,17.1,64,0,1,311
+238,Intel® Atom™ Processor Z Series,Mobile,Z3775D,Launched,2014,22.0,56.53,4.0,4.0,1.49,2.0,9.366,10.6,64,0,1,311
+239,Intel® Atom™ Processor Z Series,Mobile,Z3785,Launched,2014,22.0,63.92,4.0,4.0,1.49,2.0,10.93,21.3,64,0,1,313
+240,Intel® Atom™ Processor Z Series,Mobile,Z3795,Launched,2014,22.0,40.0,4.0,4.0,1.59,2.0,10.11,17.1,64,0,1,311
+241,Legacy Intel Atom® Processors,Embedded,E620T,Launched,2010,45.0,22.0,1.0,2.0,0.6,0.5,3.3,2.4469999999999965,32,1,1,320
+242,Legacy Intel Atom® Processors,Embedded,E640,Launched,2010,45.0,29.0,1.0,2.0,1.0,0.5,3.6,2.684999999999997,32,1,1,320
+243,Legacy Intel Atom® Processors,Embedded,E640T,Launched,2010,45.0,37.0,1.0,2.0,1.0,0.5,3.6,2.8729999999999962,32,1,1,320
+244,Legacy Intel Atom® Processors,Embedded,E660,Launched,2010,45.0,54.0,1.0,2.0,1.3,0.5,3.6,5.398800000000003,32,1,1,400
+245,Legacy Intel Atom® Processors,Embedded,E660T,Launched,2010,45.0,64.0,1.0,2.0,1.3,0.5,3.6,6.3406000000000065,32,1,1,400
+246,Legacy Intel Atom® Processors,Embedded,E680,Launched,2010,45.0,74.0,1.0,2.0,1.6,0.5,4.5,9.566800000000011,32,1,1,400
+247,Legacy Intel Atom® Processors,Mobile,N570,Launched,2011,45.0,72.47,2.0,4.0,1.66,1.0,8.5,14.637799999999995,64,1,0,200
+248,Legacy Intel Atom® Processors,Embedded,E680T,Launched,2010,45.0,85.0,1.0,2.0,1.6,0.5,4.5,9.960200000000011,32,1,1,400
+249,Intel® Quark™ SoC X1000 Series,Embedded,X1021,Launched,2014,32.0,13.39,1.0,1.0,0.4,0.015625,2.2,1.6,32,0,0,0
+250,Intel® Quark™ SoC X1000 Series,Embedded,X1020D,Launched,2014,32.0,10.7,1.0,1.0,0.4,0.015625,2.2,1.6,32,0,0,0
+251,Intel® Quark™ SoC X1000 Series,Embedded,X1020,Launched,2014,32.0,11.23,1.0,1.0,0.4,0.015625,2.2,1.6,32,0,0,0
+252,Intel® Quark™ SoC X1000 Series,Embedded,X1011,Launched,2014,32.0,12.31,1.0,1.0,0.4,0.015625,2.2,1.6,32,0,0,0
+253,Intel® Quark™ SoC X1000 Series,Embedded,X1010,Launched,2014,32.0,10.16,1.0,1.0,0.4,0.015625,2.2,1.6,32,0,0,0
+254,Intel® Quark™ SoC X1000 Series,Embedded,X1001,Launched,2014,32.0,11.77,1.0,1.0,0.4,0.015625,2.2,1.6,32,0,0,0
+255,Intel® Quark™ SoC X1000 Series,Embedded,X1000,Launched,2013,32.0,9.62,1.0,1.0,0.4,0.015625,2.2,1.6,32,0,0,0
+256,Intel® Itanium® Processor 9500 Series,Server,9520,Launched,2012,32.0,1350.0,4.0,8.0,1.73,20.0,130.0,59.69999999999989,64,1,1,0
+257,Intel® Itanium® Processor 9700 Series,Server,9760,Launched,2017,32.0,4650.0,8.0,16.0,2.66,32.0,170.0,81.38600000000005,64,1,1,0
+258,Intel® Xeon Phi™ x200 Product Family,Server,7290F,Launched,2016,14.0,3368.0,72.0,54.32,1.5,36.0,260.0,115.2,64,1,0,0
+259,Intel® Xeon® Processor D Family,Server,D-1513N,Launched,2017,14.0,192.0,4.0,8.0,1.6,6.0,35.0,34.10099999999994,64,1,1,0
+260,Intel® Xeon® Processor E3 Family,Embedded,E3-1105C,Launched,2012,21.84,389.0,4.0,8.0,1.0,6.0,25.0,25.6,64,1,1,0
+261,Intel® Xeon® Processor E3 v3 Family,Server,E3-1220 v3,Launched,2013,22.0,198.0,4.0,4.0,3.1,8.0,80.0,25.6,64,0,1,0
+262,Intel® Xeon® Processor E3 v4 Family,Embedded,E3-1258LV4,Launched,2015,14.0,393.0,4.0,8.0,1.8,6.0,47.0,25.6,64,1,1,700
+263,Intel® Xeon® Processor E3 v5 Family,Server,E3-1220V5,Launched,2015,14.0,198.0,4.0,4.0,3.0,8.0,80.0,34.1,64,0,1,0
+264,Intel® Xeon® Processor E3 v6 Family,Server,E3-1220V6,Launched,2017,14.0,198.0,4.0,4.0,3.0,8.0,72.0,37.5,64,0,1,0
+265,Intel® Xeon® Processor E5 v2 Family,Server,E5-2697V2,Launched,2013,22.0,2616.0,12.0,24.0,2.7,30.0,130.0,59.7,64,1,1,0
+266,Intel® Xeon® Processor E5 v2 Family,Server,E5-2695V2,Launched,2013,22.0,2338.0,12.0,24.0,2.4,30.0,115.0,59.7,64,1,1,0
+267,Intel® Xeon® Processor E5 v4 Family,Server,E5-1620V4,Launched,2016,14.0,295.5,4.0,8.0,3.5,10.0,140.0,76.8,64,1,1,0
+268,Intel® Xeon® Processor E5 v4 Family,Server,E5-1630V4,Launched,2016,14.0,406.0,4.0,8.0,3.7,10.0,140.0,76.8,64,1,1,0
+269,Intel® Xeon® Processor E5 v4 Family,Server,E5-1650V4,Launched,2016,14.0,619.0,6.0,12.0,3.6,15.0,140.0,76.8,64,1,1,0
+270,Intel® Xeon® Processor E5 v4 Family,Server,E5-1660V4,Launched,2016,14.0,1113.0,8.0,16.0,3.2,20.0,140.0,76.8,64,1,1,0
+271,Intel® Xeon® Processor E5 v4 Family,Server,E5-1680V4,Launched,2016,14.0,1723.0,8.0,16.0,3.4,20.0,140.0,76.8,64,1,1,0
+272,Intel® Xeon® Processor E5 v4 Family,Server,E5-2603V4,Launched,2016,14.0,213.0,6.0,6.0,1.7,15.0,85.0,59.7,64,0,1,0
+273,Intel® Xeon® Processor E5 v4 Family,Embedded,E5-2608LV4,Launched,2016,14.0,363.0,8.0,16.0,1.6,20.0,50.0,59.7,64,1,1,0
+274,Intel® Xeon® Processor E5 v4 Family,Server,E5-2609V4,Launched,2016,14.0,308.0,8.0,8.0,1.7,20.0,85.0,59.7,64,0,1,0
+275,Intel® Xeon® Processor E5 v4 Family,Embedded,E5-2618LV4,Launched,2016,14.0,779.0,10.0,20.0,2.2,25.0,75.0,68.3,64,1,1,0
+276,Intel® Xeon® Processor E5 v4 Family,Server,E5-2620V4,Launched,2016,14.0,419.5,8.0,16.0,2.1,20.0,85.0,68.3,64,1,1,0
+277,Intel® Xeon® Processor E5 v4 Family,Server,E5-2623V4,Launched,2016,14.0,444.0,4.0,8.0,2.6,10.0,85.0,68.3,64,1,1,0
+278,Intel® Xeon® Processor E5 v4 Family,Embedded,E5-2628LV4,Launched,2016,14.0,1364.0,12.0,24.0,1.9,30.0,75.0,68.3,64,1,1,0
+279,Intel® Xeon® Processor E5 v4 Family,Server,E5-2630LV4,Launched,2016,14.0,612.0,10.0,20.0,1.8,25.0,55.0,68.3,64,1,1,0
+280,Intel® Xeon® Processor E5 v4 Family,Server,E5-2630V4,Launched,2016,14.0,669.0,10.0,20.0,2.2,25.0,85.0,68.3,64,1,1,0
+281,Intel® Xeon® Processor E5 v4 Family,Server,E5-2637V4,Launched,2016,14.0,996.0,4.0,8.0,3.5,15.0,135.0,76.8,64,1,1,0
+282,Intel® Xeon® Processor E5 v4 Family,Server,E5-2640V4,Launched,2016,14.0,939.0,10.0,20.0,2.4,25.0,90.0,68.3,64,1,1,0
+283,Intel® Xeon® Processor E5 v4 Family,Server,E5-2643V4,Launched,2016,14.0,1552.0,6.0,12.0,3.4,20.0,135.0,76.8,64,1,1,0
+284,Intel® Xeon® Processor E5 v4 Family,Embedded,E5-2648LV4,Launched,2016,14.0,1544.0,14.0,28.0,1.8,35.0,75.0,76.8,64,1,1,0
+285,Intel® Xeon® Processor E5 v4 Family,Server,E5-2650LV4,Launched,2016,14.0,1329.0,14.0,28.0,1.7,35.0,65.0,76.8,64,1,1,0
+286,Intel® Xeon® Processor E5 v4 Family,Server,E5-2650V4,Launched,2016,14.0,1168.5,12.0,24.0,2.2,30.0,105.0,76.8,64,1,1,0
+287,Intel® Xeon® Processor E5 v4 Family,Server,E5-2660V4,Launched,2016,14.0,1445.0,14.0,28.0,2.0,35.0,105.0,76.8,64,1,1,0
+288,Intel® Xeon® Processor E5 v4 Family,Server,E5-2667V4,Launched,2016,14.0,2057.0,8.0,16.0,3.2,25.0,135.0,76.8,64,1,1,0
+289,Intel® Xeon® Processor E5 v4 Family,Embedded,E5-2658V4,Launched,2016,14.0,1832.0,14.0,28.0,2.3,35.0,105.0,76.8,64,1,1,0
+290,Intel® Xeon® Processor E5 v4 Family,Server,E5-2680V4,Launched,2016,14.0,1747.0,14.0,28.0,2.4,35.0,120.0,76.8,64,1,1,0
+291,Intel® Xeon® Processor E5 v4 Family,Server,E5-2683V4,Launched,2016,14.0,1846.0,16.0,32.0,2.1,40.0,120.0,76.8,64,1,1,0
+292,Intel® Xeon® Processor E5 v4 Family,Server,E5-2687WV4,Launched,2016,14.0,2143.0,12.0,24.0,3.0,30.0,160.0,76.8,64,1,1,0
+293,Intel® Xeon® Processor E5 v4 Family,Server,E5-2690V4,Launched,2016,14.0,2092.0,14.0,28.0,2.6,35.0,135.0,76.8,64,1,1,0
+294,Intel® Xeon® Processor E5 v4 Family,Server,E5-2695V4,Launched,2016,14.0,2426.0,18.0,36.0,2.1,45.0,120.0,76.8,64,1,1,0
+295,Intel® Xeon® Processor E5 v4 Family,Server,E5-2697AV4,Launched,2016,14.0,2891.0,16.0,32.0,2.6,40.0,145.0,76.8,64,1,1,0
+296,Intel® Xeon® Processor E5 v4 Family,Server,E5-2697V4,Launched,2016,14.0,2702.0,18.0,36.0,2.3,45.0,145.0,76.8,64,1,1,0
+297,Intel® Xeon® Processor E5 v4 Family,Server,E5-2698V4,Launched,2016,14.0,3226.0,20.0,40.0,2.2,50.0,135.0,76.8,64,1,1,0
+298,Intel® Xeon® Processor E5 v4 Family,Embedded,E5-2699RV4,Launched,2016,14.0,4560.0,22.0,44.0,2.2,55.0,145.0,76.8,64,1,1,0
+299,Intel® Xeon® Processor E5 v4 Family,Server,E5-2699V4,Launched,2016,14.0,4115.0,22.0,44.0,2.2,55.0,145.0,76.8,64,1,1,0
+300,Intel® Xeon® Processor E5 v4 Family,Server,E5-2699AV4,Launched,2016,14.0,4938.0,22.0,44.0,2.4,55.0,145.0,76.8,64,1,1,0
+301,Intel® Xeon® Processor E5 v4 Family,Server,E5-4610V4,Launched,2016,14.0,1219.0,10.0,20.0,1.8,25.0,105.0,68.0,64,1,1,0
+302,Intel® Xeon® Processor E5 v4 Family,Server,E5-4620V4,Launched,2016,14.0,1668.0,10.0,20.0,2.1,25.0,105.0,68.0,64,1,1,0
+303,Intel® Xeon® Processor E5 v4 Family,Server,E5-4627V4,Launched,2016,14.0,2225.0,10.0,10.0,2.6,25.0,135.0,68.0,64,0,1,0
+304,Intel® Xeon® Processor E5 v4 Family,Embedded,E5-4628LV4,Launched,2016,14.0,2535.0,14.0,28.0,1.8,35.0,75.0,68.0,64,1,1,0
+305,Intel® Xeon® Processor E5 v4 Family,Server,E5-4640V4,Launched,2016,14.0,2837.0,12.0,24.0,2.1,30.0,105.0,68.0,64,1,1,0
+306,Intel® Xeon® Processor E5 v4 Family,Server,E5-4650V4,Launched,2016,14.0,3838.0,14.0,28.0,2.2,35.0,105.0,68.0,64,1,1,0
+307,Intel® Xeon® Processor E5 v4 Family,Server,E5-4655V4,Launched,2016,14.0,4616.0,8.0,16.0,2.5,30.0,135.0,68.0,64,1,1,0
+308,Intel® Xeon® Processor E5 v4 Family,Server,E5-4660V4,Launched,2016,14.0,4727.0,16.0,32.0,2.2,40.0,120.0,68.0,64,1,1,0
+309,Intel® Xeon® Processor E5 v4 Family,Server,E5-4667V4,Launched,2016,14.0,5729.0,18.0,36.0,2.2,45.0,135.0,68.0,64,1,1,0
+310,Intel® Xeon® Processor E5 v4 Family,Server,E5-4669V4,Launched,2016,14.0,7007.0,22.0,44.0,2.2,55.0,135.0,68.0,64,1,1,0
+311,Intel® Xeon® Processor E5 v3 Family,Server,E5-2603V3,Launched,2014,22.0,215.0,6.0,6.0,1.6,15.0,85.0,51.0,64,0,1,0
+312,Intel® Xeon® Processor E5 v3 Family,Embedded,E5-2608LV3,Launched,2014,22.0,441.0,6.0,12.0,2.0,15.0,52.0,59.0,64,1,1,0
+313,Intel® Xeon® Processor E5 v3 Family,Server,E5-2609V3,Launched,2014,22.0,306.0,6.0,6.0,1.9,15.0,85.0,51.0,64,0,1,0
+314,Intel® Xeon® Processor E5 v3 Family,Embedded,E5-2618LV3,Launched,2014,22.0,779.0,8.0,16.0,2.3,20.0,75.0,59.0,64,1,1,0
+315,Intel® Xeon® Processor E5 v3 Family,Server,E5-2620V3,Launched,2014,22.0,419.5,6.0,12.0,2.4,15.0,85.0,59.0,64,1,1,0
+316,Intel® Xeon® Processor E5 v3 Family,Server,E5-2623V3,Launched,2014,22.0,444.0,4.0,8.0,3.0,10.0,105.0,59.0,64,1,1,0
+317,Intel® Xeon® Processor E5 v3 Family,Embedded,E5-2628LV3,Launched,2014,22.0,1364.0,10.0,20.0,2.0,25.0,75.0,59.0,64,1,1,0
+318,Intel® Xeon® Processor E5 v3 Family,Server,E5-2630V3,Launched,2014,22.0,669.0,8.0,16.0,2.4,20.0,85.0,59.0,64,1,1,0
+319,Intel® Xeon® Processor E5 v3 Family,Server,E5-2630LV3,Launched,2014,22.0,612.0,8.0,16.0,1.8,20.0,55.0,59.0,64,1,1,0
+320,Intel® Xeon® Processor E5 v3 Family,Server,E5-2637V3,Launched,2014,22.0,996.0,4.0,8.0,3.5,15.0,135.0,68.0,64,1,1,0
+321,Intel® Xeon® Processor E5 v3 Family,Server,E5-2640V3,Launched,2014,22.0,941.5,8.0,16.0,2.6,20.0,90.0,59.0,64,1,1,0
+322,Intel® Xeon® Processor E5 v3 Family,Server,E5-2643V3,Launched,2014,22.0,1552.0,6.0,12.0,3.4,20.0,135.0,68.0,64,1,1,0
+323,Intel® Xeon® Processor E5 v3 Family,Server,E5-2650V3,Launched,2014,22.0,1168.5,10.0,20.0,2.3,25.0,105.0,68.0,64,1,1,0
+324,Intel® Xeon® Processor E5 v3 Family,Embedded,E5-2648LV3,Launched,2014,22.0,1544.0,12.0,24.0,1.8,30.0,75.0,68.0,64,1,1,0
+325,Intel® Xeon® Processor E5 v3 Family,Server,E5-2650LV3,Launched,2014,22.0,1329.0,12.0,24.0,1.8,30.0,65.0,68.0,64,1,1,0
+326,Intel® Xeon® Processor E5 v3 Family,Embedded,E5-2658V3,Launched,2014,22.0,1832.0,12.0,24.0,2.2,30.0,105.0,68.0,64,1,1,0
+327,Intel® Xeon® Processor E5 v3 Family,Embedded,E5-2658AV3,Launched,2015,22.0,1832.0,12.0,24.0,2.2,30.0,105.0,68.0,64,1,1,0
+328,Intel® Xeon® Processor E5 v3 Family,Server,E5-2660V3,Launched,2014,22.0,1447.0,10.0,20.0,2.6,25.0,105.0,68.0,64,1,1,0
+329,Intel® Xeon® Processor E5 v3 Family,Server,E5-2667V3,Launched,2014,22.0,2057.0,8.0,16.0,3.2,20.0,135.0,68.0,64,1,1,0
+330,Intel® Xeon® Processor E5 v3 Family,Server,E5-2670V3,Launched,2014,22.0,1591.0,12.0,24.0,2.3,30.0,120.0,68.0,64,1,1,0
+331,Intel® Xeon® Processor E5 v3 Family,Server,E5-2680V3,Launched,2014,22.0,1747.0,12.0,24.0,2.5,30.0,120.0,68.0,64,1,1,0
+332,Intel® Xeon® Processor E5 v3 Family,Server,E5-2683V3,Launched,2014,22.0,1846.0,14.0,28.0,2.0,35.0,120.0,68.0,64,1,1,0
+333,Intel® Xeon® Processor E5 v3 Family,Server,E5-4610V3,Launched,2015,22.0,1219.0,10.0,20.0,1.7,25.0,105.0,68.0,64,1,1,0
+334,Intel® Xeon® Processor E5 v3 Family,Server,E5-4620V3,Launched,2015,22.0,1668.0,10.0,20.0,2.0,25.0,105.0,68.0,64,1,1,0
+335,Intel® Xeon® Processor E5 v3 Family,Server,E5-2687WV3,Launched,2014,22.0,2143.0,10.0,20.0,3.1,25.0,160.0,68.0,64,1,1,0
+336,Intel® Xeon® Processor E5 v3 Family,Server,E5-4627V3,Launched,2015,22.0,2225.0,10.0,10.0,2.6,25.0,135.0,68.0,64,0,1,0
+337,Intel® Xeon® Processor E5 v3 Family,Server,E5-2690V3,Launched,2014,22.0,2092.0,12.0,24.0,2.6,30.0,135.0,68.0,64,1,1,0
+338,Intel® Xeon® Processor E5 v3 Family,Server,E5-4640V3,Launched,2015,22.0,2859.0,12.0,24.0,1.9,30.0,105.0,68.0,64,1,1,0
+339,Intel® Xeon® Processor E5 v3 Family,Server,E5-1680V3,Launched,2014,22.0,1723.0,8.0,16.0,3.2,20.0,140.0,68.0,64,1,1,0
+340,Intel® Xeon® Processor E5 v3 Family,Server,E5-2695V3,Launched,2014,22.0,2426.0,14.0,28.0,2.3,35.0,120.0,68.0,64,1,1,0
+341,Intel® Xeon® Processor E5 v3 Family,Embedded,E5-4648V3,Launched,2015,22.0,2405.0,12.0,24.0,1.7,30.0,105.0,68.0,64,1,1,0
+342,Intel® Xeon® Processor E5 v3 Family,Server,E5-1660V3,Launched,2014,22.0,1080.0,8.0,16.0,3.0,20.0,140.0,68.0,64,1,1,0
+343,Intel® Xeon® Processor E5 v3 Family,Server,E5-4650V3,Launched,2015,22.0,3838.0,12.0,24.0,2.1,30.0,105.0,68.0,64,1,1,0
+344,Intel® Xeon® Processor E5 v3 Family,Server,E5-1650V3,Launched,2014,22.0,584.5,6.0,12.0,3.5,15.0,140.0,68.0,64,1,1,0
+345,Intel® Xeon® Processor E5 v3 Family,Server,E5-2697V3,Launched,2014,22.0,2704.0,14.0,28.0,2.6,35.0,145.0,68.0,64,1,1,0
+346,Intel® Xeon® Processor E5 v3 Family,Server,E5-4655V3,Launched,2015,22.0,4616.0,6.0,12.0,2.9,30.0,135.0,68.0,64,1,1,0
+347,Intel® Xeon® Processor E5 v3 Family,Embedded,E5-2408LV3,Launched,2015,22.0,256.0,4.0,8.0,1.8,10.0,45.0,51.2,64,1,1,0
+348,Intel® Xeon® Processor E5 v3 Family,Server,E5-1630V3,Launched,2014,22.0,372.0,4.0,8.0,3.7,10.0,140.0,68.0,64,1,1,0
+349,Intel® Xeon® Processor E5 v3 Family,Server,E5-2698V3,Announced,2014,22.0,5609.42,16.0,32.0,2.3,40.0,135.0,68.0,64,1,1,0
+350,Intel® Xeon® Processor E5 v3 Family,Server,E5-4660V3,Launched,2015,22.0,4727.0,14.0,28.0,2.1,35.0,120.0,68.0,64,1,1,0
+351,Intel® Xeon® Processor E5 v3 Family,Embedded,E5-2418LV3,Launched,2015,22.0,472.0,6.0,12.0,2.0,15.0,50.0,51.2,64,1,1,0
+352,Intel® Xeon® Processor E5 v3 Family,Server,E5-1620V3,Launched,2014,22.0,295.5,4.0,8.0,3.5,10.0,140.0,68.0,64,1,1,0
+353,Intel® Xeon® Processor E5 v3 Family,Server,E5-4667V3,Launched,2015,22.0,5729.0,16.0,32.0,2.0,40.0,135.0,68.0,64,1,1,0
+354,Intel® Xeon® Processor E5 v3 Family,Embedded,E5-2428LV3,Launched,2015,22.0,811.0,8.0,16.0,1.8,20.0,55.0,51.2,64,1,1,0
+355,Intel® Xeon® Processor E5 v3 Family,Server,E5-4669V3,Launched,2015,22.0,7007.0,18.0,36.0,2.1,45.0,135.0,68.0,64,1,1,0
+356,Intel® Xeon® Processor E5 v3 Family,Embedded,E5-2438LV3,Launched,2015,22.0,1555.0,10.0,20.0,1.8,25.0,70.0,51.2,64,1,1,0
+357,Intel® Xeon® Processor E5 v3 Family,Embedded,E5-1428LV3,Launched,2015,22.0,608.0,8.0,16.0,2.0,20.0,65.0,51.2,64,1,1,0
+358,Intel® Xeon® Processor E5 v3 Family,Server,E5-2699V3,Announced,2014,22.0,5880.02,18.0,36.0,2.3,45.0,145.0,68.0,64,1,1,0
+359,Intel® Xeon® Processor E5 v2 Family,Server,E5-2690V2,Launched,2013,22.0,2059.0,10.0,20.0,3.0,25.0,130.0,59.7,64,1,1,0
+360,Intel® Xeon® Processor E5 v2 Family,Server,E5-2680V2,Launched,2013,22.0,1725.0,10.0,20.0,2.8,25.0,115.0,59.7,64,1,1,0
+361,Intel® Xeon® Processor E5 v2 Family,Server,E5-2687WV2,Launched,2013,22.0,2110.0,8.0,16.0,3.4,25.0,150.0,59.7,64,1,1,0
+362,Intel® Xeon® Processor E5 v2 Family,Server,E5-2670V2,Launched,2013,22.0,1554.0,10.0,20.0,2.5,25.0,115.0,59.7,64,1,1,0
+363,Intel® Xeon® Processor E5 v2 Family,Server,E5-2667V2,Launched,2013,22.0,2057.0,8.0,16.0,3.3,25.0,130.0,59.7,64,1,1,0
+364,Intel® Xeon® Processor E5 v2 Family,Server,E5-2660V2,Launched,2013,22.0,1391.0,10.0,20.0,2.2,25.0,95.0,59.7,64,1,1,0
+365,Intel® Xeon® Processor E5 v2 Family,Server,E5-2650LV2,Launched,2013,22.0,1219.0,10.0,20.0,1.7,25.0,70.0,51.2,64,1,1,0
+366,Intel® Xeon® Processor E5 v2 Family,Embedded,E5-2658V2,Launched,2013,22.0,1750.0,10.0,20.0,2.4,25.0,95.0,59.7,64,1,1,0
+367,Intel® Xeon® Processor E5 v2 Family,Server,E5-2650V2,Launched,2013,22.0,1168.5,8.0,16.0,2.6,20.0,95.0,59.7,64,1,1,0
+368,Intel® Xeon® Processor E5 v2 Family,Server,E5-2470V2,Launched,2014,22.0,1440.0,10.0,20.0,2.4,25.0,95.0,38.4,64,1,1,0
+369,Intel® Xeon® Processor E5 v2 Family,Embedded,E5-2648LV2,Launched,2013,22.0,1479.0,10.0,20.0,1.9,25.0,70.0,59.7,64,1,1,0
+370,Intel® Xeon® Processor E5 v2 Family,Server,E5-2450LV2,Launched,2014,22.0,1219.0,10.0,20.0,1.7,25.0,60.0,38.4,64,1,1,0
+371,Intel® Xeon® Processor E5 v2 Family,Server,E5-2643V2,Launched,2013,22.0,1552.0,6.0,12.0,3.5,25.0,130.0,59.7,64,1,1,0
+372,Intel® Xeon® Processor E5 v2 Family,Server,E5-2450V2,Launched,2014,22.0,1107.0,8.0,16.0,2.5,20.0,95.0,38.4,64,1,1,0
+373,Intel® Xeon® Processor E5 v2 Family,Server,E5-4657LV2,Launched,2014,22.0,4394.0,12.0,24.0,2.4,30.0,115.0,59.7,64,1,1,0
+374,Intel® Xeon® Processor E5 v2 Family,Embedded,E5-2448LV2,Launched,2014,22.0,1424.0,10.0,20.0,1.8,25.0,70.0,38.4,64,1,1,0
+375,Intel® Xeon® Processor E5 v2 Family,Server,E5-2640V2,Launched,2013,22.0,887.0,8.0,16.0,2.0,20.0,95.0,51.2,64,1,1,0
+376,Intel® Xeon® Processor E5 v2 Family,Server,E5-2637V2,Launched,2013,22.0,996.0,4.0,8.0,3.5,15.0,130.0,59.7,64,1,1,0
+377,Intel® Xeon® Processor E5 v2 Family,Server,E5-4650V2,Launched,2014,22.0,3616.0,10.0,20.0,2.4,25.0,95.0,59.7,64,1,1,0
+378,Intel® Xeon® Processor E5 v2 Family,Server,E5-2440V2,Launched,2014,22.0,832.0,8.0,16.0,1.9,20.0,95.0,38.4,64,1,1,0
+379,Intel® Xeon® Processor E5 v2 Family,Server,E5-2630LV2,Launched,2013,22.0,612.0,6.0,12.0,2.4,15.0,60.0,51.2,64,1,1,0
+380,Intel® Xeon® Processor E5 v2 Family,Server,E5-2430LV2,Launched,2014,22.0,612.0,6.0,12.0,2.4,15.0,60.0,38.4,64,1,1,0
+381,Intel® Xeon® Processor E5 v2 Family,Server,E5-4640V2,Launched,2014,22.0,2725.0,10.0,20.0,2.2,20.0,95.0,59.7,64,1,1,0
+382,Intel® Xeon® Processor E5 v2 Family,Server,E5-2630V2,Launched,2013,22.0,614.0,6.0,12.0,2.6,15.0,80.0,51.2,64,1,1,0
+383,Intel® Xeon® Processor E5 v2 Family,Server,E5-2430V2,Launched,2014,22.0,551.0,6.0,12.0,2.5,15.0,80.0,38.4,64,1,1,0
+384,Intel® Xeon® Processor E5 v2 Family,Server,E5-4627V2,Launched,2014,22.0,2108.0,8.0,8.0,3.3,16.0,130.0,59.7,64,0,1,0
+385,Intel® Xeon® Processor E5 v2 Family,Embedded,E5-4624LV2,Launched,2014,22.0,2405.0,10.0,20.0,1.9,25.0,70.0,59.7,64,1,1,0
+386,Intel® Xeon® Processor E5 v2 Family,Embedded,E5-2628LV2,Launched,2013,22.0,1216.0,8.0,16.0,1.9,20.0,70.0,51.2,64,1,1,0
+387,Intel® Xeon® Processor E5 v2 Family,Embedded,E5-2428LV2,Launched,2014,22.0,1013.0,8.0,16.0,1.8,20.0,60.0,38.4,64,1,1,0
+388,Intel® Xeon® Processor E5 v2 Family,Server,E5-2620V2,Launched,2013,22.0,408.0,6.0,12.0,2.1,15.0,80.0,51.2,64,1,1,0
+389,Intel® Xeon® Processor E5 v2 Family,Server,E5-2420V2,Launched,2014,22.0,406.0,6.0,12.0,2.2,15.0,80.0,38.4,64,1,1,0
+390,Intel® Xeon® Processor E5 v2 Family,Server,E5-1660V2,Launched,2013,22.0,1081.5,6.0,12.0,3.7,15.0,130.0,59.7,64,1,1,0
+391,Intel® Xeon® Processor E5 v2 Family,Server,E5-4620V2,Launched,2014,22.0,1611.0,8.0,16.0,2.6,20.0,95.0,51.2,64,1,1,0
+392,Intel® Xeon® Processor E5 v2 Family,Embedded,E5-2618LV2,Launched,2013,22.0,632.0,6.0,12.0,2.0,15.0,50.0,42.6,64,1,1,0
+393,Intel® Xeon® Processor E5 v2 Family,Embedded,E5-2418LV2,Launched,2014,22.0,607.0,6.0,12.0,2.0,15.0,50.0,32.0,64,1,1,0
+394,Intel® Xeon® Processor E5 v2 Family,Server,E5-1650V2,Launched,2013,22.0,583.0,6.0,12.0,3.5,12.0,130.0,59.7,64,1,1,0
+395,Intel® Xeon® Processor E5 v2 Family,Server,E5-4610V2,Launched,2014,22.0,1219.0,8.0,16.0,2.3,16.0,95.0,51.2,64,1,1,0
+396,Intel® Xeon® Processor E5 v2 Family,Server,E5-4607V2,Launched,2014,22.0,885.0,6.0,12.0,2.6,15.0,95.0,42.6,64,1,1,0
+397,Intel® Xeon® Processor E5 v2 Family,Server,E5-2609V2,Launched,2013,22.0,296.5,4.0,4.0,2.5,10.0,80.0,42.6,64,0,1,0
+398,Intel® Xeon® Processor E5 v2 Family,Server,E5-2407V2,Launched,2014,22.0,250.0,4.0,4.0,2.4,10.0,80.0,32.0,64,0,1,0
+399,Intel® Xeon® Processor E5 v2 Family,Server,E5-1620V2,Launched,2013,22.0,294.0,4.0,8.0,3.7,10.0,130.0,59.7,64,1,1,0
+400,Intel® Xeon® Processor E5 v2 Family,Embedded,E5-1428LV2,Launched,2014,22.0,494.0,6.0,12.0,2.2,15.0,60.0,38.4,64,1,1,0
+401,Intel® Xeon® Processor E5 v2 Family,Server,E5-2603V2,Launched,2013,22.0,202.0,4.0,4.0,1.8,10.0,80.0,42.6,64,0,1,0
+402,Intel® Xeon® Processor E5 v2 Family,Server,E5-2403V2,Launched,2014,22.0,192.0,4.0,4.0,1.8,10.0,80.0,32.0,64,0,1,0
+403,Intel® Xeon® Processor E5 v2 Family,Server,E5-4603V2,Launched,2014,22.0,551.0,4.0,8.0,2.2,10.0,95.0,42.6,64,1,1,0
+404,Intel® Xeon® Processor E5 Family,Embedded,E5-2658,Launched,2012,32.0,1479.0,8.0,16.0,2.1,20.0,95.0,51.2,64,1,1,0
+405,Intel® Xeon® Processor E5 Family,Embedded,E5-2648L,Launched,2012,32.0,1266.0,8.0,16.0,1.8,20.0,70.0,49.25399999999991,64,1,1,0
+406,Intel® Xeon® Processor E5 Family,Embedded,E5-2448L,Launched,2012,32.0,1266.0,8.0,16.0,1.8,20.0,70.0,49.25399999999991,64,1,1,0
+407,Intel® Xeon® Processor E5 Family,Embedded,E5-2428L,Launched,2012,32.0,692.0,6.0,12.0,1.8,15.0,60.0,44.14199999999998,64,1,1,0
+408,Intel® Xeon® Processor E5 Family,Server,E5-2620,Launched,2012,32.0,385.0,6.0,12.0,2.0,15.0,95.0,42.6,64,1,1,0
+409,Intel® Xeon® Processor E5 Family,Embedded,E5-2418L,Launched,2012,32.0,428.0,4.0,8.0,2.0,10.0,50.0,41.84199999999996,64,1,1,0
+410,Intel® Xeon® Processor E3 v6 Family,Server,E3-1225V6,Launched,2017,14.0,218.5,4.0,4.0,3.3,8.0,73.0,37.5,64,0,1,350
+411,Intel® Xeon® Processor E3 v6 Family,Server,E3-1230V6,Launched,2017,14.0,255.5,4.0,8.0,3.5,8.0,72.0,37.5,64,1,1,0
+412,Intel® Xeon® Processor E3 v6 Family,Server,E3-1240V6,Launched,2017,14.0,277.0,4.0,8.0,3.7,8.0,72.0,37.5,64,1,1,0
+413,Intel® Xeon® Processor E3 v6 Family,Server,E3-1245V6,Launched,2017,14.0,289.0,4.0,8.0,3.7,8.0,73.0,37.5,64,1,1,350
+414,Intel® Xeon® Processor E3 v6 Family,Server,E3-1270V6,Launched,2017,14.0,333.5,4.0,8.0,3.8,8.0,72.0,37.5,64,1,1,0
+415,Intel® Xeon® Processor E3 v6 Family,Server,E3-1275V6,Launched,2017,14.0,339.0,4.0,8.0,3.8,8.0,73.0,37.5,64,1,1,350
+416,Intel® Xeon® Processor E3 v6 Family,Server,E3-1280V6,Launched,2017,14.0,383.0,4.0,8.0,3.9,8.0,72.0,37.5,64,1,1,0
+417,Intel® Xeon® Processor E3 v6 Family,Server,E3-1285V6,Launched,2017,14.0,450.0,4.0,8.0,4.1,8.0,79.0,37.5,64,1,1,350000
+418,Intel® Xeon® Processor E3 v6 Family,Embedded,E3-1501LV6,Launched,2017,14.0,259.82,4.0,4.0,2.1,6.0,25.0,34.1,64,0,1,350
+419,Intel® Xeon® Processor E3 v6 Family,Embedded,E3-1501MV6,Launched,2017,14.0,248.67,4.0,4.0,2.9,6.0,45.0,34.1,64,0,1,350
+420,Intel® Xeon® Processor E3 v6 Family,Embedded,E3-1505LV6,Launched,2017,14.0,433.0,4.0,8.0,2.2,8.0,25.0,34.1,64,1,1,350
+421,Intel® Xeon® Processor E3 v6 Family,Mobile,E3-1505MV6,Launched,2017,14.0,434.0,4.0,8.0,3.0,8.0,45.0,34.1,64,1,1,350
+422,Intel® Xeon® Processor E3 v6 Family,Mobile,E3-1535MV6,Launched,2017,14.0,623.0,4.0,8.0,3.1,8.0,45.0,34.1,64,1,1,350
+423,Intel® Xeon® Processor E3 v5 Family,Server,E3-1225V5,Launched,2015,14.0,218.5,4.0,4.0,3.3,8.0,80.0,34.1,64,0,1,400
+424,Intel® Xeon® Processor E3 v5 Family,Server,E3-1230V5,Launched,2015,14.0,255.5,4.0,8.0,3.4,8.0,80.0,34.1,64,1,1,0
+425,Intel® Xeon® Processor E3 v5 Family,Server,E3-1240V5,Launched,2015,14.0,277.0,4.0,8.0,3.5,8.0,80.0,34.1,64,1,1,0
+426,Intel® Xeon® Processor E3 v5 Family,Server,E3-1235LV5,Launched,2015,14.0,250.0,4.0,4.0,2.0,8.0,25.0,34.1,64,0,1,400
+427,Intel® Xeon® Processor E3 v5 Family,Server,E3-1240LV5,Launched,2015,14.0,278.0,4.0,8.0,2.1,8.0,25.0,34.1,64,1,1,0
+428,Intel® Xeon® Processor E3 v5 Family,Server,E3-1245V5,Launched,2015,14.0,289.0,4.0,8.0,3.5,8.0,80.0,34.1,64,1,1,400
+429,Intel® Xeon® Processor E3 v5 Family,Server,E3-1260LV5,Launched,2015,14.0,294.0,4.0,8.0,2.9,8.0,45.0,34.1,64,1,1,0
+430,Intel® Xeon® Processor E3 v5 Family,Embedded,E3-1268LV5,Launched,2015,14.0,377.0,4.0,8.0,2.4,8.0,35.0,34.1,64,1,1,350
+431,Intel® Xeon® Processor E3 v5 Family,Server,E3-1270V5,Launched,2015,14.0,333.5,4.0,8.0,3.6,8.0,80.0,34.1,64,1,1,0
+432,Intel® Xeon® Processor E3 v5 Family,Server,E3-1275V5,Launched,2015,14.0,344.5,4.0,8.0,3.6,8.0,80.0,34.1,64,1,1,400
+433,Intel® Xeon® Processor E3 v5 Family,Server,E3-1280V5,Launched,2015,14.0,612.0,4.0,8.0,3.7,8.0,80.0,34.1,64,1,1,0
+434,Intel® Xeon® Processor E3 v5 Family,Mobile,E3-1505MV5,Launched,2015,14.0,434.0,4.0,8.0,2.8,8.0,45.0,34.1,64,1,1,350
+435,Intel® Xeon® Processor E3 v5 Family,Embedded,E3-1505LV5,Launched,2015,14.0,433.0,4.0,8.0,2.0,8.0,25.0,34.1,64,1,1,350
+436,Intel® Xeon® Processor E3 v5 Family,Mobile,E3-1515MV5,Launched,2016,14.0,489.0,4.0,8.0,2.8,8.0,45.0,34.1,64,1,1,350
+437,Intel® Xeon® Processor E3 v5 Family,Mobile,E3-1535MV5,Launched,2015,14.0,623.0,4.0,8.0,2.9,8.0,45.0,34.1,64,1,1,350
+438,Intel® Xeon® Processor E3 v5 Family,Mobile,E3-1545MV5,Launched,2016,14.0,679.0,4.0,8.0,2.9,8.0,45.0,34.1,64,1,1,350
+439,Intel® Xeon® Processor E3 v5 Family,Embedded,E3-1558LV5,Launched,2016,14.0,396.0,4.0,8.0,1.9,8.0,45.0,33.75999999999994,64,1,1,650
+440,Intel® Xeon® Processor E3 v5 Family,Server,E3-1565LV5,Launched,2016,14.0,417.0,4.0,8.0,2.5,8.0,35.0,34.09999999999994,64,1,1,350
+441,Intel® Xeon® Processor E3 v5 Family,Mobile,E3-1575MV5,Launched,2016,14.0,1207.0,4.0,8.0,3.0,8.0,45.0,34.1,64,1,1,350
+442,Intel® Xeon® Processor E3 v5 Family,Embedded,E3-1578LV5,Launched,2016,14.0,449.0,4.0,8.0,2.0,8.0,45.0,33.58999999999994,64,1,1,700
+443,Intel® Xeon® Processor E3 v5 Family,Server,E3-1585LV5,Launched,2016,14.0,445.0,4.0,8.0,3.0,8.0,45.0,34.09999999999994,64,1,1,350
+444,Intel® Xeon® Processor E3 v5 Family,Server,E3-1585V5,Launched,2016,14.0,556.0,4.0,8.0,3.5,8.0,65.0,36.019999999999975,64,1,1,350
+445,Intel® Xeon® Processor E3 v4 Family,Server,E3-1265LV4,Launched,2015,14.0,417.0,4.0,8.0,2.3,6.0,35.0,29.8,64,1,1,300
+446,Intel® Xeon® Processor E3 v4 Family,Embedded,E3-1278LV4,Launched,2015,14.0,449.0,4.0,8.0,2.0,6.0,47.0,25.6,64,1,1,800
+447,Intel® Xeon® Processor E3 v4 Family,Server,E3-1285V4,Launched,2015,14.0,556.0,4.0,8.0,3.5,6.0,95.0,29.8,64,1,1,300
+448,Intel® Xeon® Processor E3 v4 Family,Server,E3-1285LV4,Launched,2015,14.0,445.0,4.0,8.0,3.4,6.0,65.0,29.8,64,1,1,300
+449,Intel® Xeon® Processor E3 v3 Family,Server,E3-1220LV3,Launched,2013,22.0,306.16,2.0,4.0,1.1,4.0,13.0,25.6,64,1,1,0
+450,Intel® Xeon® Processor E3 v3 Family,Server,E3-1226V3,Launched,2014,22.0,218.5,4.0,4.0,3.3,8.0,84.0,25.6,64,0,1,350
+451,Intel® Xeon® Processor E3 v3 Family,Server,E3-1225V3,Launched,2013,22.0,218.5,4.0,4.0,3.2,8.0,84.0,25.6,64,0,1,350
+452,Intel® Xeon® Processor E3 v3 Family,Server,E3-1230Lv3,Launched,2013,22.0,250.0,4.0,8.0,1.8,8.0,25.0,25.6,64,1,1,0
+453,Intel® Xeon® Processor E3 v3 Family,Server,E3-1231V3,Launched,2014,22.0,245.0,4.0,8.0,3.4,8.0,80.0,25.6,64,1,1,0
+454,Intel® Xeon® Processor E3 v3 Family,Server,E3-1240LV3,Launched,2014,22.0,278.0,4.0,8.0,2.0,8.0,25.0,25.6,64,1,1,0
+455,Intel® Xeon® Processor E3 v3 Family,Server,E3-1241V3,Launched,2014,22.0,267.5,4.0,8.0,3.5,8.0,80.0,25.6,64,1,1,0
+456,Intel® Xeon® Processor E3 v3 Family,Server,E3-1246V3,Launched,2014,22.0,281.5,4.0,8.0,3.5,8.0,84.0,25.6,64,1,1,350
+457,Intel® Xeon® Processor E3 v3 Family,Server,E3-1265Lv3,Launched,2013,22.0,294.0,4.0,8.0,2.5,8.0,45.0,25.6,64,1,1,350
+458,Intel® Xeon® Processor E3 v3 Family,Server,E3-1271V3,Launched,2014,22.0,333.5,4.0,8.0,3.6,8.0,80.0,25.6,64,1,1,0
+459,Intel® Xeon® Processor E3 v3 Family,Embedded,E3-1268LV3,Launched,2013,22.0,377.0,4.0,8.0,2.3,8.0,45.0,25.6,64,1,1,350
+460,Intel® Xeon® Processor E3 v3 Family,Server,E3-1275LV3,Launched,2014,22.0,328.0,4.0,8.0,2.7,8.0,45.0,25.6,64,1,1,350
+461,Intel® Xeon® Processor E3 v3 Family,Server,E3-1276V3,Launched,2014,22.0,344.5,4.0,8.0,3.6,8.0,84.0,25.6,64,1,1,350
+462,Intel® Xeon® Processor E3 v3 Family,Server,E3-1281V3,Launched,2014,22.0,612.0,4.0,8.0,3.7,8.0,82.0,25.6,64,1,1,0
+463,Intel® Xeon® Processor E3 v2 Family,Embedded,E3-1105CV2,Launched,2013,22.0,389.0,4.0,8.0,1.8,8.0,25.0,25.6,64,1,1,0
+464,Intel® Xeon® Processor E3 v2 Family,Embedded,E3-1125CV2,Launched,2013,22.0,545.0,4.0,8.0,2.5,8.0,40.0,25.6,64,1,1,0
+465,Intel® Xeon® Processor E3 v2 Family,Server,E3-1225V2,Launched,2012,22.0,205.0,4.0,4.0,3.2,8.0,77.0,25.6,64,0,1,650
+466,Intel® Xeon® Processor E3 v2 Family,Server,E3-1275V2,Launched,2012,22.0,334.5,4.0,8.0,3.5,8.0,77.0,25.6,64,1,1,650
+467,Intel® Xeon® Processor E3 Family,Embedded,E3-1125C,Launched,2012,22.1,519.0,4.0,8.0,2.0,8.0,40.0,25.6,64,1,1,0
+468,Intel® Xeon® Processor D Family,Server,D-1518,Launched,2015,14.0,234.0,4.0,8.0,2.2,6.0,35.0,33.92999999999994,64,1,1,0
+469,Intel® Xeon® Processor D Family,Server,D-1520,Launched,2015,14.0,199.0,4.0,8.0,2.2,6.0,45.0,33.75999999999995,64,1,1,0
+470,Intel® Xeon® Processor D Family,Server,D-1521,Launched,2015,14.0,199.0,4.0,8.0,2.4,6.0,45.0,34.099999999999945,64,1,1,0
+471,Intel® Xeon® Processor D Family,Server,D-1523N,Launched,2017,14.0,256.0,4.0,8.0,2.0,6.0,45.0,33.84499999999994,64,1,1,0
+472,Intel® Xeon® Processor D Family,Server,D-1527,Launched,2015,14.0,259.0,4.0,8.0,2.2,6.0,35.0,33.37659999999995,64,1,1,0
+473,Intel® Xeon® Processor D Family,Server,D-1528,Launched,2015,14.0,389.0,6.0,12.0,1.9,9.0,35.0,50.92199999999996,64,1,1,0
+474,Intel® Xeon® Processor D Family,Server,D-1529,Launched,2016,14.0,324.0,4.0,8.0,1.3,6.0,20.0,32.64899999999996,64,1,1,0
+475,Intel® Xeon® Processor D Family,Server,D-1531,Launched,2015,14.0,348.0,6.0,12.0,2.2,9.0,45.0,49.56099999999996,64,1,1,0
+476,Intel® Xeon® Processor D Family,Server,D-1533N,Launched,2017,14.0,470.0,6.0,12.0,2.1,9.0,45.0,61.730000000000054,64,1,1,0
+477,Intel® Xeon® Processor D Family,Server,D-1537,Launched,2015,14.0,571.0,8.0,16.0,1.7,12.0,35.0,52.729000000000006,64,1,1,0
+478,Intel® Xeon® Processor D Family,Server,D-1539,Launched,2016,14.0,590.0,8.0,16.0,1.6,12.0,35.0,64.08800000000005,64,1,1,0
+479,Intel® Xeon® Processor D Family,Server,D-1540,Launched,2015,14.0,581.0,8.0,16.0,2.0,12.0,45.0,52.422000000000004,64,1,1,0
+480,Intel® Xeon® Processor D Family,Server,D-1541,Launched,2015,14.0,581.0,8.0,16.0,2.1,12.0,45.0,52.422000000000004,64,1,1,0
+481,Intel® Xeon® Processor D Family,Server,D-1543N,Launched,2017,14.0,652.0,8.0,16.0,1.9,12.0,45.0,64.63800000000009,64,1,1,0
+482,Intel® Xeon® Processor D Family,Server,D-1548,Launched,2015,14.0,675.0,8.0,16.0,2.0,12.0,45.0,53.074000000000005,64,1,1,0
+483,Intel® Xeon® Processor D Family,Server,D-1559,Launched,2016,14.0,883.0,12.0,24.0,1.5,18.0,45.0,66.64700000000005,64,1,1,0
+484,Intel® Xeon® Processor D Family,Server,D-1557,Launched,2016,14.0,844.0,12.0,24.0,1.5,18.0,45.0,66.64700000000005,64,1,1,0
+485,Intel® Xeon® Processor D Family,Server,D-1567,Launched,2016,14.0,1299.0,12.0,24.0,2.1,18.0,65.0,68.41500000000009,64,1,1,0
+486,Intel® Xeon® Processor D Family,Server,D-1553N,Launched,2017,14.0,855.0,8.0,16.0,2.3,12.0,65.0,64.38600000000008,64,1,1,0
+487,Intel® Xeon® Processor D Family,Server,D-1571,Launched,2016,14.0,1222.0,16.0,32.0,1.3,24.0,45.0,70.61400000000008,64,1,1,0
+488,Intel® Xeon® Processor D Family,Server,D-1577,Launched,2016,14.0,1477.0,16.0,32.0,1.3,24.0,45.0,70.86500000000007,64,1,1,0
+489,Legacy Intel® Xeon® Processors,Server,E5607,Launched,2011,32.0,277.5,4.0,4.0,2.26,8.0,80.0,25.6,64,0,1,0
+490,Legacy Intel® Xeon® Processors,Server,E5620,Launched,2010,32.0,380.0,4.0,8.0,2.4,12.0,80.0,25.6,64,1,1,0
+491,Legacy Intel® Xeon® Processors,Server,,Launched,2007,90.0,81.21,1.0,1.56,3.8,2.0,110.0,20.684000000000005,64,1,0,0
+492,Legacy Intel® Xeon® Processors,Server,,Launched,2007,90.0,81.21,1.0,1.56,3.8,2.0,110.0,20.684000000000005,64,1,0,0
+493,Legacy Intel® Xeon® Processors,Server,E5645,Launched,2010,32.0,539.5,6.0,12.0,2.4,12.0,80.0,32.0,64,1,1,0
+494,Legacy Intel® Xeon® Processors,Server,E5649,Launched,2011,32.0,775.5,6.0,12.0,2.53,12.0,80.0,32.0,64,1,1,0
+495,Legacy Intel® Xeon® Processors,Server,,Launched,2007,90.0,81.21,1.0,1.56,3.6,2.0,110.0,20.684000000000005,64,1,0,0
+496,Legacy Intel® Xeon® Processors,Server,,Launched,2007,90.0,81.21,1.0,1.56,3.6,2.0,110.0,20.684000000000005,64,1,0,0
+497,Legacy Intel® Xeon® Processors,Server,L5618,Launched,2010,32.0,437.0,4.0,8.0,1.87,12.0,40.0,35.501999999999946,64,1,1,0
+498,Legacy Intel® Xeon® Processors,Server,E5502,Launched,2009,45.0,291.86,2.0,2.0,1.86,4.0,80.0,19.2,64,0,1,0
+499,Legacy Intel® Xeon® Processors,Server,E5503,Launched,2010,45.0,295.24,2.0,2.0,2.0,4.0,80.0,19.2,64,0,1,0
+500,Legacy Intel® Xeon® Processors,Server,,Launched,2007,90.0,81.21,1.0,1.56,3.4,2.0,110.0,20.684000000000005,64,1,0,0
+501,Legacy Intel® Xeon® Processors,Server,E5504,Launched,2009,45.0,221.0,4.0,4.0,2.0,4.0,80.0,19.2,64,0,1,0
+502,Legacy Intel® Xeon® Processors,Server,L5638,Launched,2010,32.0,525.0,6.0,12.0,2.0,12.0,60.0,34.73999999999998,64,1,1,0
+503,Legacy Intel® Xeon® Processors,Server,E5506,Launched,2009,45.0,258.02,4.0,4.0,2.13,4.0,80.0,19.2,64,0,1,0
+504,Legacy Intel® Xeon® Processors,Server,E5507,Launched,2010,45.0,268.29,4.0,4.0,2.26,4.0,80.0,19.2,64,0,1,0
+505,Legacy Intel® Xeon® Processors,Server,E5220,Launched,2008,45.0,317.0,2.0,4.6,2.33,6.0,65.0,19.58000000000002,64,0,1,0
+506,Legacy Intel® Xeon® Processors,Server,E5440,Launched,2008,45.0,719.0,4.0,7.72,2.83,12.0,80.0,33.115999999999964,64,0,1,0
+507,Legacy Intel® Xeon® Processors,Server,,Launched,2007,130.0,92.99,1.0,1.76,2.0,0.5,58.0,18.77740000000001,32,1,0,0
+508,Legacy Intel® Xeon® Processors,Server,,Launched,2007,90.0,80.74,1.0,1.56,3.2,2.0,110.0,20.684000000000005,64,1,0,0
+509,Legacy Intel® Xeon® Processors,Server,E5520,Launched,2009,45.0,637.32,4.0,8.0,2.26,8.0,80.0,25.6,64,1,1,0
+510,Legacy Intel® Xeon® Processors,Embedded,E5240,Launched,2008,45.0,649.0,2.0,6.24,3.0,6.0,65.0,26.87999999999996,64,0,1,0
+511,Legacy Intel® Xeon® Processors,Server,E5530,Launched,2009,45.0,663.54,4.0,8.0,2.4,8.0,80.0,25.6,64,1,1,0
+512,Legacy Intel® Xeon® Processors,Server,E5540,Launched,2009,45.0,940.0,4.0,8.0,2.53,8.0,80.0,25.6,64,1,1,0
+513,Legacy Intel® Xeon® Processors,Server,L5506,Launched,2009,45.0,300.12,4.0,4.0,2.13,4.0,60.0,19.2,64,0,1,0
+514,Legacy Intel® Xeon® Processors,Server,L5215,Launched,2008,45.0,387.05,2.0,7.64,1.86,6.0,20.0,17.962,64,0,1,0
+515,Legacy Intel® Xeon® Processors,Embedded,L5408,Launched,2008,45.0,494.0,4.0,7.76,2.13,12.0,40.0,34.985999999999954,64,0,1,0
+516,Legacy Intel® Xeon® Processors,Server,5130,Launched,2006,65.0,460.33,2.0,3.02,2.0,4.0,65.0,25.321999999999953,64,0,1,0
+517,Legacy Intel® Xeon® Processors,Embedded,L5508,Launched,2009,45.0,403.0,2.0,4.0,2.0,8.0,38.0,25.6,64,1,1,0
+518,Legacy Intel® Xeon® Processors,Server,L5410,Launched,2008,45.0,372.0,4.0,6.44,2.33,12.0,50.0,34.095999999999954,64,0,1,0
+519,Legacy Intel® Xeon® Processors,Server,,Launched,2007,130.0,94.63,1.0,1.76,1.8,0.5,55.0,18.546000000000003,32,1,0,0
+520,Legacy Intel® Xeon® Processors,Server,5140,Launched,2006,65.0,478.0,2.0,2.7,2.33,4.0,65.0,25.343999999999955,64,0,1,0
+521,Legacy Intel® Xeon® Processors,Embedded,L5518,Launched,2009,45.0,504.0,4.0,8.0,2.13,8.0,60.0,25.6,64,1,1,0
+522,Legacy Intel® Xeon® Processors,Embedded,L5238,Launched,2008,45.0,560.0,2.0,6.28,2.66,6.0,35.0,26.30399999999996,64,0,1,0
+523,Legacy Intel® Xeon® Processors,Server,,Launched,2007,90.0,79.13,1.0,1.56,3.0,2.0,55.0,19.050000000000004,64,1,0,0
+524,Legacy Intel® Xeon® Processors,Server,L5520,Launched,2009,45.0,551.45,4.0,8.0,2.26,8.0,60.0,25.6,64,1,1,0
+525,Legacy Intel® Xeon® Processors,Server,L5240,Launched,2008,45.0,663.64,2.0,7.76,3.0,6.0,40.0,26.87999999999996,64,0,1,0
+526,Legacy Intel® Xeon® Processors,Server,E5345,Launched,2007,65.0,546.28,4.0,7.84,2.33,8.0,80.0,25.983999999999956,64,0,1,0
+527,Legacy Intel® Xeon® Processors,Server,X3430,Launched,2009,45.0,213.5,4.0,4.0,2.4,8.0,95.0,21.0,64,0,1,0
+528,Legacy Intel® Xeon® Processors,Server,L5530,Launched,2009,45.0,578.4,4.0,8.0,2.4,8.0,60.0,25.6,64,1,1,0
+529,Legacy Intel® Xeon® Processors,Server,5113,Launched,2006,65.0,438.11,2.0,3.72,1.6,4.0,40.0,25.087999999999955,64,0,1,0
+530,Legacy Intel® Xeon® Processors,Server,,Launched,2007,90.0,76.89,1.0,1.56,2.8,2.0,110.0,20.684000000000005,64,1,0,0
+531,Legacy Intel® Xeon® Processors,Embedded,EC5509,Launched,2010,45.0,286.0,4.0,4.0,2.0,8.0,85.0,19.698000000000018,64,0,1,0
+532,Legacy Intel® Xeon® Processors,Server,W5580,Launched,2009,45.0,429.42,4.0,8.0,3.2,8.0,130.0,32.0,64,1,1,0
+533,Legacy Intel® Xeon® Processors,Embedded,EC3539,Launched,2010,45.0,326.0,4.0,4.0,2.13,8.0,65.0,19.698000000000018,64,0,1,0
+534,Legacy Intel® Xeon® Processors,Embedded,EC5539,Launched,2010,45.0,417.0,2.0,2.0,2.27,4.0,65.0,25.15199999999996,64,0,1,0
+535,Legacy Intel® Xeon® Processors,Server,X3450,Launched,2009,45.0,249.0,4.0,8.0,2.66,8.0,95.0,21.0,64,1,1,0
+536,Legacy Intel® Xeon® Processors,Server,W5590,Launched,2009,45.0,397.9,4.0,8.0,3.33,8.0,130.0,32.0,64,1,1,0
+537,Legacy Intel® Xeon® Processors,Server,X5260,Launched,2007,45.0,513.6,2.0,7.76,3.33,6.0,80.0,27.263999999999964,64,0,1,0
+538,Legacy Intel® Xeon® Processors,Server,5128,Launched,2006,65.0,441.17,2.0,3.7,1.86,4.0,40.0,25.087999999999955,64,0,1,0
+539,Legacy Intel® Xeon® Processors,Embedded,LC3518,Launched,2010,45.0,221.0,1.0,1.0,1.73,2.0,23.0,17.846999999999994,64,0,1,0
+540,Legacy Intel® Xeon® Processors,Embedded,EC5549,Launched,2010,45.0,503.0,4.0,8.0,2.53,8.0,85.0,25.983999999999956,64,1,1,0
+541,Legacy Intel® Xeon® Processors,Server,X5550,Launched,2009,45.0,519.96,4.0,8.0,2.66,8.0,95.0,32.0,64,1,1,0
+542,Legacy Intel® Xeon® Processors,Server,X5270,Launched,2008,45.0,531.09,2.0,7.76,3.5,6.0,80.0,27.263999999999964,64,0,1,0
+543,Intel® Xeon® Processor W Family,Server,W-2195,Launched,2017,14.0,3471.37,18.0,36.0,2.3,24.75,140.0,85.3,64,1,1,0
+544,Intel® Xeon® Processor W Family,Server,W-2155,Launched,2017,14.0,1440.0,10.0,20.0,3.3,13.75,140.0,85.3,64,1,1,0
+545,Intel® Xeon® Processor W Family,Server,W-2145,Launched,2017,14.0,1113.0,8.0,16.0,3.7,11.0,140.0,85.3,64,1,1,0
+546,Intel® Xeon® Processor W Family,Server,W-2135,Launched,2017,14.0,835.0,6.0,12.0,3.7,8.25,140.0,85.3,64,1,1,0
+547,Intel® Xeon® Processor W Family,Server,W-2133,Launched,2017,14.0,617.0,6.0,12.0,3.6,8.25,140.0,85.3,64,1,1,0
+548,Intel® Xeon® Processor W Family,Server,W-2125,Launched,2017,14.0,444.0,4.0,8.0,4.0,8.25,120.0,85.3,64,1,1,0
+549,Intel® Xeon® Processor W Family,Server,W-2123,Launched,2017,14.0,294.0,4.0,8.0,3.6,8.25,120.0,85.3,64,1,1,0
+550,Legacy Intel® Xeon® Processors,Server,5133,Launched,2006,65.0,383.94,2.0,3.8,2.2,4.0,40.0,18.694999999999997,64,0,1,0
+551,Legacy Intel® Xeon® Processors,Embedded,LC3528,Launched,2010,45.0,326.0,2.0,4.0,1.73,4.0,35.0,18.273,64,1,1,0
+552,Legacy Intel® Xeon® Processors,Embedded,LC5518,Launched,2010,45.0,493.0,4.0,8.0,1.73,8.0,48.0,25.59999999999995,64,1,1,0
+553,Legacy Intel® Xeon® Processors,Server,X5560,Launched,2009,45.0,559.44,4.0,8.0,2.8,8.0,95.0,32.0,64,1,1,0
+554,Legacy Intel® Xeon® Processors,Embedded,L3014,Launched,2008,45.0,285.22,1.0,3.71,2.4,3.0,30.0,18.614999999999988,64,0,0,0
+555,Legacy Intel® Xeon® Processors,Server,5138,Launched,2006,65.0,494.0,2.0,3.54,2.13,4.0,35.0,25.40799999999995,64,0,1,0
+556,Legacy Intel® Xeon® Processors,Embedded,LC5528,Launched,2010,45.0,493.0,4.0,8.0,2.13,8.0,60.0,25.59999999999995,64,1,1,0
+557,Legacy Intel® Xeon® Processors,Server,X5570,Launched,2009,45.0,625.76,4.0,8.0,2.93,8.0,95.0,32.0,64,1,1,0
+558,Legacy Intel® Xeon® Processors,Server,5148,Launched,2006,65.0,382.93,2.0,3.8,2.33,4.0,40.0,18.874999999999993,64,0,1,0
+559,Legacy Intel® Xeon® Processors,Server,,Launched,2006,90.0,402.22,1.0,2.73,2.83,4.0,129.0,31.24299999999999,32,1,0,0
+560,Intel® Xeon Phi™ x200 Product Family,Server,7290,Launched,2016,14.0,3213.0,72.0,54.32,1.5,36.0,245.0,115.2,64,1,0,0
+561,Intel® Xeon Phi™ x200 Product Family,Server,7250F,Launched,2016,14.0,2591.0,68.0,54.12,1.4,34.0,230.0,115.2,64,1,0,0
+562,Intel® Xeon Phi™ x200 Product Family,Server,7250,Launched,2016,14.0,2436.0,68.0,54.12,1.4,34.0,215.0,115.2,64,1,0,0
+563,Intel® Xeon Phi™ x200 Product Family,Server,7230F,Launched,2016,14.0,2147.0,64.0,54.12,1.3,32.0,230.0,115.2,64,1,0,0
+564,Intel® Xeon Phi™ x200 Product Family,Server,7230,Launched,2016,14.0,1992.0,64.0,54.12,1.3,32.0,215.0,115.2,64,1,0,0
+565,Intel® Xeon Phi™ x200 Product Family,Server,7210F,Launched,2016,14.0,2036.0,64.0,54.12,1.3,32.0,230.0,102.0,64,1,0,0
+566,Intel® Xeon Phi™ x200 Product Family,Server,7210,Launched,2016,14.0,1881.0,64.0,54.12,1.3,32.0,215.0,102.0,64,1,0,0
+567,Intel® Itanium® Processor 9700 Series,Server,9750,Launched,2017,32.0,3750.0,4.0,8.0,2.53,32.0,170.0,81.16100000000007,64,1,1,0
+568,Intel® Itanium® Processor 9700 Series,Server,9740,Launched,2017,32.0,2650.0,8.0,16.0,2.13,24.0,170.0,81.29100000000008,64,1,1,0
+569,Intel® Itanium® Processor 9700 Series,Server,9720,Launched,2017,32.0,1350.0,4.0,8.0,1.73,20.0,130.0,80.70900000000009,64,1,1,0
+570,Intel® Itanium® Processor 9500 Series,Server,9540,Launched,2012,32.0,2650.0,8.0,16.0,2.13,24.0,170.0,59.69999999999989,64,1,1,0
+571,Intel® Itanium® Processor 9500 Series,Server,9550,Launched,2012,32.0,3750.0,4.0,8.0,2.4,32.0,170.0,65.6039999999999,64,1,1,0
+572,Intel® Itanium® Processor 9500 Series,Server,9560,Launched,2012,32.0,4650.0,8.0,16.0,2.53,32.0,170.0,66.5269999999999,64,1,1,0
+573,Intel® Xeon® Processor E7 v2 Family,Server,E7-2850V2,Launched,2014,22.0,2730.23,12.0,24.0,2.3,24.0,105.0,68.0,64,1,1,0
+574,Intel® Xeon® Processor E7 v3 Family,Server,E7-4809V3,Launched,2015,22.0,1223.0,8.0,16.0,2.0,20.0,115.0,85.0,64,1,1,0
+575,Intel® Xeon® Processor E7 v4 Family,Server,E7-4809V4,Launched,2016,14.0,1223.0,8.0,16.0,2.1,20.0,115.0,85.0,64,1,1,0
+576,Intel® Xeon® Scalable Processors,Server,3104,Launched,2017,14.0,218.0,6.0,6.0,1.7,8.25,85.0,56.35899999999992,64,0,1,0
+577,Intel® Celeron® Processor 1000 Series,Mobile,1000M,Launched,2013,22.0,75.0,2.0,2.0,1.8,2.0,35.0,25.6,64,0,1,650
+578,Intel® Celeron® Processor 2000 Series,Embedded,2000E,Launched,2014,22.0,86.0,2.0,2.0,2.2,2.0,37.0,25.6,64,0,1,400
+579,Intel® Pentium® Processor D Series,Server,D1507,Launched,2015,14.0,103.0,2.0,2.0,1.2,3.0,20.0,28.18999999999996,64,0,1,0
+580,Legacy Intel® Core™ Processors,Mobile,i7-2960XM,Launched,2011,32.0,651.93,4.0,8.0,2.7,8.0,55.0,25.6,64,1,1,650
+581,4th Generation Intel® Core™ i3 Processors,Mobile,i3-4030Y,Launched,2014,22.0,281.0,2.0,4.0,1.6,3.0,11.5,25.6,64,1,1,200
+582,4th Generation Intel® Core™ i7 Processors,Mobile,i7-4578U,Launched,2014,22.0,426.0,2.0,4.0,3.0,4.0,28.0,25.6,64,1,1,200
+583,5th Generation Intel® Core™ M Processors,Mobile,5Y10,Launched,2014,14.0,283.9,2.0,4.0,0.8,4.0,4.5,25.6,64,1,1,100
+584,5th Generation Intel® Core™ M Processors,Mobile,5Y10a,Launched,2014,14.0,283.9,2.0,4.0,0.8,4.0,4.5,25.6,64,1,1,100
+585,5th Generation Intel® Core™ i5 Processors,Mobile,i5-5200U,Launched,2015,14.0,281.0,2.0,4.0,2.2,3.0,15.0,25.6,64,1,1,300
+586,5th Generation Intel® Core™ i5 Processors,Mobile,i5-5250U,Launched,2015,14.0,315.0,2.0,4.0,1.6,3.0,15.0,25.6,64,1,1,300
+587,5th Generation Intel® Core™ i5 Processors,Mobile,i5-5257U,Launched,2015,14.0,315.0,2.0,4.0,2.7,3.0,28.0,25.6,64,1,1,300
+588,5th Generation Intel® Core™ i5 Processors,Mobile,i5-5287U,Launched,2015,14.0,315.0,2.0,4.0,2.9,3.0,28.0,25.6,64,1,1,300
+589,5th Generation Intel® Core™ i5 Processors,Mobile,i5-5300U,Launched,2015,14.0,281.0,2.0,4.0,2.3,3.0,15.0,25.6,64,1,1,300
+590,5th Generation Intel® Core™ i5 Processors,Mobile,i5-5350H,Launched,2015,14.0,289.0,2.0,4.0,3.1,4.0,47.0,25.6,64,1,1,300
+591,5th Generation Intel® Core™ i5 Processors,Mobile,i5-5350U,Launched,2015,14.0,315.0,2.0,4.0,1.8,3.0,15.0,25.6,64,1,1,300
+592,5th Generation Intel® Core™ i5 Processors,Desktop,i5-5575R,Launched,2015,14.0,244.0,4.0,4.0,2.8,4.0,65.0,29.86,64,0,1,300
+593,5th Generation Intel® Core™ i5 Processors,Desktop,i5-5675C,Launched,2015,14.0,276.5,4.0,4.0,3.1,4.0,65.0,25.6,64,1,1,300
+594,5th Generation Intel® Core™ i3 Processors,Mobile,i3-5005U,Launched,2015,14.0,275.0,2.0,4.0,2.0,3.0,15.0,25.6,64,1,1,300
+595,5th Generation Intel® Core™ i5 Processors,Desktop,i5-5675R,Launched,2015,14.0,265.0,4.0,4.0,3.1,4.0,65.0,29.86,64,1,1,300
+596,5th Generation Intel® Core™ i3 Processors,Mobile,i3-5010U,Launched,2015,14.0,281.0,2.0,4.0,2.1,3.0,15.0,25.6,64,1,1,300
+597,5th Generation Intel® Core™ i3 Processors,Mobile,i3-5015U,Launched,2015,14.0,275.0,2.0,4.0,2.1,3.0,15.0,25.6,64,1,1,300
+598,5th Generation Intel® Core™ i3 Processors,Mobile,i3-5020U,Launched,2015,14.0,281.0,2.0,4.0,2.2,3.0,15.0,25.6,64,1,1,300
+599,5th Generation Intel® Core™ i3 Processors,Mobile,i3-5157U,Launched,2015,14.0,315.0,2.0,4.0,2.5,3.0,28.0,25.6,64,1,1,300
+600,5th Generation Intel® Core™ M Processors,Mobile,5Y10c,Launched,2014,14.0,281.0,2.0,4.0,0.8,4.0,4.5,25.6,64,1,1,300
+601,5th Generation Intel® Core™ M Processors,Mobile,5Y31,Launched,2014,14.0,281.0,2.0,4.0,0.9,4.0,4.5,25.6,64,1,1,300
+602,5th Generation Intel® Core™ M Processors,Mobile,5Y51,Launched,2014,14.0,281.0,2.0,4.0,1.1,4.0,4.5,25.6,64,1,1,300
+603,5th Generation Intel® Core™ M Processors,Mobile,5Y70,Launched,2014,14.0,283.9,2.0,4.0,1.1,4.0,4.5,25.6,64,1,1,100
+604,5th Generation Intel® Core™ M Processors,Mobile,5Y71,Launched,2014,14.0,281.0,2.0,4.0,1.2,4.0,4.5,25.6,64,1,1,300
+605,4th Generation Intel® Core™ i7 Processors,Mobile,i7-4558U,Launched,2013,22.0,426.0,2.0,4.0,2.8,4.0,28.0,25.6,64,1,1,200
+606,4th Generation Intel® Core™ i7 Processors,Mobile,i7-4550U,Launched,2013,22.0,426.0,2.0,4.0,1.5,4.0,15.0,25.6,64,1,1,200
+607,4th Generation Intel® Core™ i7 Processors,Mobile,i7-4510U,Launched,2014,22.0,393.0,2.0,4.0,2.0,4.0,15.0,25.6,64,1,1,200
+608,4th Generation Intel® Core™ i7 Processors,Mobile,i7-4500U,Launched,2013,22.0,393.0,2.0,4.0,1.8,4.0,15.0,25.6,64,1,1,200
+609,4th Generation Intel® Core™ i7 Processors,Mobile,i7-4650U,Launched,2013,22.0,426.0,2.0,4.0,1.7,4.0,15.0,25.6,64,1,1,200
+610,4th Generation Intel® Core™ i7 Processors,Mobile,i7-4610Y,Launched,2013,22.0,393.0,2.0,4.0,1.7,4.0,11.5,25.6,64,1,1,200
+611,4th Generation Intel® Core™ i7 Processors,Mobile,i7-4610M,Launched,2014,22.0,265.24,2.0,4.0,3.0,4.0,37.0,25.6,64,1,1,400
+612,4th Generation Intel® Core™ i7 Processors,Mobile,i7-4600U,Launched,2013,22.0,393.0,2.0,4.0,2.1,4.0,15.0,25.6,64,1,1,200
+613,4th Generation Intel® Core™ i7 Processors,Mobile,i7-4600M,Launched,2013,22.0,346.0,2.0,4.0,2.9,4.0,37.0,25.6,64,1,1,400
+614,4th Generation Intel® Core™ i7 Processors,Desktop,i7-4790S,Launched,2014,22.0,307.5,4.0,8.0,3.2,8.0,65.0,25.6,64,1,1,350
+615,4th Generation Intel® Core™ i7 Processors,Embedded,i7-4770TE,Launched,2013,22.0,303.0,4.0,8.0,2.3,8.0,45.0,25.6,64,1,1,350
+616,4th Generation Intel® Core™ i7 Processors,Desktop,i7-4770S,Launched,2013,22.0,304.0,4.0,8.0,3.1,8.0,65.0,25.6,64,1,1,350
+617,4th Generation Intel® Core™ i7 Processors,Mobile,i7-4770HQ,Launched,2014,22.0,434.0,4.0,8.0,2.2,6.0,47.0,25.6,64,1,1,200
+618,4th Generation Intel® Core™ i7 Processors,Mobile,i7-4760HQ,Launched,2014,22.0,434.0,4.0,8.0,2.1,6.0,47.0,25.6,64,1,1,200
+619,4th Generation Intel® Core™ i7 Processors,Mobile,i7-4750HQ,Launched,2013,22.0,434.0,4.0,8.0,2.0,6.0,47.0,25.6,64,1,1,200
+620,4th Generation Intel® Core™ i7 Processors,Mobile,i7-4722HQ,Launched,2015,22.0,378.0,4.0,8.0,2.4,6.0,37.0,25.6,64,1,1,400
+621,4th Generation Intel® Core™ i7 Processors,Mobile,i7-4720HQ,Launched,2015,22.0,378.0,4.0,8.0,2.6,6.0,47.0,25.6,64,1,1,400
+622,4th Generation Intel® Core™ i7 Processors,Mobile,i7-4712MQ,Launched,2014,22.0,378.0,4.0,8.0,2.3,6.0,37.0,25.6,64,1,1,400
+623,4th Generation Intel® Core™ i7 Processors,Mobile,i7-4712HQ,Launched,2014,22.0,378.0,4.0,8.0,2.3,6.0,37.0,25.6,64,1,1,400
+624,4th Generation Intel® Core™ i7 Processors,Mobile,i7-4710MQ,Launched,2014,22.0,378.0,4.0,8.0,2.5,6.0,47.0,25.6,64,1,1,400
+625,4th Generation Intel® Core™ i7 Processors,Mobile,i7-4710HQ,Launched,2014,22.0,378.0,4.0,8.0,2.5,6.0,47.0,25.6,64,1,1,400
+626,4th Generation Intel® Core™ i7 Processors,Mobile,i7-4702MQ,Launched,2013,22.0,378.0,4.0,8.0,2.2,6.0,37.0,25.6,64,1,1,400
+627,4th Generation Intel® Core™ i7 Processors,Mobile,i7-4702HQ,Launched,2013,22.0,380.12,4.0,8.0,2.2,6.0,37.0,25.6,64,1,1,400
+628,4th Generation Intel® Core™ i7 Processors,Embedded,i7-4702EC,Launched,2014,22.0,459.0,4.0,8.0,2.0,8.0,27.0,25.6,64,1,1,0
+629,4th Generation Intel® Core™ i7 Processors,Mobile,i7-4700HQ,Launched,2013,22.0,378.0,4.0,8.0,2.4,6.0,47.0,25.6,64,1,1,400
+630,4th Generation Intel® Core™ i7 Processors,Mobile,i7-4700MQ,Launched,2013,22.0,378.0,4.0,8.0,2.4,6.0,47.0,25.6,64,1,1,400
+631,4th Generation Intel® Core™ i7 Processors,Embedded,i7-4700EQ,Launched,2013,22.0,378.0,4.0,8.0,2.4,6.0,47.0,25.6,64,1,1,400
+632,4th Generation Intel® Core™ i7 Processors,Embedded,i7-4700EC,Launched,2014,22.0,459.0,4.0,8.0,2.7,8.0,43.0,25.6,64,1,1,0
+633,4th Generation Intel® Core™ i7 Processors,Mobile,i7-4870HQ,Launched,2014,22.0,434.0,4.0,8.0,2.5,6.0,47.0,25.6,64,1,1,200
+634,4th Generation Intel® Core™ i7 Processors,Mobile,i7-4860HQ,Launched,2014,22.0,434.0,4.0,8.0,2.4,6.0,47.0,25.6,64,1,1,200
+635,4th Generation Intel® Core™ i7 Processors,Mobile,i7-4850HQ,Launched,2013,22.0,434.0,4.0,8.0,2.3,6.0,47.0,25.6,64,1,1,200
+636,4th Generation Intel® Core™ i7 Processors,Mobile,i7-4810MQ,Launched,2014,22.0,378.0,4.0,8.0,2.8,6.0,47.0,25.6,64,1,1,400
+637,4th Generation Intel® Core™ i7 Processors,Mobile,i7-4800MQ,Launched,2013,22.0,380.0,4.0,8.0,2.7,6.0,47.0,25.6,64,1,1,400
+638,4th Generation Intel® Core™ i7 Processors,Mobile,i7-4980HQ,Launched,2014,22.0,623.0,4.0,8.0,2.8,6.0,47.0,25.6,64,1,1,200
+639,4th Generation Intel® Core™ i7 Processors,Mobile,i7-4960HQ,Launched,2013,22.0,623.0,4.0,8.0,2.6,6.0,47.0,25.6,64,1,1,200
+640,4th Generation Intel® Core™ i7 Processors,Mobile,i7-4950HQ,Launched,2013,22.0,623.0,4.0,8.0,2.4,6.0,47.0,25.6,64,1,1,200
+641,4th Generation Intel® Core™ i7 Processors,Mobile,i7-4910MQ,Launched,2014,22.0,569.0,4.0,8.0,2.9,8.0,47.0,25.6,64,1,1,400
+642,4th Generation Intel® Core™ i7 Processors,Mobile,i7-4900MQ,Launched,2013,22.0,570.0,4.0,8.0,2.8,8.0,47.0,25.6,64,1,1,400
+643,4th Generation Intel® Core™ i5 Processors,Mobile,i5-4288U,Launched,2013,22.0,315.0,2.0,4.0,2.6,3.0,28.0,25.6,64,1,1,200
+644,4th Generation Intel® Core™ i5 Processors,Mobile,i5-4278U,Launched,2014,22.0,315.0,2.0,4.0,2.6,3.0,28.0,25.6,64,1,1,200
+645,4th Generation Intel® Core™ i5 Processors,Mobile,i5-4260U,Launched,2014,22.0,315.0,2.0,4.0,1.4,3.0,15.0,25.6,64,1,1,200
+646,4th Generation Intel® Core™ i5 Processors,Mobile,i5-4258U,Launched,2013,22.0,315.0,2.0,4.0,2.4,3.0,28.0,25.6,64,1,1,200
+647,4th Generation Intel® Core™ i5 Processors,Mobile,i5-4250U,Launched,2013,22.0,315.0,2.0,4.0,1.3,3.0,15.0,25.6,64,1,1,200
+648,4th Generation Intel® Core™ i5 Processors,Mobile,i5-4220Y,Launched,2014,22.0,281.0,2.0,4.0,1.6,3.0,11.5,25.6,64,1,1,200
+649,4th Generation Intel® Core™ i5 Processors,Mobile,i5-4210Y,Launched,2013,22.0,281.0,2.0,4.0,1.5,3.0,11.5,25.6,64,1,1,200
+650,4th Generation Intel® Core™ i5 Processors,Mobile,i5-4210U,Launched,2014,22.0,281.0,2.0,4.0,1.7,3.0,15.0,25.6,64,1,1,200
+651,4th Generation Intel® Core™ i5 Processors,Mobile,i5-4210M,Launched,2014,22.0,225.0,2.0,4.0,2.6,3.0,37.0,25.6,64,1,1,400
+652,4th Generation Intel® Core™ i5 Processors,Mobile,i5-4210H,Launched,2014,22.0,225.0,2.0,4.0,2.9,3.0,47.0,25.6,64,1,1,400
+653,4th Generation Intel® Core™ i5 Processors,Mobile,i5-4202Y,Launched,2013,22.0,281.0,2.0,4.0,1.6,3.0,11.5,25.6,64,1,1,200
+654,4th Generation Intel® Core™ i5 Processors,Mobile,i5-4200Y,Launched,2013,22.0,281.0,2.0,4.0,1.4,3.0,11.5,25.6,64,1,1,200
+655,4th Generation Intel® Core™ i5 Processors,Mobile,i5-4200U,Launched,2013,22.0,281.0,2.0,4.0,1.6,3.0,15.0,25.6,64,1,1,200
+656,4th Generation Intel® Core™ i5 Processors,Mobile,i5-4200M,Launched,2013,22.0,225.0,2.0,4.0,2.5,3.0,37.0,25.6,64,1,1,400
+657,4th Generation Intel® Core™ i5 Processors,Mobile,i5-4360U,Launched,2014,22.0,287.06,2.0,4.0,1.5,3.0,15.0,25.6,64,1,1,200
+658,4th Generation Intel® Core™ i5 Processors,Mobile,i5-4200H,Launched,2013,22.0,225.0,2.0,4.0,2.8,3.0,47.0,25.6,64,1,1,400
+659,4th Generation Intel® Core™ i5 Processors,Mobile,i5-4350U,Launched,2013,22.0,315.0,2.0,4.0,1.4,3.0,15.0,25.6,64,1,1,200
+660,4th Generation Intel® Core™ i5 Processors,Mobile,i5-4340M,Launched,2014,22.0,266.0,2.0,4.0,2.9,3.0,37.0,25.6,64,1,1,400
+661,4th Generation Intel® Core™ i5 Processors,Mobile,i5-4330M,Launched,2013,22.0,266.0,2.0,4.0,2.8,3.0,37.0,25.6,64,1,1,400
+662,4th Generation Intel® Core™ i5 Processors,Mobile,i5-4310U,Launched,2014,22.0,281.0,2.0,4.0,2.0,3.0,15.0,25.6,64,1,1,200
+663,4th Generation Intel® Core™ i5 Processors,Mobile,i5-4310M,Launched,2014,22.0,247.27,2.0,4.0,2.7,3.0,37.0,25.6,64,1,1,400
+664,4th Generation Intel® Core™ i5 Processors,Mobile,i5-4308U,Launched,2014,22.0,315.0,2.0,4.0,2.8,3.0,28.0,25.6,64,1,1,200
+665,4th Generation Intel® Core™ i5 Processors,Mobile,i5-4302Y,Launched,2013,22.0,281.0,2.0,4.0,1.6,3.0,11.5,25.6,64,1,1,200
+666,4th Generation Intel® Core™ i5 Processors,Mobile,i5-4300Y,Launched,2013,22.0,281.0,2.0,4.0,1.6,3.0,11.5,25.6,64,1,1,200
+667,4th Generation Intel® Core™ i5 Processors,Mobile,i5-4300U,Launched,2013,22.0,281.0,2.0,4.0,1.9,3.0,15.0,25.6,64,1,1,200
+668,4th Generation Intel® Core™ i5 Processors,Mobile,i5-4300M,Launched,2013,22.0,226.0,2.0,4.0,2.6,3.0,37.0,25.6,64,1,1,400
+669,4th Generation Intel® Core™ i5 Processors,Embedded,i5-4400E,Launched,2013,22.0,266.0,2.0,4.0,2.7,3.0,37.0,25.59999999999994,64,1,1,400
+670,4th Generation Intel® Core™ i5 Processors,Embedded,i5-4402E,Launched,2013,22.0,266.0,2.0,4.0,1.6,3.0,25.0,25.59999999999995,64,1,1,400
+671,4th Generation Intel® Core™ i5 Processors,Embedded,i5-4402EC,Launched,2014,22.0,324.0,2.0,4.0,2.5,4.0,27.0,25.6,64,1,1,0
+672,4th Generation Intel® Core™ i5 Processors,Embedded,i5-4410E,Launched,2014,22.0,266.0,2.0,4.0,2.9,3.0,37.0,25.6,64,1,1,400
+673,4th Generation Intel® Core™ i5 Processors,Embedded,i5-4422E,Launched,2014,22.0,266.0,2.0,4.0,1.8,3.0,25.0,25.6,64,1,1,400
+674,4th Generation Intel® Core™ i5 Processors,Desktop,i5-4590T,Launched,2014,22.0,192.0,4.0,4.0,2.0,6.0,35.0,25.6,64,0,1,350
+675,4th Generation Intel® Core™ i5 Processors,Desktop,i5-4590S,Launched,2014,22.0,197.0,4.0,4.0,3.0,6.0,65.0,25.6,64,0,1,350
+676,4th Generation Intel® Core™ i5 Processors,Embedded,i5-4570TE,Launched,2013,22.0,192.0,2.0,4.0,2.7,4.0,35.0,25.6,64,1,1,350
+677,4th Generation Intel® Core™ i5 Processors,Desktop,i5-4570S,Launched,2013,22.0,193.5,4.0,4.0,2.9,6.0,65.0,25.6,64,0,1,350
+678,4th Generation Intel® Core™ i3 Processors,Mobile,i3-4030U,Launched,2014,22.0,281.0,2.0,4.0,1.9,3.0,15.0,25.6,64,1,1,200
+679,4th Generation Intel® Core™ i3 Processors,Mobile,i3-4025U,Launched,2014,22.0,275.0,2.0,4.0,1.9,3.0,15.0,25.6,64,1,1,200
+680,4th Generation Intel® Core™ i3 Processors,Mobile,i3-4020Y,Launched,2013,22.0,281.0,2.0,4.0,1.5,3.0,11.5,25.6,64,1,1,200
+681,4th Generation Intel® Core™ i3 Processors,Mobile,i3-4012Y,Launched,2013,22.0,281.0,2.0,4.0,1.5,3.0,11.5,25.6,64,1,1,200
+682,4th Generation Intel® Core™ i3 Processors,Mobile,i3-4010Y,Launched,2013,22.0,281.0,2.0,4.0,1.3,3.0,11.5,25.6,64,1,1,200
+683,4th Generation Intel® Core™ i3 Processors,Mobile,i3-4010U,Launched,2013,22.0,281.0,2.0,4.0,1.7,3.0,15.0,25.6,64,1,1,200
+684,4th Generation Intel® Core™ i3 Processors,Mobile,i3-4005U,Launched,2013,22.0,275.0,2.0,4.0,1.7,3.0,15.0,25.6,64,1,1,200
+685,4th Generation Intel® Core™ i3 Processors,Mobile,i3-4000M,Launched,2013,22.0,225.0,2.0,4.0,2.4,3.0,37.0,25.6,64,1,1,400
+686,4th Generation Intel® Core™ i3 Processors,Mobile,i3-4158U,Launched,2013,22.0,315.0,2.0,4.0,2.0,3.0,28.0,25.6,64,1,1,200
+687,4th Generation Intel® Core™ i3 Processors,Mobile,i3-4120U,Launched,2014,22.0,281.0,2.0,4.0,2.0,3.0,15.0,25.6,64,1,1,200
+688,4th Generation Intel® Core™ i3 Processors,Embedded,i3-4112E,Launched,2014,22.0,225.0,2.0,4.0,1.8,3.0,25.0,25.6,64,1,1,400
+689,4th Generation Intel® Core™ i3 Processors,Mobile,i3-4110M,Launched,2014,22.0,225.0,2.0,4.0,2.6,3.0,37.0,25.6,64,1,1,400
+690,4th Generation Intel® Core™ i3 Processors,Embedded,i3-4110E,Launched,2014,22.0,225.0,2.0,4.0,2.6,3.0,37.0,25.6,64,1,1,400
+691,4th Generation Intel® Core™ i3 Processors,Embedded,i3-4102E,Launched,2013,22.0,225.0,2.0,4.0,1.6,3.0,25.0,25.6,64,1,1,400
+692,4th Generation Intel® Core™ i3 Processors,Mobile,i3-4100M,Launched,2013,22.0,225.0,2.0,4.0,2.5,3.0,37.0,25.6,64,1,1,400
+693,4th Generation Intel® Core™ i3 Processors,Mobile,i3-4100U,Launched,2013,22.0,281.0,2.0,4.0,1.8,3.0,15.0,25.6,64,1,1,200
+694,4th Generation Intel® Core™ i3 Processors,Embedded,i3-4100E,Launched,2013,22.0,225.0,2.0,4.0,2.4,3.0,37.0,25.6,64,1,1,400
+695,4th Generation Intel® Core™ i3 Processors,Desktop,i3-4360,Launched,2014,22.0,142.5,2.0,4.0,3.7,4.0,54.0,25.6,64,1,1,350
+696,4th Generation Intel® Core™ i3 Processors,Desktop,i3-4350T,Launched,2014,22.0,138.0,2.0,4.0,3.1,4.0,35.0,25.6,64,1,1,200
+697,4th Generation Intel® Core™ i3 Processors,Embedded,i3-4330TE,Launched,2013,22.0,122.0,2.0,4.0,2.4,4.0,35.0,25.6,64,1,1,350
+698,4th Generation Intel® Core™ i3 Processors,Embedded,i3-4340TE,Launched,2014,22.0,138.0,2.0,4.0,2.6,4.0,35.0,25.6,64,1,1,350
+699,4th Generation Intel® Core™ i3 Processors,Desktop,i3-4330,Launched,2013,22.0,142.5,2.0,4.0,3.5,4.0,54.0,25.6,64,1,1,350
+700,Legacy Intel® Core™ Processors,Embedded,i5-520E,Launched,2010,32.0,210.0,2.0,4.0,2.4,3.0,35.0,17.1,64,1,1,500
+701,Legacy Intel® Core™ Processors,Embedded,i7-620LE,Launched,2010,32.0,247.0,2.0,4.0,2.0,4.0,25.0,17.1,64,1,1,266
+702,Legacy Intel® Core™ Processors,Embedded,i7-620UE,Launched,2010,32.0,248.0,2.0,4.0,1.06,4.0,18.0,12.8,64,1,1,166
+703,Legacy Intel® Core™ Processors,Embedded,i3-2115C,Launched,2012,32.0,293.0,2.0,4.0,2.0,3.0,25.0,21.3,64,1,1,0
+704,Legacy Intel® Core™ Processors,Desktop,i3-2120,Launched,2011,32.0,115.0,2.0,4.0,3.3,3.0,65.0,21.0,64,1,1,850
+705,Legacy Intel® Core™ Processors,Mobile,i3-2310M,Launched,2011,32.0,194.98,2.0,4.0,2.1,3.0,35.0,21.3,64,1,1,650
+706,Legacy Intel® Core™ Processors,Embedded,i3-2310E,Launched,2011,32.0,187.0,2.0,4.0,2.1,3.0,35.0,21.3,64,1,1,650
+707,Legacy Intel® Core™ Processors,Mobile,i3-2312M,Launched,2011,32.0,194.98,2.0,4.0,2.1,3.0,35.0,21.3,64,1,1,650
+708,Legacy Intel® Core™ Processors,Mobile,i3-2328M,Launched,2012,32.0,194.78,2.0,4.0,2.2,3.0,35.0,21.3,64,1,1,650
+709,Legacy Intel® Core™ Processors,Mobile,i3-2330M,Launched,2011,32.0,194.64,2.0,4.0,2.2,3.0,35.0,21.3,64,1,1,650
+710,Legacy Intel® Core™ Processors,Mobile,i3-2330E,Launched,2011,32.0,187.0,2.0,4.0,2.2,3.0,35.0,21.3,64,1,1,650
+711,Legacy Intel® Core™ Processors,Embedded,i3-2340UE,Launched,2011,32.0,209.0,2.0,4.0,1.3,3.0,17.0,21.3,64,1,1,350
+712,Legacy Intel® Core™ Processors,Mobile,i3-2348M,Launched,2013,32.0,197.1,2.0,4.0,2.3,3.0,35.0,21.3,64,1,1,650
+713,Legacy Intel® Core™ Processors,Mobile,i3-2350M,Launched,2011,32.0,199.82,2.0,4.0,2.3,3.0,35.0,21.3,64,1,1,650
+714,Legacy Intel® Core™ Processors,Mobile,i3-2357M,Launched,2011,32.0,219.62,2.0,4.0,1.3,3.0,17.0,21.3,64,1,1,350
+715,Legacy Intel® Core™ Processors,Mobile,i3-2365M,Launched,2012,32.0,245.24,2.0,4.0,1.4,3.0,17.0,21.299999999999972,64,1,1,350
+716,Legacy Intel® Core™ Processors,Mobile,i3-2367M,Launched,2011,32.0,250.0,2.0,4.0,1.4,3.0,17.0,21.299999999999972,64,1,1,350
+717,Legacy Intel® Core™ Processors,Mobile,i3-2370M,Launched,2012,32.0,210.2,2.0,4.0,2.4,3.0,35.0,21.3,64,1,1,650
+718,Legacy Intel® Core™ Processors,Mobile,i3-2375M,Launched,2013,32.0,249.28,2.0,4.0,1.5,3.0,17.0,21.299999999999972,64,1,1,350
+719,Legacy Intel® Core™ Processors,Mobile,i3-2377M,Launched,2012,32.0,247.85,2.0,4.0,1.5,3.0,17.0,21.299999999999972,64,1,1,350
+720,Legacy Intel® Core™ Processors,Desktop,i5-2400,Launched,2011,32.0,174.0,4.0,4.0,3.1,6.0,95.0,21.0,64,0,1,850
+721,Legacy Intel® Core™ Processors,Mobile,i5-2410M,Launched,2011,32.0,199.82,2.0,4.0,2.3,3.0,35.0,21.3,64,1,1,650
+722,Legacy Intel® Core™ Processors,Mobile,i5-2430M,Launched,2011,32.0,211.71,2.0,4.0,2.4,3.0,35.0,21.3,64,1,1,650
+723,Legacy Intel® Core™ Processors,Mobile,i5-2450M,Launched,2012,32.0,237.36,2.0,4.0,2.5,3.0,35.0,21.3,64,1,1,650
+724,Legacy Intel® Core™ Processors,Mobile,i5-2435M,Launched,2011,32.0,211.71,2.0,4.0,2.4,3.0,35.0,21.3,64,1,1,650
+725,Legacy Intel® Core™ Processors,Mobile,i5-2467M,Launched,2011,32.0,226.37,2.0,4.0,1.6,3.0,17.0,21.3,64,1,1,350
+726,Legacy Intel® Core™ Processors,Mobile,i5-2510E,Launched,2011,32.0,236.0,2.0,4.0,2.5,3.0,35.0,21.3,64,1,1,650
+727,Legacy Intel® Core™ Processors,Embedded,i5-2515E,Launched,2011,32.0,250.0,2.0,4.0,2.5,3.0,35.0,21.3,64,1,1,650
+728,Legacy Intel® Core™ Processors,Mobile,i5-2520M,Launched,2011,32.0,241.63,2.0,4.0,2.5,3.0,35.0,21.3,64,1,1,650
+729,Legacy Intel® Core™ Processors,Mobile,i5-2540M,Launched,2011,32.0,269.0,2.0,4.0,2.6,3.0,35.0,21.3,64,1,1,650
+730,Legacy Intel® Core™ Processors,Mobile,i5-2537M,Launched,2011,32.0,221.67,2.0,4.0,1.4,3.0,17.0,21.3,64,1,1,350
+731,Legacy Intel® Core™ Processors,Desktop,i7-2600,Launched,2011,32.0,261.0,4.0,8.0,3.4,8.0,95.0,21.0,64,1,1,850
+732,Legacy Intel® Core™ Processors,Mobile,i5-2557M,Launched,2011,32.0,228.07,2.0,4.0,1.7,3.0,17.0,21.3,64,1,1,350
+733,Legacy Intel® Core™ Processors,Embedded,i7-2610UE,Launched,2011,32.0,280.0,2.0,4.0,1.5,4.0,17.0,21.34299999999998,64,1,1,350
+734,Legacy Intel® Core™ Processors,Mobile,i7-2617M,Launched,2011,32.0,273.11,2.0,4.0,1.5,4.0,17.0,21.3,64,1,1,350
+735,Legacy Intel® Core™ Processors,Mobile,i7-2620M,Launched,2011,32.0,226.67,2.0,4.0,2.7,4.0,35.0,21.3,64,1,1,650
+736,Legacy Intel® Core™ Processors,Mobile,i7-2630QM,Launched,2011,32.0,389.91,4.0,8.0,2.0,6.0,45.0,21.3,64,1,1,650
+737,Legacy Intel® Core™ Processors,Mobile,i7-2629M,Launched,2011,32.0,279.7,2.0,4.0,2.1,4.0,25.0,21.3,64,1,1,500
+738,Legacy Intel® Core™ Processors,Mobile,i7-2635QM,Launched,2011,32.0,389.91,4.0,8.0,2.0,6.0,45.0,21.3,64,1,1,650
+739,Legacy Intel® Core™ Processors,Mobile,i7-2637M,Launched,2011,32.0,273.46,2.0,4.0,1.7,4.0,17.0,21.3,64,1,1,350
+740,Legacy Intel® Core™ Processors,Mobile,i7-2640M,Launched,2011,32.0,233.25,2.0,4.0,2.8,4.0,35.0,21.3,64,1,1,650
+741,Legacy Intel® Core™ Processors,Mobile,i7-2649M,Launched,2011,32.0,281.71,2.0,4.0,2.3,4.0,25.0,21.3,64,1,1,500
+742,Legacy Intel® Core™ Processors,Embedded,i7-2655LE,Launched,2011,32.0,306.0,2.0,4.0,2.2,4.0,25.0,21.299999999999976,64,1,1,650
+743,Legacy Intel® Core™ Processors,Mobile,i7-2657M,Launched,2011,32.0,273.09,2.0,4.0,1.6,4.0,17.0,21.3,64,1,1,350
+744,Legacy Intel® Core™ Processors,Mobile,i7-2675QM,Launched,2011,32.0,385.3,4.0,8.0,2.2,6.0,45.0,21.3,64,1,1,650
+745,Legacy Intel® Core™ Processors,Mobile,i7-2670QM,Launched,2011,32.0,385.3,4.0,8.0,2.2,6.0,45.0,21.3,64,1,1,650
+746,Legacy Intel® Core™ Processors,Mobile,i7-2677M,Launched,2011,32.0,274.96,2.0,4.0,1.8,4.0,17.0,21.3,64,1,1,350
+747,Legacy Intel® Core™ Processors,Embedded,i7-2715QE,Launched,2011,32.0,295.0,4.0,8.0,2.1,6.0,45.0,21.67199999999998,64,1,1,650
+748,Legacy Intel® Core™ Processors,Mobile,i7-2710QE,Launched,2011,32.0,295.0,4.0,8.0,2.1,6.0,45.0,21.67199999999998,64,1,1,650
+749,Legacy Intel® Core™ Processors,Mobile,i7-2720QM,Launched,2011,32.0,406.07,4.0,8.0,2.2,6.0,45.0,25.6,64,1,1,650
+750,Legacy Intel® Core™ Processors,Mobile,i7-2760QM,Launched,2011,32.0,378.0,4.0,8.0,2.4,6.0,45.0,25.6,64,1,1,650
+751,Legacy Intel® Core™ Processors,Mobile,i7-2860QM,Launched,2011,32.0,568.0,4.0,8.0,2.5,8.0,45.0,25.6,64,1,1,650
+752,Legacy Intel® Core™ Processors,Mobile,i7-2820QM,Launched,2011,32.0,570.0,4.0,8.0,2.3,8.0,45.0,25.6,64,1,1,650
+753,Legacy Intel® Core™ Processors,Mobile,i3-3110M,Launched,2012,22.0,225.0,2.0,4.0,2.4,3.0,35.0,25.6,64,1,1,650
+754,Legacy Intel® Core™ Processors,Embedded,i3-3115C,Launched,2013,22.0,293.0,2.0,4.0,2.5,4.0,25.0,21.3,64,1,1,0
+755,Legacy Intel® Core™ Processors,Mobile,i3-3120M,Launched,2012,22.0,225.0,2.0,4.0,2.5,3.0,35.0,25.6,64,1,1,650
+756,Legacy Intel® Core™ Processors,Embedded,i3-3120ME,Launched,2012,22.0,199.0,2.0,4.0,2.4,3.0,35.0,25.6,64,1,1,650
+757,Legacy Intel® Core™ Processors,Mobile,i3-3130M,Launched,2013,22.0,224.62,2.0,4.0,2.6,3.0,35.0,25.6,64,1,1,650
+758,Legacy Intel® Core™ Processors,Mobile,i3-3217U,Launched,2012,22.0,225.0,2.0,4.0,1.8,3.0,17.0,25.6,64,1,1,350
+759,Legacy Intel® Core™ Processors,Embedded,i3-3217UE,Launched,2012,22.0,221.0,2.0,4.0,1.6,3.0,17.0,25.6,64,1,1,350
+760,Legacy Intel® Core™ Processors,Desktop,i3-3220,Launched,2012,22.0,114.5,2.0,4.0,3.3,3.0,55.0,25.6,64,1,1,650
+761,Legacy Intel® Core™ Processors,Desktop,i3-3220T,Launched,2012,22.0,117.0,2.0,4.0,2.8,3.0,35.0,25.6,64,1,1,650
+762,Legacy Intel® Core™ Processors,Mobile,i3-3227U,Launched,2013,22.0,225.0,2.0,4.0,1.9,3.0,17.0,25.6,64,1,1,350
+763,Legacy Intel® Core™ Processors,Desktop,i3-3240,Launched,2012,22.0,117.0,2.0,4.0,3.4,3.0,55.0,25.6,64,1,1,650
+764,Legacy Intel® Core™ Processors,Mobile,i3-3229Y,Launched,2013,22.0,286.1,2.0,4.0,1.4,3.0,13.0,25.6,64,1,1,350
+765,Legacy Intel® Core™ Processors,Desktop,i3-3240T,Launched,2012,22.0,117.0,2.0,4.0,2.9,3.0,35.0,25.6,64,1,1,650
+766,Legacy Intel® Core™ Processors,Desktop,i3-3250,Launched,2013,22.0,117.0,2.0,4.0,3.5,3.0,55.0,25.6,64,1,1,650
+767,Legacy Intel® Core™ Processors,Mobile,i5-3210M,Launched,2012,22.0,225.0,2.0,4.0,2.5,3.0,35.0,25.6,64,1,1,650
+768,Legacy Intel® Core™ Processors,Desktop,i3-3250T,Launched,2013,22.0,117.0,2.0,4.0,3.0,3.0,35.0,25.6,64,1,1,650
+769,Legacy Intel® Core™ Processors,Mobile,i5-3230M,Launched,2013,22.0,224.62,2.0,4.0,2.6,3.0,35.0,25.6,64,1,1,650
+770,Legacy Intel® Core™ Processors,Mobile,i5-3230M,Launched,2013,22.0,225.0,2.0,4.0,2.6,3.0,35.0,25.6,64,1,1,650
+771,Legacy Intel® Core™ Processors,Mobile,i5-3317U,Launched,2012,22.0,225.0,2.0,4.0,1.7,3.0,17.0,25.6,64,1,1,350
+772,Legacy Intel® Core™ Processors,Mobile,i5-3320M,Launched,2012,22.0,226.0,2.0,4.0,2.6,3.0,35.0,25.6,64,1,1,650
+773,Legacy Intel® Core™ Processors,Mobile,i5-3210M,Launched,2012,22.0,225.0,2.0,4.0,2.5,3.0,35.0,25.6,64,1,1,650
+774,Legacy Intel® Core™ Processors,Mobile,i5-3337U,Launched,2013,22.0,225.0,2.0,4.0,1.8,3.0,17.0,25.6,64,1,1,350
+775,Legacy Intel® Core™ Processors,Mobile,i5-3339Y,Launched,2013,22.0,281.0,2.0,4.0,1.5,3.0,13.0,25.6,64,1,1,350
+776,Legacy Intel® Core™ Processors,Mobile,i5-3340M,Launched,2013,22.0,226.0,2.0,4.0,2.7,3.0,35.0,25.6,64,1,1,650
+777,Legacy Intel® Core™ Processors,Mobile,i5-3360M,Launched,2012,22.0,267.5,2.0,4.0,2.8,3.0,35.0,25.6,64,1,1,650
+778,Legacy Intel® Core™ Processors,Mobile,i5-3427U,Launched,2012,22.0,225.0,2.0,4.0,1.8,3.0,17.0,25.6,64,1,1,350
+779,Legacy Intel® Core™ Processors,Mobile,i5-3380M,Launched,2013,22.0,267.5,2.0,4.0,2.9,3.0,35.0,25.6,64,1,1,650
+780,Legacy Intel® Core™ Processors,Mobile,i5-3437U,Launched,2013,22.0,226.55,2.0,4.0,1.9,3.0,17.0,25.6,64,1,1,650
+781,Legacy Intel® Core™ Processors,Mobile,i5-3439Y,Launched,2013,22.0,281.0,2.0,4.0,1.5,3.0,13.0,25.6,64,1,1,350
+782,Legacy Intel® Core™ Processors,Desktop,i5-3470,Launched,2012,22.0,189.5,4.0,4.0,3.2,6.0,77.0,25.6,64,0,1,650
+783,Legacy Intel® Core™ Processors,Desktop,i5-3550S,Launched,2012,22.0,197.0,4.0,4.0,3.0,6.0,65.0,25.6,64,0,1,650
+784,Legacy Intel® Core™ Processors,Embedded,i5-3610ME,Launched,2012,22.0,235.0,2.0,4.0,2.7,3.0,35.0,25.6,64,1,1,650
+785,Legacy Intel® Core™ Processors,Mobile,i7-3517U,Launched,2012,22.0,323.76,2.0,4.0,1.9,4.0,17.0,25.6,64,1,1,350
+786,Legacy Intel® Core™ Processors,Mobile,i7-3520M,Launched,2012,22.0,346.0,2.0,4.0,2.9,4.0,35.0,25.6,64,1,1,650
+787,Legacy Intel® Core™ Processors,Embedded,i7-3517UE,Launched,2012,22.0,280.0,2.0,4.0,1.7,4.0,17.0,25.6,64,1,1,350
+788,Legacy Intel® Core™ Processors,Mobile,i7-3537U,Launched,2013,22.0,346.0,2.0,4.0,2.0,4.0,17.0,25.6,64,1,1,350
+789,Legacy Intel® Core™ Processors,Mobile,i7-3540M,Launched,2013,22.0,346.0,2.0,4.0,3.0,4.0,35.0,25.6,64,1,1,650
+790,Legacy Intel® Core™ Processors,Embedded,i7-3555LE,Launched,2012,22.0,306.0,2.0,4.0,2.5,4.0,25.0,25.6,64,1,1,550
+791,Legacy Intel® Core™ Processors,Embedded,i7-3610QE,Launched,2012,22.0,335.0,4.0,8.0,2.3,6.0,45.0,25.6,64,1,1,650
+792,Legacy Intel® Core™ Processors,Mobile,i7-3610QM,Launched,2012,22.0,378.0,4.0,8.0,2.3,6.0,45.0,25.6,64,1,1,650
+793,Legacy Intel® Core™ Processors,Mobile,i7-3612QM,Launched,2012,22.0,378.0,4.0,8.0,2.1,6.0,35.0,25.6,64,1,1,650
+794,Legacy Intel® Core™ Processors,Embedded,i7-3612QE,Launched,2012,22.0,363.0,4.0,8.0,2.1,6.0,35.0,25.6,64,1,1,650
+795,Legacy Intel® Core™ Processors,Mobile,i7-3612QM,Launched,2012,22.0,378.0,4.0,8.0,2.1,6.0,35.0,25.6,64,1,1,650
+796,Legacy Intel® Core™ Processors,Embedded,i7-3615QE,Launched,2012,22.0,335.0,4.0,8.0,2.3,6.0,45.0,25.6,64,1,1,650
+797,Legacy Intel® Core™ Processors,Mobile,i7-3615QM,Launched,2012,22.0,378.0,4.0,8.0,2.3,6.0,45.0,25.6,64,1,1,650
+798,Legacy Intel® Core™ Processors,Mobile,i7-3630QM,Launched,2012,22.0,378.0,4.0,8.0,2.4,6.0,45.0,25.6,64,1,1,650
+799,Legacy Intel® Core™ Processors,Mobile,i7-3632QM,Launched,2012,22.0,378.0,4.0,8.0,2.2,6.0,35.0,25.6,64,1,1,650
+800,Legacy Intel® Core™ Processors,Mobile,i7-3632QM,Launched,2012,22.0,376.97,4.0,8.0,2.2,6.0,35.0,25.6,64,1,1,650
+801,Legacy Intel® Core™ Processors,Mobile,i7-3635QM,Launched,2012,22.0,371.32,4.0,8.0,2.4,6.0,45.0,25.6,64,1,1,650
+802,Legacy Intel® Core™ Processors,Mobile,i7-3667U,Launched,2012,22.0,346.0,2.0,4.0,2.0,4.0,17.0,25.6,64,1,1,350
+803,Legacy Intel® Core™ Processors,Mobile,i7-3687U,Launched,2013,22.0,346.0,2.0,4.0,2.1,4.0,17.0,25.6,64,1,1,350
+804,Legacy Intel® Core™ Processors,Mobile,i7-3689Y,Launched,2013,22.0,401.12,2.0,4.0,1.5,4.0,13.0,25.6,64,1,1,350
+805,Legacy Intel® Core™ Processors,Mobile,i7-3720QM,Launched,2012,22.0,378.0,4.0,8.0,2.6,6.0,45.0,25.6,64,1,1,650
+806,Legacy Intel® Core™ Processors,Mobile,i7-3740QM,Launched,2012,22.0,379.0,4.0,8.0,2.7,6.0,45.0,25.6,64,1,1,650
+807,Legacy Intel® Core™ Processors,Mobile,i7-3820QM,Launched,2012,22.0,568.0,4.0,8.0,2.7,8.0,45.0,25.6,64,1,1,650
+808,Legacy Intel® Core™ Processors,Mobile,i7-3840QM,Launched,2012,22.0,568.0,4.0,8.0,2.8,8.0,45.0,25.6,64,1,1,650
+809,Legacy Intel® Core™ Processors,Mobile,i7-2920XM,Launched,2011,32.0,639.01,4.0,8.0,2.5,8.0,55.0,25.6,64,1,1,650
+810,Intel® Pentium® Processor D Series,Server,D1508,Launched,2015,14.0,129.0,2.0,4.0,2.2,3.0,25.0,33.58999999999995,64,1,1,0
+811,Intel® Pentium® Processor D Series,Server,D1509,Launched,2015,14.0,156.0,2.0,2.0,1.5,3.0,19.0,28.48099999999996,64,0,1,0
+812,Intel® Pentium® Processor D Series,Server,D1517,Launched,2015,14.0,194.0,4.0,8.0,1.6,6.0,25.0,32.823999999999955,64,1,1,0
+813,Intel® Pentium® Processor D Series,Server,D1519,Launched,2016,14.0,200.0,4.0,8.0,1.5,6.0,25.0,33.11999999999996,64,1,1,0
+814,Intel® Pentium® Processor G Series,Desktop,G2030,Launched,2013,22.0,64.0,2.0,2.0,3.0,3.0,55.0,21.0,64,0,1,650
+815,Intel® Pentium® Processor G Series,Desktop,G2020T,Launched,2013,22.0,64.0,2.0,2.0,2.5,3.0,35.0,21.0,64,0,1,650
+816,Intel® Pentium® Processor G Series,Desktop,G2030T,Launched,2013,22.0,64.0,2.0,2.0,2.6,3.0,35.0,21.0,64,0,1,650
+817,Intel® Pentium® Processor G Series,Desktop,G2120,Launched,2012,22.0,73.5,2.0,2.0,3.1,3.0,55.0,25.6,64,0,1,650
+818,Intel® Pentium® Processor G Series,Desktop,G2130,Launched,2013,22.0,78.5,2.0,2.0,3.2,3.0,55.0,25.6,64,0,1,650
+819,Intel® Pentium® Processor G Series,Embedded,G4400TE,Launched,2015,14.0,64.0,2.0,2.0,2.4,3.0,35.0,34.1,64,0,1,350
+820,Intel® Pentium® Processor G Series,Desktop,G4400T,Launched,2015,14.0,64.0,2.0,2.0,2.9,3.0,35.0,34.1,64,0,1,350
+821,Intel® Pentium® Processor G Series,Desktop,G4400,Launched,2015,14.0,64.0,2.0,2.0,3.3,3.0,54.0,34.1,64,0,1,350
+822,Intel® Pentium® Processor G Series,Desktop,G4560,Launched,2017,14.0,64.0,2.0,4.0,3.5,3.0,54.0,34.74499999999996,64,1,1,350
+823,Intel® Pentium® Processor G Series,Desktop,G4520,Launched,2015,14.0,89.5,2.0,2.0,3.6,3.0,51.0,34.1,64,0,1,350
+824,Intel® Pentium® Processor G Series,Desktop,G4500,Launched,2015,14.0,78.5,2.0,2.0,3.5,3.0,51.0,34.1,64,0,1,350
+825,Intel® Pentium® Processor G Series,Desktop,G4500T,Launched,2015,14.0,75.0,2.0,2.0,3.0,3.0,35.0,34.1,64,0,1,350
+826,Intel® Pentium® Processor G Series,Desktop,G4560T,Launched,2017,14.0,64.0,2.0,4.0,2.9,3.0,35.0,34.74499999999996,64,1,1,350
+827,Intel® Pentium® Processor G Series,Desktop,G4620,Launched,2017,14.0,89.5,2.0,4.0,3.7,3.0,51.0,35.113999999999976,64,1,1,350
+828,Intel® Pentium® Processor G Series,Desktop,G4600,Launched,2017,14.0,78.5,2.0,4.0,3.6,3.0,51.0,35.07999999999997,64,1,1,350
+829,Intel® Pentium® Processor G Series,Desktop,G4600T,Launched,2017,14.0,75.0,2.0,4.0,3.0,3.0,35.0,34.916999999999966,64,1,1,350
+830,Intel® Pentium® Processor G Series,Embedded,G3320TE,Launched,2013,22.0,70.0,2.0,2.0,2.3,3.0,35.0,21.3,64,0,1,350
+831,Intel® Pentium® Processor G Series,Desktop,G3420,Launched,2013,22.0,78.5,2.0,2.0,3.2,3.0,53.0,25.6,64,0,1,350
+832,Intel® Celeron® Processor 2000 Series,Embedded,2002E,Launched,2014,22.0,86.0,2.0,2.0,1.5,2.0,25.0,25.6,64,0,1,400
+833,Intel® Celeron® Processor 2000 Series,Mobile,2950M,Launched,2013,22.0,75.0,2.0,2.0,2.0,2.0,37.0,25.6,64,0,1,400
+834,Intel® Celeron® Processor 2000 Series,Mobile,2955U,Launched,2013,22.0,107.0,2.0,2.0,1.4,2.0,15.0,25.6,64,0,1,200
+835,Intel® Celeron® Processor 2000 Series,Mobile,2957U,Launched,2013,22.0,107.0,2.0,2.0,1.4,2.0,15.0,25.6,64,0,1,200
+836,Intel® Celeron® Processor 2000 Series,Mobile,2970M,Launched,2014,22.0,75.0,2.0,2.0,2.2,2.0,37.0,25.6,64,0,1,400
+837,Intel® Celeron® Processor 2000 Series,Mobile,2961Y,Launched,2013,22.0,127.55,2.0,2.0,1.1,2.0,11.5,25.6,64,0,1,200
+838,Intel® Celeron® Processor 2000 Series,Mobile,2980U,Launched,2013,22.0,107.0,2.0,2.0,1.6,2.0,15.0,25.6,64,0,1,200
+839,Intel® Celeron® Processor 2000 Series,Mobile,2981U,Launched,2013,22.0,110.82,2.0,2.0,1.6,2.0,15.0,25.6,64,0,1,200
+840,Intel® Celeron® Processor 1000 Series,Mobile,1005M,Launched,2013,22.0,75.0,2.0,2.0,1.9,2.0,35.0,25.6,64,0,1,650
+841,Intel® Celeron® Processor 1000 Series,Mobile,1007U,Launched,2013,22.0,75.0,2.0,2.0,1.5,2.0,17.0,25.6,64,0,1,350
+842,Intel® Celeron® Processor 1000 Series,Mobile,1017U,Launched,2013,22.0,75.0,2.0,2.0,1.6,2.0,17.0,25.6,64,0,1,350
+843,Intel® Celeron® Processor 1000 Series,Mobile,1019Y,Launched,2013,22.0,100.96,2.0,2.0,1.0,2.0,10.0,25.6,64,0,1,350
+844,Intel® Celeron® Processor 1000 Series,Embedded,1020E,Launched,2013,22.0,76.0,2.0,2.0,2.2,2.0,35.0,25.6,64,0,1,650
+845,Intel® Celeron® Processor 1000 Series,Mobile,1020M,Launched,2013,22.0,75.0,2.0,2.0,2.1,2.0,35.0,25.6,64,0,1,650
+846,Intel® Celeron® Processor 1000 Series,Mobile,1037U,Launched,2013,22.0,120.7,2.0,2.0,1.8,2.0,17.0,25.6,64,0,1,350
+847,Intel® Celeron® Processor 1000 Series,Embedded,1047UE,Launched,2013,22.0,119.0,2.0,2.0,1.4,2.0,17.0,25.6,64,0,1,350
+848,Legacy Intel® Celeron® Processor,Mobile,807,Launched,2012,32.0,86.38,1.0,2.0,1.5,1.5,17.0,21.3,64,1,1,350
+849,Legacy Intel® Celeron® Processor,Mobile,B800,Launched,2011,32.0,75.1,2.0,2.0,1.5,2.0,35.0,21.3,64,0,1,650
+850,Legacy Intel® Celeron® Processor,Embedded,807UE,Launched,2011,32.0,98.0,1.0,1.0,1.0,1.0,10.0,17.434999999999977,64,0,1,350
+851,Legacy Intel® Celeron® Processor,Mobile,B810,Launched,2011,32.0,72.0,2.0,2.0,1.6,2.0,35.0,21.3,64,0,1,650
+852,Legacy Intel® Celeron® Processor,Embedded,827E,Launched,2011,32.0,89.0,1.0,1.0,1.4,1.5,17.0,21.3,64,0,1,350
+853,Legacy Intel® Celeron® Processor,Embedded,B810E,Launched,2011,32.0,72.0,2.0,2.0,1.6,2.0,35.0,21.3,64,0,1,650
+854,Legacy Intel® Celeron® Processor,Desktop,G540,Launched,2011,32.0,41.0,2.0,2.0,2.5,2.0,65.0,17.0,64,0,1,850
+855,Legacy Intel® Celeron® Processor,Mobile,B815,Launched,2012,32.0,73.11,2.0,2.0,1.6,2.0,35.0,21.3,64,0,1,650
+856,Legacy Intel® Celeron® Processor,Mobile,847,Launched,2011,32.0,134.0,2.0,2.06,1.1,2.0,17.0,21.3,64,0,1,350
+857,Legacy Intel® Celeron® Processor,Mobile,B820,Launched,2012,32.0,72.92,2.0,2.0,1.7,2.0,35.0,21.3,64,0,1,650
+858,Legacy Intel® Celeron® Processor,Embedded,847E,Launched,2011,32.0,111.0,2.0,2.0,1.1,2.0,17.0,21.3,64,0,1,350
+859,Legacy Intel® Celeron® Processor,Mobile,B830,Launched,2012,32.0,76.96,2.0,2.0,1.8,2.0,35.0,21.3,64,0,1,650
+860,Legacy Intel® Celeron® Processor,Mobile,857,Launched,2011,32.0,117.25,2.0,2.0,1.2,2.0,17.0,21.3,64,0,1,350
+861,Legacy Intel® Celeron® Processor,Mobile,867,Launched,2012,32.0,111.98,2.0,2.0,1.3,2.0,17.0,21.3,64,0,1,350
+862,Legacy Intel® Celeron® Processor,Mobile,B840,Launched,2011,32.0,86.0,2.0,2.0,1.9,2.0,35.0,21.3,64,0,1,650
+863,Legacy Intel® Celeron® Processor,Mobile,B710,Launched,2011,32.0,83.18,1.0,1.0,1.6,1.5,35.0,21.3,64,0,1,650
+864,Legacy Intel® Celeron® Processor,Mobile,877,Launched,2012,32.0,102.36,2.0,2.0,1.4,2.0,17.0,21.3,64,0,1,350
+865,Legacy Intel® Celeron® Processor,Mobile,B720,Launched,2012,32.0,83.27,1.0,1.0,1.7,1.5,35.0,21.3,64,0,1,650
+866,Legacy Intel® Celeron® Processor,Mobile,887,Launched,2012,32.0,85.14,2.0,2.0,1.5,2.0,17.0,21.3,64,0,1,350
+867,Legacy Intel® Celeron® Processor,Embedded,725C,Launched,2012,31.53,90.0,1.0,2.0,1.3,1.5,10.0,21.3,64,1,1,0
+868,Legacy Intel® Celeron® Processor,Desktop,G470,Launched,2013,32.0,37.0,1.0,2.0,2.0,1.5,35.0,17.0,64,1,1,650
+869,Legacy Intel® Celeron® Processor,Mobile,787,Launched,2011,32.0,105.37,1.0,1.0,1.3,1.5,17.0,21.3,64,0,1,350
+870,Legacy Intel® Celeron® Processor,Mobile,925,Launched,2011,45.0,78.94,1.0,1.51,2.3,1.0,35.0,20.385399999999976,64,0,0,0
+871,Legacy Intel® Celeron® Processor,Embedded,927UE,Launched,2013,22.0,95.0,1.0,1.0,1.5,1.0,17.0,25.6,64,0,1,350
+872,Legacy Intel® Celeron® Processor,Mobile,797,Launched,2012,32.0,95.23,1.0,1.0,1.4,1.5,17.0,21.3,64,0,1,350
+873,Legacy Intel® Celeron® Processor,Embedded,P1053,Launched,2010,45.0,153.0,1.0,2.0,1.33,2.0,30.0,17.778999999999993,64,1,1,0
+874,Intel® Xeon® Scalable Processors,Server,3106,Launched,2017,14.0,311.0,8.0,8.0,1.7,11.0,85.0,58.43099999999993,64,0,1,0
+875,Intel® Xeon® Scalable Processors,Server,4108,Launched,2017,14.0,422.0,8.0,16.0,1.8,11.0,85.0,63.85000000000005,64,1,1,0
+876,Intel® Xeon® Scalable Processors,Server,4109T,Launched,2017,14.0,501.0,8.0,16.0,2.0,11.0,70.0,64.28000000000009,64,1,1,0
+877,Intel® Xeon® Scalable Processors,Server,4110,Launched,2017,14.0,506.0,8.0,16.0,2.1,11.0,85.0,64.21800000000007,64,1,1,0
+878,Intel® Xeon® Scalable Processors,Server,4112,Launched,2017,14.0,478.0,4.0,8.0,2.6,8.25,85.0,61.97900000000006,64,1,1,0
+879,Intel® Xeon® Scalable Processors,Server,4114T,Launched,2017,14.0,773.0,10.0,20.0,2.2,13.75,85.0,66.17100000000009,64,1,1,0
+880,Intel® Xeon® Scalable Processors,Server,4114,Launched,2017,14.0,699.0,10.0,20.0,2.2,13.75,85.0,66.17100000000009,64,1,1,0
+881,Intel® Xeon® Scalable Processors,Server,4116,Launched,2017,14.0,1007.0,12.0,24.0,2.1,16.5,85.0,67.05500000000009,64,1,1,0
+882,Intel® Xeon® Scalable Processors,Server,4116T,Announced,2017,14.0,1095.92,12.0,24.0,2.1,16.5,85.0,67.2250000000001,64,1,1,0
+883,Intel® Xeon® Scalable Processors,Server,5115,Launched,2017,14.0,1221.0,10.0,20.0,2.4,13.75,85.0,66.45400000000008,64,1,1,0
+884,Intel® Xeon® Scalable Processors,Server,5118,Launched,2017,14.0,1273.0,12.0,24.0,2.3,16.5,105.0,77.28400000000008,64,1,1,0
+885,Intel® Xeon® Scalable Processors,Server,5119T,Announced,2017,14.0,1132.08,14.0,28.0,1.9,19.25,85.0,69.40200000000009,64,1,1,0
+886,Intel® Xeon® Scalable Processors,Server,5120,Launched,2017,14.0,1558.0,14.0,28.0,2.2,19.25,105.0,77.6450000000001,64,1,1,0
+887,Intel® Xeon® Scalable Processors,Server,5122,Launched,2017,14.0,1224.0,4.0,8.0,3.6,16.5,105.0,76.21400000000008,64,1,1,0
+888,Intel® Xeon® Scalable Processors,Server,5120T,Launched,2017,14.0,1727.0,14.0,28.0,2.2,19.25,105.0,77.6450000000001,64,1,1,0
+889,Intel® Xeon® Scalable Processors,Server,6126,Launched,2017,14.0,1776.0,12.0,24.0,2.6,19.25,125.0,83.13000000000011,64,1,1,0
+890,Intel® Xeon® Scalable Processors,Server,6126F,Launched,2017,14.0,1931.0,12.0,24.0,2.6,19.25,135.0,82.48600000000012,64,1,1,0
+891,Intel® Xeon® Scalable Processors,Server,6126T,Launched,2017,14.0,1865.0,12.0,24.0,2.6,19.25,125.0,83.13000000000011,64,1,1,0
+892,Intel® Xeon® Scalable Processors,Server,6128,Launched,2017,14.0,1694.0,6.0,12.0,3.4,19.25,115.0,83.68100000000008,64,1,1,0
+893,Intel® Xeon® Scalable Processors,Server,6130,Launched,2017,14.0,1897.0,16.0,32.0,2.1,22.0,125.0,82.6200000000001,64,1,1,0
+894,Intel® Xeon® Scalable Processors,Server,6130F,Launched,2017,14.0,2049.0,16.0,32.0,2.1,22.0,135.0,82.4740000000001,64,1,1,0
+895,Intel® Xeon® Scalable Processors,Server,6130T,Launched,2017,14.0,1988.0,16.0,32.0,2.1,22.0,125.0,82.78700000000009,64,1,1,0
+896,Intel® Xeon® Scalable Processors,Server,6132,Launched,2017,14.0,2111.0,14.0,28.0,2.6,19.25,140.0,83.9370000000001,64,1,1,0
+897,Intel® Xeon® Scalable Processors,Server,6134M,Launched,2017,14.0,5217.0,8.0,16.0,3.2,24.75,130.0,77.55000000000004,64,1,1,0
+898,Intel® Xeon® Scalable Processors,Server,6134,Launched,2017,14.0,2217.0,8.0,16.0,3.2,24.75,130.0,80.47000000000008,64,1,1,0
+899,Intel® Xeon® Scalable Processors,Server,6136,Launched,2017,14.0,2460.0,12.0,24.0,3.0,24.75,150.0,82.12500000000011,64,1,1,0
+900,Intel® Xeon® Scalable Processors,Server,6138,Launched,2017,14.0,2615.0,20.0,40.0,2.0,27.5,125.0,81.3120000000001,64,1,1,0
+901,Intel® Xeon® Scalable Processors,Server,6138F,Launched,2017,14.0,2767.0,20.0,40.0,2.0,27.5,135.0,80.4740000000001,64,1,1,0
+902,Intel® Xeon® Scalable Processors,Server,6138T,Launched,2017,14.0,2742.0,20.0,40.0,2.0,27.5,125.0,80.8840000000001,64,1,1,0
+903,Intel® Xeon® Scalable Processors,Server,6140,Launched,2017,14.0,2448.0,18.0,36.0,2.3,24.75,140.0,83.5820000000001,64,1,1,0
+904,Intel® Xeon® Scalable Processors,Server,6140M,Launched,2017,14.0,5448.0,18.0,36.0,2.3,24.75,140.0,81.14900000000006,64,1,1,0
+905,Intel® Xeon® Scalable Processors,Server,6142,Launched,2017,14.0,2949.0,16.0,32.0,2.6,22.0,150.0,82.52900000000011,64,1,1,0
+906,Intel® Xeon® Scalable Processors,Server,6142M,Launched,2017,14.0,5949.0,16.0,32.0,2.6,22.0,150.0,83.50500000000004,64,1,1,0
+907,Intel® Xeon® Scalable Processors,Server,6144,Launched,2017,14.0,2925.0,8.0,16.0,3.5,24.75,150.0,81.6790000000001,64,1,1,0
+908,Intel® Xeon® Scalable Processors,Server,6142F,Launched,2017,14.0,3101.0,16.0,32.0,2.6,22.0,160.0,82.6900000000001,64,1,1,0
+909,Intel® Xeon® Scalable Processors,Server,6146,Launched,2017,14.0,3286.0,12.0,24.0,3.2,24.75,165.0,82.58400000000009,64,1,1,0
+910,Intel® Xeon® Scalable Processors,Server,6148,Launched,2017,14.0,3075.0,20.0,40.0,2.4,27.5,150.0,82.3500000000001,64,1,1,0
+911,Intel® Xeon® Scalable Processors,Server,6148F,Launched,2017,14.0,3227.0,20.0,40.0,2.4,27.5,160.0,82.76300000000009,64,1,1,0
+912,Intel® Xeon® Scalable Processors,Server,6150,Launched,2017,14.0,3358.0,18.0,36.0,2.7,24.75,165.0,83.19400000000009,64,1,1,0
+913,Intel® Xeon® Scalable Processors,Server,6152,Launched,2017,14.0,3658.0,22.0,44.0,2.1,30.25,140.0,82.39000000000007,64,1,1,0
+914,Intel® Xeon® Scalable Processors,Server,6154,Launched,2017,14.0,3543.0,18.0,36.0,3.0,24.75,200.0,89.66300000000001,64,1,1,0
+915,Intel® Xeon® Scalable Processors,Server,8153,Launched,2017,14.0,3115.0,16.0,32.0,2.0,22.0,125.0,81.44300000000007,64,1,1,0
+916,Intel® Xeon® Scalable Processors,Server,8156,Launched,2017,14.0,7007.0,4.0,8.0,3.6,16.5,105.0,74.84600000000003,64,1,1,0
+917,Intel® Xeon® Scalable Processors,Server,8158,Launched,2017,14.0,7007.0,12.0,24.0,3.0,24.75,150.0,83.32600000000004,64,1,1,0
+918,Intel® Xeon® Scalable Processors,Server,8160,Launched,2017,14.0,4705.0,24.0,48.0,2.1,33.0,150.0,80.89400000000006,64,1,1,0
+919,Intel® Xeon® Scalable Processors,Server,8160F,Launched,2017,14.0,4856.0,24.0,48.0,2.1,33.0,160.0,80.97600000000007,64,1,1,0
+920,Intel® Xeon® Scalable Processors,Server,8160T,Launched,2017,14.0,4936.0,24.0,48.0,2.1,33.0,150.0,80.81200000000007,64,1,1,0
+921,Intel® Xeon® Scalable Processors,Server,8160M,Launched,2017,14.0,7704.0,24.0,48.0,2.1,33.0,150.0,82.19700000000005,64,1,1,0
+922,Intel® Xeon® Scalable Processors,Server,8164,Launched,2017,14.0,6117.0,26.0,52.0,2.0,35.75,150.0,90.51100000000001,64,1,1,0
+923,Intel® Xeon® Scalable Processors,Server,8168,Launched,2017,14.0,5890.0,24.0,48.0,2.7,33.0,205.0,88.805,64,1,1,0
+924,Intel® Xeon® Scalable Processors,Server,8170,Launched,2017,14.0,7408.0,26.0,52.0,2.1,35.75,165.0,90.83900000000001,64,1,1,0
+925,Intel® Xeon® Scalable Processors,Server,8170M,Launched,2017,14.0,10409.0,26.0,52.0,2.1,35.75,165.0,90.83900000000001,64,1,1,0
+926,Intel® Xeon® Scalable Processors,Server,8176,Launched,2017,14.0,8719.0,28.0,56.0,2.1,38.5,165.0,91.152,64,1,1,0
+927,Intel® Xeon® Scalable Processors,Server,8176F,Launched,2017,14.0,10188.92,28.0,56.0,2.1,38.5,173.0,91.152,64,1,1,0
+928,Intel® Xeon® Scalable Processors,Server,8176M,Launched,2017,14.0,11722.0,28.0,56.0,2.1,38.5,165.0,91.152,64,1,1,0
+929,Intel® Xeon® Scalable Processors,Server,8180,Launched,2017,14.0,10009.0,28.0,56.0,2.5,38.5,205.0,97.26799999999999,64,1,1,0
+930,Intel® Xeon® Scalable Processors,Server,8180M,Launched,2017,14.0,13011.0,28.0,56.0,2.5,38.5,205.0,97.26799999999999,64,1,1,0
+931,Intel® Xeon® Processor E7 v4 Family,Server,E7-4830V4,Launched,2016,14.0,2170.0,14.0,28.0,2.0,35.0,115.0,85.0,64,1,1,0
+932,Intel® Xeon® Processor E7 v4 Family,Server,E7-4820V4,Launched,2016,14.0,1502.0,10.0,20.0,2.0,25.0,115.0,85.0,64,1,1,0
+933,Intel® Xeon® Processor E7 v4 Family,Server,E7-4850V4,Launched,2016,14.0,3003.0,16.0,32.0,2.1,40.0,115.0,85.0,64,1,1,0
+934,Intel® Xeon® Processor E7 v4 Family,Server,E7-8860V4,Launched,2016,14.0,4061.0,18.0,36.0,2.2,45.0,140.0,85.0,64,1,1,0
+935,Intel® Xeon® Processor E7 v4 Family,Server,E7-8867V4,Launched,2016,14.0,4672.0,18.0,36.0,2.4,45.0,165.0,85.0,64,1,1,0
+936,Intel® Xeon® Processor E7 v4 Family,Server,E7-8870V4,Launched,2016,14.0,4672.0,20.0,40.0,2.1,50.0,140.0,85.0,64,1,1,0
+937,Intel® Xeon® Processor E7 v4 Family,Server,E7-8880V4,Launched,2016,14.0,5895.0,22.0,44.0,2.2,55.0,150.0,85.0,64,1,1,0
+938,Intel® Xeon® Processor E7 v4 Family,Server,E7-8890V4,Launched,2016,14.0,7174.0,24.0,48.0,2.2,60.0,165.0,85.0,64,1,1,0
+939,Intel® Xeon® Processor E7 v4 Family,Server,E7-8891V4,Launched,2016,14.0,6841.0,10.0,20.0,2.8,60.0,165.0,85.0,64,1,1,0
+940,Intel® Xeon® Processor E7 v4 Family,Server,E7-8893V4,Launched,2016,14.0,6841.0,4.0,8.0,3.2,60.0,140.0,85.0,64,1,1,0
+941,Intel® Xeon® Processor E7 v4 Family,Server,E7-8894V4,Launched,2017,14.0,8898.0,24.0,48.0,2.4,60.0,165.0,85.0,64,1,1,0
+942,Intel® Xeon® Processor E7 v3 Family,Server,E7-4830V3,Launched,2015,22.0,2170.0,12.0,24.0,2.1,30.0,115.0,85.0,64,1,1,0
+943,Intel® Xeon® Processor E7 v3 Family,Server,E7-4820V3,Launched,2015,22.0,1502.0,10.0,20.0,1.9,25.0,115.0,85.0,64,1,1,0
+944,Intel® Xeon® Processor E7 v3 Family,Server,E7-4850V3,Launched,2015,22.0,3003.0,14.0,28.0,2.2,35.0,115.0,85.0,64,1,1,0
+945,Intel® Xeon® Processor E7 v3 Family,Server,E7-8860V3,Launched,2015,22.0,4061.0,16.0,32.0,2.2,40.0,140.0,85.0,64,1,1,0
+946,Intel® Xeon® Processor E7 v3 Family,Server,E7-8867V3,Launched,2015,22.0,4672.0,16.0,32.0,2.5,45.0,165.0,85.0,64,1,1,0
+947,Intel® Xeon® Processor E7 v3 Family,Server,E7-8870V3,Launched,2015,22.0,4672.0,18.0,36.0,2.1,45.0,140.0,85.0,64,1,1,0
+948,Intel® Xeon® Processor E7 v3 Family,Server,E7-8880V3,Launched,2015,22.0,5895.0,18.0,36.0,2.3,45.0,150.0,85.0,64,1,1,0
+949,Intel® Xeon® Processor E7 v3 Family,Server,E7-8880LV3,Launched,2015,22.0,6063.0,18.0,36.0,2.0,45.0,115.0,85.0,64,1,1,0
+950,Intel® Xeon® Processor E7 v3 Family,Server,E7-8890V3,Launched,2015,22.0,7174.0,18.0,36.0,2.5,45.0,165.0,85.0,64,1,1,0
+951,Intel® Xeon® Processor E7 v3 Family,Server,E7-8891V3,Launched,2015,22.0,6841.0,10.0,20.0,2.8,45.0,165.0,85.0,64,1,1,0
+952,Intel® Xeon® Processor E7 v3 Family,Server,E7-8893V3,Launched,2015,22.0,6841.0,4.0,8.0,3.2,45.0,140.0,85.0,64,1,1,0
+953,Intel® Xeon® Processor E7 v2 Family,Server,E7-2870V2,Launched,2014,22.0,4227.0,15.0,30.0,2.3,30.0,130.0,85.0,64,1,1,0
+954,Intel® Xeon® Processor E7 v2 Family,Server,E7-2880V2,Launched,2014,22.0,5339.0,15.0,30.0,2.5,37.5,130.0,85.0,64,1,1,0
+955,Intel® Xeon® Processor E7 v2 Family,Server,E7-2890V2,Launched,2014,22.0,6451.0,15.0,30.0,2.8,37.5,155.0,85.0,64,1,1,0
+956,Intel® Xeon® Processor E7 v2 Family,Server,E7-4809V2,Launched,2014,22.0,1223.0,6.0,12.0,1.9,12.0,105.0,68.0,64,1,1,0
+957,Intel® Xeon® Processor E7 v2 Family,Server,E7-4820V2,Launched,2014,22.0,1446.0,8.0,16.0,2.0,16.0,105.0,68.0,64,1,1,0
+958,Intel® Xeon® Processor E7 v2 Family,Server,E7-4830V2,Launched,2014,22.0,2059.0,10.0,20.0,2.2,20.0,105.0,68.0,64,1,1,0
+959,Intel® Xeon® Processor E7 v2 Family,Server,E7-4850V2,Launched,2014,22.0,2837.0,12.0,24.0,2.3,24.0,105.0,68.0,64,1,1,0
+960,Intel® Xeon® Processor E7 v2 Family,Server,E7-4860V2,Launched,2014,22.0,3838.0,12.0,24.0,2.6,30.0,130.0,85.0,64,1,1,0
+961,Intel® Xeon® Processor E7 v2 Family,Server,E7-4870V2,Launched,2014,22.0,4394.0,15.0,30.0,2.3,30.0,130.0,85.0,64,1,1,0
+962,Intel® Xeon® Processor E7 v2 Family,Server,E7-4880V2,Launched,2014,22.0,5506.0,15.0,30.0,2.5,37.5,130.0,85.0,64,1,1,0
+963,Intel® Xeon® Processor E7 v2 Family,Server,E7-4890V2,Launched,2014,22.0,6619.0,15.0,30.0,2.8,37.5,155.0,85.0,64,1,1,0
+964,Intel® Xeon® Processor E7 v2 Family,Server,E7-8893V2,Launched,2014,22.0,6841.0,6.0,12.0,3.4,37.5,155.0,85.0,64,1,1,0
+965,Intel® Xeon® Processor E7 v2 Family,Server,E7-8891V2,Launched,2014,22.0,6841.0,10.0,20.0,3.2,37.5,155.0,85.0,64,1,1,0
+966,Intel® Xeon® Processor E7 v2 Family,Server,E7-8890V2,Launched,2014,22.0,6841.0,15.0,30.0,2.8,37.5,155.0,85.0,64,1,1,0
+967,Intel® Xeon® Processor E7 v2 Family,Server,E7-8880LV2,Launched,2014,22.0,5729.0,15.0,30.0,2.2,37.5,105.0,85.0,64,1,1,0
+968,Intel® Xeon® Processor E7 v2 Family,Server,E7-8880V2,Launched,2014,22.0,5729.0,15.0,30.0,2.5,37.5,130.0,85.0,64,1,1,0
+969,Intel® Xeon® Processor E7 v2 Family,Server,E7-8870V2,Launched,2014,22.0,4616.0,15.0,30.0,2.3,30.0,130.0,85.0,64,1,1,0
+970,Intel® Xeon® Processor E7 v2 Family,Server,E7-8857V2,Launched,2014,22.0,3838.0,12.0,12.0,3.0,30.0,130.0,85.0,64,0,1,0
+971,Intel® Xeon® Processor E7 v2 Family,Server,E7-8850V2,Launched,2014,22.0,3059.0,12.0,24.0,2.3,24.0,105.0,68.0,64,1,1,0
+972,5th Generation Intel® Core™ i7 Processors,Mobile,i7-5600U,Launched,2015,14.0,393.0,2.0,4.0,2.6,4.0,15.0,25.6,64,1,1,300
+973,5th Generation Intel® Core™ i7 Processors,Mobile,i7-5650U,Launched,2015,14.0,426.0,2.0,4.0,2.2,4.0,15.0,25.6,64,1,1,300
+974,5th Generation Intel® Core™ i7 Processors,Desktop,i7-5775C,Launched,2015,14.0,371.5,4.0,8.0,3.3,6.0,65.0,25.6,64,1,1,300
+975,5th Generation Intel® Core™ i7 Processors,Desktop,i7-5775R,Launched,2015,14.0,348.0,4.0,8.0,3.3,6.0,65.0,29.86,64,1,1,300
+976,5th Generation Intel® Core™ i7 Processors,Mobile,i7-5700HQ,Launched,2015,14.0,378.0,4.0,8.0,2.7,6.0,47.0,25.6,64,1,1,300
+977,5th Generation Intel® Core™ i7 Processors,Embedded,i7-5700EQ,Launched,2015,14.0,378.0,4.0,8.0,2.6,6.0,47.0,25.6,64,1,1,300
+978,5th Generation Intel® Core™ i7 Processors,Mobile,i7-5750HQ,Launched,2015,14.0,434.0,4.0,8.0,2.5,6.0,47.0,25.6,64,1,1,300
+979,5th Generation Intel® Core™ i7 Processors,Embedded,i7-5850EQ,Launched,2015,14.0,435.0,4.0,8.0,2.7,6.0,47.0,25.6,64,1,1,300
+980,5th Generation Intel® Core™ i7 Processors,Mobile,i7-5850HQ,Launched,2015,14.0,434.0,4.0,8.0,2.7,6.0,47.0,25.6,64,1,1,300
+981,5th Generation Intel® Core™ i7 Processors,Mobile,i7-5950HQ,Launched,2015,14.0,623.0,4.0,8.0,2.9,6.0,47.0,25.6,64,1,1,300
+982,5th Generation Intel® Core™ i7 Processors,Mobile,i7-5500U,Launched,2015,14.0,393.0,2.0,4.0,2.4,4.0,15.0,25.6,64,1,1,300
+983,6th Generation Intel® Core™ m Processors,Mobile,M3-6Y30,Launched,2015,14.0,281.0,2.0,4.0,0.9,4.0,4.5,29.8,64,1,1,300
+984,6th Generation Intel® Core™ i3 Processors,Desktop,i3-6098P,Launched,2015,14.0,117.0,2.0,4.0,3.6,3.0,54.0,34.1,64,1,1,350
+985,6th Generation Intel® Core™ i5 Processors,Mobile,i5-6287U,Launched,2015,14.0,304.0,2.0,4.0,3.1,4.0,28.0,34.1,64,1,1,300
+986,6th Generation Intel® Core™ i5 Processors,Mobile,i5-6267U,Launched,2015,14.0,304.0,2.0,4.0,2.9,4.0,28.0,34.1,64,1,1,300
+987,7th Generation Intel® Core™ m Processors,Mobile,M3-7Y30,Launched,2016,14.0,281.0,2.0,4.0,1.0,4.0,4.5,29.8,64,1,1,300
+988,7th Generation Intel® Core™ i3 Processors,Mobile,i3-7100H,Launched,2017,14.0,225.0,2.0,4.0,3.0,3.0,35.0,34.1,64,1,1,350
+989,7th Generation Intel® Core™ i3 Processors,Mobile,i3-7100U,Launched,2016,14.0,281.0,2.0,4.0,2.4,3.0,15.0,34.1,64,1,1,300
+990,7th Generation Intel® Core™ i3 Processors,Mobile,i3-7167U,Launched,2017,14.0,306.16,2.0,4.0,2.8,3.0,28.0,34.1,64,1,1,300
+991,7th Generation Intel® Core™ i3 Processors,Desktop,i3-7100,Launched,2017,14.0,117.0,2.0,4.0,3.9,3.0,51.0,34.16799999999994,64,1,1,350
+992,7th Generation Intel® Core™ i3 Processors,Embedded,i3-7100E,Launched,2017,14.0,225.0,2.0,4.0,2.9,3.0,35.0,34.1,64,1,1,350
+993,7th Generation Intel® Core™ i3 Processors,Desktop,i3-7100T,Launched,2017,14.0,117.0,2.0,4.0,3.4,3.0,35.0,34.09999999999994,64,1,1,350
+994,7th Generation Intel® Core™ i3 Processors,Desktop,i3-7101TE,Launched,2017,14.0,117.0,2.0,4.0,3.4,3.0,35.0,34.1,64,1,1,350
+995,7th Generation Intel® Core™ i3 Processors,Desktop,i3-7101E,Launched,2017,14.0,117.0,2.0,4.0,3.9,3.0,54.0,34.1,64,1,1,350
+996,7th Generation Intel® Core™ i3 Processors,Embedded,i3-7102E,Launched,2017,14.0,225.0,2.0,4.0,2.1,3.0,25.0,34.1,64,1,1,350
+997,7th Generation Intel® Core™ i3 Processors,Mobile,i3-7130U,Launched,2017,14.0,280.9,2.0,4.0,2.7,3.0,15.0,34.1,64,1,1,300
+998,7th Generation Intel® Core™ i3 Processors,Desktop,i3-7300T,Launched,2017,14.0,142.5,2.0,4.0,3.5,4.0,35.0,34.09999999999994,64,1,1,350
+999,7th Generation Intel® Core™ i3 Processors,Desktop,i3-7300,Launched,2017,14.0,142.5,2.0,4.0,4.0,4.0,51.0,34.16799999999994,64,1,1,350
+1000,7th Generation Intel® Core™ i3 Processors,Desktop,i3-7320,Launched,2017,14.0,153.0,2.0,4.0,4.1,4.0,51.0,34.16799999999994,64,1,1,350
+1001,7th Generation Intel® Core™ i3 Processors,Desktop,i3-7350K,Launched,2017,14.0,173.5,2.0,4.0,4.2,4.0,60.0,34.31339999999996,64,1,1,350
+1002,7th Generation Intel® Core™ m Processors,Mobile,M3-7Y32,Launched,2017,14.0,281.0,2.0,4.0,1.1,4.0,4.5,29.8,64,1,1,300
+1003,6th Generation Intel® Core™ i7 Processors,Mobile,i7-6500U,Launched,2015,14.0,393.0,2.0,4.0,2.5,4.0,15.0,34.1,64,1,1,300
+1004,6th Generation Intel® Core™ i7 Processors,Mobile,i7-6560U,Announced,2015,14.0,374.93,2.0,4.0,2.2,4.0,15.0,34.1,64,1,1,300
+1005,6th Generation Intel® Core™ i7 Processors,Mobile,i7-6567U,Announced,2015,14.0,300.85,2.0,4.0,3.3,4.0,28.0,34.1,64,1,1,300
+1006,6th Generation Intel® Core™ i7 Processors,Mobile,i7-6600U,Launched,2015,14.0,393.0,2.0,4.0,2.6,4.0,15.0,34.1,64,1,1,300
+1007,6th Generation Intel® Core™ i7 Processors,Mobile,i7-6650U,Launched,2015,14.0,415.0,2.0,4.0,2.2,4.0,15.0,34.1,64,1,1,300
+1008,6th Generation Intel® Core™ i7 Processors,Mobile,i7-6660U,Launched,2016,14.0,415.0,2.0,4.0,2.4,4.0,15.0,34.1,64,1,1,300
+1009,6th Generation Intel® Core™ i7 Processors,Mobile,i7-6700HQ,Launched,2015,14.0,378.0,4.0,8.0,2.6,6.0,45.0,34.1,64,1,1,350
+1010,6th Generation Intel® Core™ i7 Processors,Mobile,i7-6770HQ,Launched,2016,14.0,434.0,4.0,8.0,2.6,6.0,45.0,34.1,64,1,1,350
+1011,6th Generation Intel® Core™ i7 Processors,Desktop,i7-6700,Launched,2015,14.0,307.5,4.0,8.0,3.4,8.0,65.0,34.1,64,1,1,350
+1012,6th Generation Intel® Core™ i7 Processors,Embedded,i7-6700TE,Launched,2015,14.0,303.0,4.0,8.0,2.4,8.0,35.0,34.1,64,1,1,350
+1013,6th Generation Intel® Core™ i7 Processors,Desktop,i7-6700T,Launched,2015,14.0,303.0,4.0,8.0,2.8,8.0,35.0,34.1,64,1,1,350
+1014,6th Generation Intel® Core™ i7 Processors,Desktop,i7-6700K,Launched,2015,14.0,344.5,4.0,8.0,4.0,8.0,91.0,34.1,64,1,1,350
+1015,6th Generation Intel® Core™ i7 Processors,Embedded,i7-6820EQ,Launched,2015,14.0,378.0,4.0,8.0,2.8,8.0,45.0,34.1,64,1,1,350
+1016,6th Generation Intel® Core™ i7 Processors,Mobile,i7-6820HK,Launched,2015,14.0,378.0,4.0,8.0,2.7,8.0,45.0,34.1,64,1,1,350
+1017,6th Generation Intel® Core™ i7 Processors,Mobile,i7-6820HQ,Launched,2015,14.0,378.0,4.0,8.0,2.7,8.0,45.0,34.1,64,1,1,350
+1018,6th Generation Intel® Core™ i7 Processors,Embedded,i7-6822EQ,Launched,2015,14.0,378.0,4.0,8.0,2.0,8.0,25.0,34.1,64,1,1,350
+1019,6th Generation Intel® Core™ i7 Processors,Mobile,i7-6870HQ,Launched,2016,14.0,434.0,4.0,8.0,2.7,8.0,45.0,34.1,64,1,1,350
+1020,6th Generation Intel® Core™ i7 Processors,Mobile,i7-6920HQ,Launched,2015,14.0,568.0,4.0,8.0,2.9,8.0,45.0,34.1,64,1,1,350
+1021,6th Generation Intel® Core™ i7 Processors,Mobile,i7-6970HQ,Launched,2016,14.0,623.0,4.0,8.0,2.8,8.0,45.0,34.1,64,1,1,350
+1022,6th Generation Intel® Core™ i5 Processors,Mobile,i5-6260U,Launched,2015,14.0,304.0,2.0,4.0,1.8,4.0,15.0,34.1,64,1,1,300
+1023,6th Generation Intel® Core™ i5 Processors,Mobile,i5-6200U,Launched,2015,14.0,281.0,2.0,4.0,2.3,3.0,15.0,34.1,64,1,1,300
+1024,6th Generation Intel® Core™ i5 Processors,Mobile,i5-6300U,Launched,2015,14.0,281.0,2.0,4.0,2.4,3.0,15.0,34.1,64,1,1,300
+1025,6th Generation Intel® Core™ i5 Processors,Mobile,i5-6300HQ,Launched,2015,14.0,250.0,4.0,4.0,2.3,6.0,45.0,34.1,64,0,1,350
+1026,6th Generation Intel® Core™ i5 Processors,Mobile,i5-6350HQ,Launched,2016,14.0,306.0,4.0,4.0,2.3,6.0,45.0,34.1,64,0,1,350
+1027,6th Generation Intel® Core™ i5 Processors,Mobile,i5-6360U,Launched,2015,14.0,304.0,2.0,4.0,2.0,4.0,15.0,34.1,64,1,1,300
+1028,6th Generation Intel® Core™ i5 Processors,Embedded,i5-6442EQ,Launched,2015,14.0,250.0,4.0,4.0,1.9,6.0,25.0,34.1,64,0,1,350
+1029,6th Generation Intel® Core™ i5 Processors,Mobile,i5-6440HQ,Launched,2015,14.0,250.0,4.0,4.0,2.6,6.0,45.0,34.1,64,0,1,350
+1030,6th Generation Intel® Core™ i5 Processors,Embedded,i5-6440EQ,Launched,2015,14.0,250.0,4.0,4.0,2.7,6.0,45.0,34.1,64,0,1,350
+1031,6th Generation Intel® Core™ i5 Processors,Desktop,i5-6400T,Launched,2015,14.0,182.0,4.0,4.0,2.2,6.0,35.0,34.1,64,0,1,350
+1032,6th Generation Intel® Core™ i5 Processors,Desktop,i5-6400,Launched,2015,14.0,184.5,4.0,4.0,2.7,6.0,65.0,34.1,64,0,1,350
+1033,6th Generation Intel® Core™ i5 Processors,Desktop,i5-6402P,Launched,2015,14.0,184.5,4.0,4.0,2.8,6.0,65.0,34.1,64,0,1,350
+1034,6th Generation Intel® Core™ i5 Processors,Embedded,i5-6500TE,Launched,2015,14.0,192.0,4.0,4.0,2.3,6.0,35.0,34.1,64,0,1,350
+1035,6th Generation Intel® Core™ i5 Processors,Desktop,i5-6500T,Launched,2015,14.0,192.0,4.0,4.0,2.5,6.0,35.0,34.1,64,0,1,350
+1036,6th Generation Intel® Core™ i5 Processors,Desktop,i5-6500,Launched,2015,14.0,197.0,4.0,4.0,3.2,6.0,65.0,34.1,64,0,1,350
+1037,6th Generation Intel® Core™ i5 Processors,Desktop,i5-6600T,Launched,2015,14.0,213.0,4.0,4.0,2.7,6.0,35.0,34.1,64,0,1,350
+1038,6th Generation Intel® Core™ i5 Processors,Desktop,i5-6600K,Launched,2015,14.0,242.5,4.0,4.0,3.5,6.0,91.0,34.1,64,0,1,350
+1039,6th Generation Intel® Core™ i5 Processors,Desktop,i5-6600,Launched,2015,14.0,218.5,4.0,4.0,3.3,6.0,65.0,34.1,64,0,1,350
+1040,6th Generation Intel® Core™ i3 Processors,Mobile,i3-6006U,Launched,2016,14.0,281.0,2.0,4.0,2.0,3.0,15.0,34.1,64,1,1,300
+1041,6th Generation Intel® Core™ i3 Processors,Embedded,i3-6100TE,Launched,2015,14.0,117.0,2.0,4.0,2.7,4.0,35.0,34.1,64,1,1,350
+1042,6th Generation Intel® Core™ i3 Processors,Desktop,i3-6100T,Launched,2015,14.0,117.0,2.0,4.0,3.2,3.0,35.0,34.1,64,1,1,350
+1043,6th Generation Intel® Core™ i3 Processors,Desktop,i3-6100,Launched,2015,14.0,117.0,2.0,4.0,3.7,3.0,51.0,34.1,64,1,1,350
+1044,6th Generation Intel® Core™ i3 Processors,Mobile,i3-6167U,Launched,2015,14.0,304.0,2.0,4.0,2.7,3.0,28.0,34.1,64,1,1,300
+1045,6th Generation Intel® Core™ i3 Processors,Mobile,i3-6157U,Launched,2016,14.0,304.0,2.0,4.0,2.4,3.0,28.0,34.1,64,1,1,300
+1046,6th Generation Intel® Core™ i3 Processors,Embedded,i3-6102E,Launched,2015,14.0,225.0,2.0,4.0,1.9,3.0,25.0,34.1,64,1,1,350
+1047,6th Generation Intel® Core™ i3 Processors,Mobile,i3-6100U,Launched,2015,14.0,281.0,2.0,4.0,2.3,3.0,15.0,34.1,64,1,1,300
+1048,6th Generation Intel® Core™ i3 Processors,Mobile,i3-6100H,Launched,2015,14.0,225.0,2.0,4.0,2.7,3.0,35.0,34.1,64,1,1,350
+1049,6th Generation Intel® Core™ i3 Processors,Desktop,i3-6320,Launched,2015,14.0,153.0,2.0,4.0,3.9,4.0,51.0,34.1,64,1,1,350
+1050,6th Generation Intel® Core™ i3 Processors,Desktop,i3-6300T,Launched,2015,14.0,142.5,2.0,4.0,3.3,4.0,35.0,34.1,64,1,1,350
+1051,6th Generation Intel® Core™ i3 Processors,Embedded,i3-6100E,Launched,2015,14.0,225.0,2.0,4.0,2.7,3.0,35.0,34.1,64,1,1,350
+1052,6th Generation Intel® Core™ i3 Processors,Desktop,i3-6300,Launched,2015,14.0,142.5,2.0,4.0,3.8,4.0,51.0,34.1,64,1,1,350
+1053,6th Generation Intel® Core™ m Processors,Mobile,M5-6Y54,Launched,2015,14.0,281.0,2.0,4.0,1.1,4.0,4.5,29.8,64,1,1,300
+1054,6th Generation Intel® Core™ m Processors,Mobile,M5-6Y57,Launched,2015,14.0,281.0,2.0,4.0,1.1,4.0,4.5,29.8,64,1,1,300
+1055,6th Generation Intel® Core™ m Processors,Mobile,M7-6Y75,Launched,2015,14.0,393.0,2.0,4.0,1.2,4.0,4.5,29.8,64,1,1,300
+1056,5th Generation Intel® Core™ i7 Processors,Mobile,i7-5550U,Launched,2015,14.0,426.0,2.0,4.0,2.0,4.0,15.0,25.6,64,1,1,300
+1057,5th Generation Intel® Core™ i7 Processors,Mobile,i7-5557U,Launched,2015,14.0,426.0,2.0,4.0,3.1,4.0,28.0,25.6,64,1,1,300
